@@ -1,0 +1,326 @@
+<lido:lido xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org         http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd"><lido:lidoRecID lido:source="Albertina" lido:type="http://terminology.lido-schema.org/lido00100">gnd2012512-4/lido/tms_331044</lido:lidoRecID><lido:objectPublishedID lido:source="Albertina" lido:type="http://terminology.lido-schema.org/lido00100">gnd2012512-4/object/DG2012/128/6</lido:objectPublishedID><lido:descriptiveMetadata xml:lang="de">
+         <lido:objectClassificationWrap>
+            <lido:objectWorkTypeWrap>
+               <lido:objectWorkType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://vocab.getty.edu/aat">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+                  <lido:term>Druckgraphik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Druckgraphik</lido:term>
+               </lido:objectWorkType>
+            </lido:objectWorkTypeWrap>
+         </lido:objectClassificationWrap>
+         <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+               <lido:titleSet>
+                  <lido:appellationValue lido:pref="preferred">Theuerdank: Bild 6 - Königin Ehrenreich sendet einen Boten zu Theuerdank</lido:appellationValue>
+               </lido:titleSet>
+            </lido:titleWrap>
+            <lido:repositoryWrap>
+               <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+                  <lido:repositoryName>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">http://d-nb.info/gnd/2012512-4</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Albertina</lido:appellationValue>
+                        <lido:appellationValue>Wien, Albertina</lido:appellationValue>
+                     </lido:legalBodyName>
+                     <lido:legalBodyWeblink>http://www.albertina.at</lido:legalBodyWeblink>
+                  </lido:repositoryName>
+                  <lido:workID lido:type="Inventarnummer">DG2012/128/6</lido:workID>
+                  <lido:repositoryLocation>
+                     <lido:placeID lido:source="http://vocab.getty.edu/tgn/" lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/tgn/7003030</lido:placeID>
+                     <lido:placeID lido:source="http://sws.geonames.org/" lido:type="http://terminology.lido-schema.org/lido00099">http://sws.geonames.org/2761367/</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Wien</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:repositoryLocation>
+               </lido:repositorySet>
+            </lido:repositoryWrap>
+            <lido:objectMeasurementsWrap>
+               <lido:objectMeasurementsSet>
+                  <lido:displayObjectMeasurements>Blatt: 34,7 x 24,3 cm Platte: 16 x 13,9 cm Andere (Band): 35,5 x 25,5 x 6,4 cm (14 x 10 1/16 x 2 1/2 in.)</lido:displayObjectMeasurements>
+               </lido:objectMeasurementsSet>
+            </lido:objectMeasurementsWrap>
+         </lido:objectIdentificationWrap>
+         <lido:eventWrap>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:source="http://terminology.lido-schema.org/eventType" lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00484</lido:conceptID>
+                     <lido:term xml:lang="en">Expression Creation</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor>
+                     <lido:actorInRole>
+                        <lido:actor lido:type="http://terminology.lido-schema.org/lido00163">
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/119383330</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Beck, Leonhard</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Böck, Lienhard</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Leonhard Beck</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Lienhard Böck,</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1480</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1542</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:term>Künstler_in</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:date>
+                        <lido:earliestDate>1517</lido:earliestDate>
+                        <lido:latestDate>1517</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventMaterialsTech>
+                     <lido:displayMaterialsTech>Holzschnitt</lido:displayMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300053296</lido:conceptID>
+                           <lido:term>Holzschnitt</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Holzschnitt (Druckverfahren)</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:source="http://terminology.lido-schema.org/eventType" lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00486</lido:conceptID>
+                     <lido:term xml:lang="en">Work conception</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor>
+                     <lido:actorInRole>
+                        <lido:actor lido:type="http://terminology.lido-schema.org/lido00163">
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/100745628</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Pfintzing, Melchior</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Pfinzing, Melchior</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Melchior, Pfinzing</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Melchior, Pfintzing</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Pfinzing von Hensenfeld, Melchior</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Hensenfeld, Melchior Pfinzing von</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Pfinczig, Melchior</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Pfinzing von Henfenfeld, Melchior</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Pfinzing von Henffenfeld, Melchior</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Melchior Pfinzing</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Melchior Pfintzing</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1481-11-25</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1535-11-24</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:term>Verfasser_in</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventActor>
+                     <lido:actorInRole>
+                        <lido:actor lido:type="http://terminology.lido-schema.org/lido00163">
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/11915708X</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Treitzsaurwein, Marx</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Treitzsaurwein, Marcus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Marx, Treitzsaurwein</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Treitz-Sauerwein, Marx</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Treytz-Saurwein, Marcus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Treitz-Saurwein von Ehrentreitz, Marx</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Marcus, Treitzsaurwein</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Marx, Treytz-Saurwein</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Marcus, Treytz-Saurwein</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Treytz-Saurwein, Marx</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Saurwein, Marx Treytz-</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Saurwein, Marcus Treytz-</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Treytzsaurwein, Marx</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Treytzsaurwein, Marcus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Treitzsauerwein von Ehrentreitz, Marx</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Marx Treitzsaurwein von Ehrentreitz</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Marcus Treitzsaurwein</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Marx Treytzsaurwein</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1450</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1527</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:term>Verfasser_in</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventActor>
+                     <lido:actorInRole>
+                        <lido:actor lido:type="http://terminology.lido-schema.org/lido00163">
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/118579371</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Maximilian I., Heiliges Römisches Reich, Kaiser</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilian I., Kaiser</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilian I., Germany, Emperor</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilien I., Allemagne, Empereur</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilien I., Autriche, Archiduc</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilianus I., Germania, Imperator</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilianus I., Imperium Romano-Germanicum, Imperator</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilianus I., Heiliges Römisches Reich, Kaiser</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilian, von Habsburg</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Habsburg, Maximilian von</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilian I., Imperator</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilianus I., Imperator</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilian I., Germania, Imperator</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilien, Allemagne, Roi</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilien, Allemagne, Empereur</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilianus I., Imperium Romanum, Imperator</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilian, Österreich, Erzherzog, 1459-1519</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilian, Böhmen, König</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilian I., Kaiser</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilian I. Kaiser</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Kaiser Maximilian I.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilian I. Römisch-deutscher Kaiser</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilien, Autriche, Duc</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilien, d'Autriche</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilian I, Emperor of the Roman-German Empire</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilianus I, Empereur de l'Empire Romain-Germanique</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilianus I, Emperor of the Roman-German Empire</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilian I, Kaiser des Römisch-Deutschen Reichs</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilianus I, Kaiser des Römisch-Deutschen Reichs</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilian I, Römisch-Deutsches Reich, Kaiser</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilian I, Kaiser</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilian I, Emperor of Germany</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilien I, Empereur d'Allemagne</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilien I, Autriche, Archiduc</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilianus I, Germania, Imperator</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilianus I, Imperium Romano-Germanicum, Imperator</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilianus I, Imperator</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilian I, Kaiser des Römisch-deutschen Reiches</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilien, Roi d'Allemagne</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilian I, Empereur de l'Empire Romain-Germanique</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilianus I, Imperium Romanum, Imperator</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilianus I, Kaiser des Römisch-deutschen Reiches</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilian I, Emperor of the Roman-German Empire</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilian I, Empereur de l'Empire Romain-Germanique</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilian, Erzherzog von Österreich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilian, König von Böhmen</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilian I, Kaiser des Römisch-deutschen Reichs</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maximilian I., von Habsburg, Kaiser</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Kaiser Maximilian I. von Habsburg</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1459-03-22</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1519-01-12</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:term>Verfasser_in</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:date>
+                        <lido:earliestDate>1517</lido:earliestDate>
+                        <lido:latestDate>1517</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventMaterialsTech>
+                     <lido:displayMaterialsTech>Holzschnitt</lido:displayMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300053296</lido:conceptID>
+                           <lido:term>Holzschnitt</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Holzschnitt (Druckverfahren)</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:source="http://terminology.lido-schema.org/eventType" lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00227</lido:conceptID>
+                     <lido:term>Provenienz</lido:term>
+                  </lido:eventType>
+                  <lido:eventDescriptionSet>
+                     <lido:descriptiveNoteValue>Albertina Altbestand</lido:descriptiveNoteValue>
+                  </lido:eventDescriptionSet>
+               </lido:event>
+            </lido:eventSet>
+         </lido:eventWrap>
+         <lido:objectRelationWrap>
+            <lido:relatedWorksWrap>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Laschitzer 27</lido:objectID>
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100">R3i_realises</lido:conceptID>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">New Hollstein 288</lido:objectID>
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100">R3i_realises</lido:conceptID>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+            </lido:relatedWorksWrap>
+         </lido:objectRelationWrap>
+      </lido:descriptiveMetadata><lido:administrativeMetadata xml:lang="de">
+         <lido:rightsWorkWrap>
+            <lido:rightsWorkSet>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                  <lido:term>Public Domain Mark 1.0</lido:term>
+               </lido:rightsType>
+            </lido:rightsWorkSet>
+         </lido:rightsWorkWrap>
+         <lido:recordWrap>
+            <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">tms_331044</lido:recordID>
+            <lido:recordType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/recordType">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+               <lido:term>Einzelobjekt</lido:term>
+            </lido:recordType>
+            <lido:recordSource>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">http://d-nb.info/gnd/1072890488</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Albertina</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://www.albertina.at</lido:legalBodyWeblink>
+            </lido:recordSource>
+            <lido:recordRights>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                  <lido:term>CC0 1.0 Universal (CC0 1.0)</lido:term>
+               </lido:rightsType>
+            </lido:recordRights>
+            <lido:recordInfoSet>
+               <lido:recordInfoLink>http://sammlungenonline.albertina.at/?query=Inventarnummer=[DG2012/128/6]&amp;showtype=record</lido:recordInfoLink>
+            </lido:recordInfoSet>
+         </lido:recordWrap>
+         <lido:resourceWrap>
+            <lido:resourceSet>
+               
+               
+               
+               <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">DG2012_128_6.jpg</lido:resourceID>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/DG2012_128_6.jpg&amp;width=350</lido:linkResource>
+               </lido:resourceRepresentation>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/DG2012_128_6.jpg</lido:linkResource>
+               </lido:resourceRepresentation>
+               <lido:rightsResource>
+                  <lido:rightsType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                     <lido:term>Public Domain Mark 1.0</lido:term>
+                  </lido:rightsType>
+               </lido:rightsResource>
+            </lido:resourceSet>
+         </lido:resourceWrap>
+      </lido:administrativeMetadata></lido:lido>

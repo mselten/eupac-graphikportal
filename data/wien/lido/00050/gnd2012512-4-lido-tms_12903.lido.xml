@@ -1,0 +1,254 @@
+<lido:lido xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org         http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd"><lido:lidoRecID lido:source="Albertina" lido:type="http://terminology.lido-schema.org/lido00100">gnd2012512-4/lido/tms_12903</lido:lidoRecID><lido:objectPublishedID lido:source="Albertina" lido:type="http://terminology.lido-schema.org/lido00100">gnd2012512-4/object/11611</lido:objectPublishedID><lido:descriptiveMetadata xml:lang="de">
+         <lido:objectClassificationWrap>
+            <lido:objectWorkTypeWrap>
+               <lido:objectWorkType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://vocab.getty.edu/aat">http://vocab.getty.edu/aat/300033973</lido:conceptID>
+                  <lido:term>Zeichnung</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Zeichnung</lido:term>
+               </lido:objectWorkType>
+            </lido:objectWorkTypeWrap>
+         </lido:objectClassificationWrap>
+         <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+               <lido:titleSet>
+                  <lido:appellationValue lido:pref="preferred">Die Götterversammlung im Olymp</lido:appellationValue>
+               </lido:titleSet>
+            </lido:titleWrap>
+            <lido:inscriptionsWrap>
+               <lido:inscriptions lido:type="Marke">
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>l.u. Herzog Albert von Sachsen-Teschen (Lugt 174)</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+            </lido:inscriptionsWrap>
+            <lido:repositoryWrap>
+               <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+                  <lido:repositoryName>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">http://d-nb.info/gnd/2012512-4</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Albertina</lido:appellationValue>
+                        <lido:appellationValue>Wien, Albertina</lido:appellationValue>
+                     </lido:legalBodyName>
+                     <lido:legalBodyWeblink>http://www.albertina.at</lido:legalBodyWeblink>
+                  </lido:repositoryName>
+                  <lido:workID lido:type="Inventarnummer">11611</lido:workID>
+                  <lido:repositoryLocation>
+                     <lido:placeID lido:source="http://vocab.getty.edu/tgn/" lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/tgn/7003030</lido:placeID>
+                     <lido:placeID lido:source="http://sws.geonames.org/" lido:type="http://terminology.lido-schema.org/lido00099">http://sws.geonames.org/2761367/</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Wien</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:repositoryLocation>
+               </lido:repositorySet>
+            </lido:repositoryWrap>
+            <lido:objectMeasurementsWrap>
+               <lido:objectMeasurementsSet>
+                  <lido:displayObjectMeasurements>122 x 192 mm</lido:displayObjectMeasurements>
+               </lido:objectMeasurementsSet>
+            </lido:objectMeasurementsWrap>
+         </lido:objectIdentificationWrap>
+         <lido:eventWrap>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:source="http://terminology.lido-schema.org/eventType" lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term xml:lang="en">Production</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor>
+                     <lido:actorInRole>
+                        <lido:actor lido:type="http://terminology.lido-schema.org/lido00163">
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/121166341</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Oppenord, Gilles-Marie</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Oppenord, Gille Marie</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Oppenord, Gille-Marie</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Oppenort, Gilles Marie</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Oppenoordt, Gilles Marie</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Oppenordt, Gilles Marie</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Op den Oordt, Gilles Marie</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Op den Oorth, Gilles Marie</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Den Oordt, Gilles Marie op</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Den Oorth, Gilles Marie op</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Oppenord, Gille M.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Oppenort, Gille M.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Oppenord, G. M.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">OpDenOordt, Gilles Marie</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">OpDenOorth, Gilles Marie</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">DenOordt, Gilles Marie op</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">DenOorth, Gilles Marie op</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Oppenord, Gilles Marie</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Oppenord, Gillis-Maria</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Oordt, Gilles Marie op den</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Oorth, Gilles Marie op den</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Oppenordt, Gilles-Marie</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Oordt, Gille Marie op den</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Oppenort, Gille Marie</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Gilles Marie Oppenord</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Gilles Marie Oppenoordt,</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Gilles Marie Oppenord,</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Gilles Marie Oppenordt,</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Gilles Marie op den Oordt,</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Gilles Marie op den Oordt,</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1672</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1742</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:term>Künstler_in</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventActor>
+                     <lido:actorInRole>
+                        <lido:actor lido:type="http://terminology.lido-schema.org/lido00163">
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred">François Roettiers (d.Ä.?)</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Francois Roëttiers,</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum">1682</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum">1742</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:attributionQualifierActor lido:label="term">Vormals zugeschrieben an</lido:attributionQualifierActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventActor>
+                     <lido:actorInRole>
+                        <lido:actor lido:type="http://terminology.lido-schema.org/lido00163">
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/11858233X</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Mignard, Pierre</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Mignard, Romanus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Mignard, ...</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Mignard, Petrus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Mignard, le Romain</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Mignard, P.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Mignardes, Pierre</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Mignard</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Pierre Mignard</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Mignard le Romain</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Pierre Mignardes,</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1612-11-17</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1695-05-30</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:attributionQualifierActor lido:label="term">Traditionelle Zuschreibung</lido:attributionQualifierActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:date>
+                        <lido:earliestDate>1640</lido:earliestDate>
+                        <lido:latestDate>1740</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventMaterialsTech>
+                     <lido:displayMaterialsTech>Feder, Tusche</lido:displayMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300022452</lido:conceptID>
+                           <lido:term>Feder</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Feder</lido:term>
+                        </lido:termMaterialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300015018</lido:conceptID>
+                           <lido:term>Tusche</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Tusche</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:source="http://terminology.lido-schema.org/eventType" lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00227</lido:conceptID>
+                     <lido:term>Provenienz</lido:term>
+                  </lido:eventType>
+                  <lido:eventDescriptionSet>
+                     <lido:descriptiveNoteValue>Charles de Ligne; Albert von Sachsen-Teschen</lido:descriptiveNoteValue>
+                  </lido:eventDescriptionSet>
+               </lido:event>
+            </lido:eventSet>
+         </lido:eventWrap>
+         <lido:objectRelationWrap>
+            <lido:relatedWorksWrap>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Bartsch 1794</lido:objectID>
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100">R3i_realises</lido:conceptID>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Widauer 2004</lido:objectID>
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100">R3i_realises</lido:conceptID>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+            </lido:relatedWorksWrap>
+         </lido:objectRelationWrap>
+      </lido:descriptiveMetadata><lido:administrativeMetadata xml:lang="de">
+         <lido:rightsWorkWrap>
+            <lido:rightsWorkSet>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                  <lido:term>Public Domain Mark 1.0</lido:term>
+               </lido:rightsType>
+            </lido:rightsWorkSet>
+         </lido:rightsWorkWrap>
+         <lido:recordWrap>
+            <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">tms_12903</lido:recordID>
+            <lido:recordType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/recordType">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+               <lido:term>Einzelobjekt</lido:term>
+            </lido:recordType>
+            <lido:recordSource>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">http://d-nb.info/gnd/1072890488</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Albertina</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://www.albertina.at</lido:legalBodyWeblink>
+            </lido:recordSource>
+            <lido:recordRights>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                  <lido:term>CC0 1.0 Universal (CC0 1.0)</lido:term>
+               </lido:rightsType>
+            </lido:recordRights>
+            <lido:recordInfoSet>
+               <lido:recordInfoLink>http://sammlungenonline.albertina.at/?query=Inventarnummer=[11611]&amp;showtype=record</lido:recordInfoLink>
+            </lido:recordInfoSet>
+         </lido:recordWrap>
+         <lido:resourceWrap>
+            <lido:resourceSet>
+               
+               
+               
+               <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">11611.JPG</lido:resourceID>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/11611.JPG&amp;width=350</lido:linkResource>
+               </lido:resourceRepresentation>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/11611.JPG</lido:linkResource>
+               </lido:resourceRepresentation>
+               <lido:rightsResource>
+                  <lido:rightsType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                     <lido:term>Public Domain Mark 1.0</lido:term>
+                  </lido:rightsType>
+               </lido:rightsResource>
+            </lido:resourceSet>
+         </lido:resourceWrap>
+      </lido:administrativeMetadata></lido:lido>

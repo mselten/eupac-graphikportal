@@ -1,0 +1,202 @@
+<lido:lido xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org         http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd"><lido:lidoRecID lido:source="Albertina" lido:type="http://terminology.lido-schema.org/lido00100">gnd2012512-4/lido/tms_32665</lido:lidoRecID><lido:objectPublishedID lido:source="Albertina" lido:type="http://terminology.lido-schema.org/lido00100">gnd2012512-4/object/26861v</lido:objectPublishedID><lido:descriptiveMetadata xml:lang="de">
+         <lido:objectClassificationWrap>
+            <lido:objectWorkTypeWrap>
+               <lido:objectWorkType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://vocab.getty.edu/aat">http://vocab.getty.edu/aat/300033973</lido:conceptID>
+                  <lido:term>Zeichnung</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Zeichnung</lido:term>
+               </lido:objectWorkType>
+            </lido:objectWorkTypeWrap>
+         </lido:objectClassificationWrap>
+         <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+               <lido:titleSet>
+                  <lido:appellationValue lido:pref="preferred">Torbrücke zum Schloß von Tervuren, vom Südosten gesehen</lido:appellationValue>
+               </lido:titleSet>
+            </lido:titleWrap>
+            <lido:repositoryWrap>
+               <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+                  <lido:repositoryName>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">http://d-nb.info/gnd/2012512-4</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Albertina</lido:appellationValue>
+                        <lido:appellationValue>Wien, Albertina</lido:appellationValue>
+                     </lido:legalBodyName>
+                     <lido:legalBodyWeblink>http://www.albertina.at</lido:legalBodyWeblink>
+                  </lido:repositoryName>
+                  <lido:workID lido:type="Inventarnummer">26861v</lido:workID>
+                  <lido:repositoryLocation>
+                     <lido:placeID lido:source="http://vocab.getty.edu/tgn/" lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/tgn/7003030</lido:placeID>
+                     <lido:placeID lido:source="http://sws.geonames.org/" lido:type="http://terminology.lido-schema.org/lido00099">http://sws.geonames.org/2761367/</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Wien</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:repositoryLocation>
+               </lido:repositorySet>
+            </lido:repositoryWrap>
+            <lido:objectMeasurementsWrap>
+               <lido:objectMeasurementsSet>
+                  <lido:displayObjectMeasurements>15,4 x 21,5 cm</lido:displayObjectMeasurements>
+               </lido:objectMeasurementsSet>
+            </lido:objectMeasurementsWrap>
+         </lido:objectIdentificationWrap>
+         <lido:eventWrap>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:source="http://terminology.lido-schema.org/eventType" lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term xml:lang="en">Production</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor>
+                     <lido:actorInRole>
+                        <lido:actor lido:type="http://terminology.lido-schema.org/lido00163">
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/118674005</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Bruegel, Jan, de Oudere</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Brueghel, Jan, the Elder</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Breughel, Jan, der Ältere</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Brueghel, Jan, d.Ä.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Brueghel, Jan, de Oudere</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bruegel, Jan, der Ältere</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Breughel, Jean, le Vieux</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Brueghel de Velours, Jean</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Brueghel, Jan</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Brueghel, Jan, der Ältere</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Blumenbruegel</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Samtbruegel</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Breugel, Jan</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Brueghel de Velours, Jan</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Breughel, Jean l'Ancien</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Breughel, Jan der Ältere</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bruegel, Jan der Ältere</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Brueghel de Paradis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Breughel de Velours, Jean</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Brueghel de Velours</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Breughel, Jan de Oudere</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Brueghel, Jan der Aeltere</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Breugel, Johan</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bruegel, Jan</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Breughel, Jan</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Brueghel, Jan de Oudere</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Breughel, Jean</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Breughel de Velours, Jan</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bruegel, Jan de Oudere</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Jan Brueghel der Ältere</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Sammet-Bruegel</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Jan de Velours Brueghel,</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Jan Brieghel (der Ältere)</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Bruegel dei Velluti</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Fluweelen-Bruegel</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Jan Bruegel,</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Jan Velluti Breughel,</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Jan Briegel (der Ältere)</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1568</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1625-01-13</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:attributionQualifierActor lido:label="term">Zugeschrieben an</lido:attributionQualifierActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventActor>
+                     <lido:actorInRole>
+                        <lido:actor lido:type="http://terminology.lido-schema.org/lido00163">
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/118838709</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Savery, Roelant</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Savery, Ruelandt</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Saverij, Roelandt</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Savery, Roelandt</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Savry, Roelandt</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Savery, Roland</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Roelant Savery</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1576</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1639</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:attributionQualifierActor lido:label="term">Vormals zugeschrieben an</lido:attributionQualifierActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:date>
+                        <lido:earliestDate>1590</lido:earliestDate>
+                        <lido:latestDate>1625</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventMaterialsTech>
+                     <lido:displayMaterialsTech>Feder in Braun, Spuren von schwarzer Kreide</lido:displayMaterialsTech>
+                  </lido:eventMaterialsTech>
+                  <lido:eventMaterialsTech>
+                     <lido:displayMaterialsTech>Wasserzeichen: l.u. Krug (?)</lido:displayMaterialsTech>
+                     
+                  </lido:eventMaterialsTech>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:source="http://terminology.lido-schema.org/eventType" lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00227</lido:conceptID>
+                     <lido:term>Provenienz</lido:term>
+                  </lido:eventType>
+                  <lido:eventDescriptionSet>
+                     <lido:descriptiveNoteValue>Alter Bestand</lido:descriptiveNoteValue>
+                  </lido:eventDescriptionSet>
+               </lido:event>
+            </lido:eventSet>
+         </lido:eventWrap>
+      </lido:descriptiveMetadata><lido:administrativeMetadata xml:lang="de">
+         <lido:rightsWorkWrap>
+            <lido:rightsWorkSet>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                  <lido:term>Public Domain Mark 1.0</lido:term>
+               </lido:rightsType>
+            </lido:rightsWorkSet>
+         </lido:rightsWorkWrap>
+         <lido:recordWrap>
+            <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">tms_32665</lido:recordID>
+            <lido:recordType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/recordType">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+               <lido:term>Einzelobjekt</lido:term>
+            </lido:recordType>
+            <lido:recordSource>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">http://d-nb.info/gnd/1072890488</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Albertina</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://www.albertina.at</lido:legalBodyWeblink>
+            </lido:recordSource>
+            <lido:recordRights>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                  <lido:term>CC0 1.0 Universal (CC0 1.0)</lido:term>
+               </lido:rightsType>
+            </lido:recordRights>
+            <lido:recordInfoSet>
+               <lido:recordInfoLink>http://sammlungenonline.albertina.at/?query=Inventarnummer=[26861v]&amp;showtype=record</lido:recordInfoLink>
+            </lido:recordInfoSet>
+         </lido:recordWrap>
+         <lido:resourceWrap>
+            <lido:resourceSet>
+               
+               
+               
+               <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">26861v.JPG</lido:resourceID>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/26861v.JPG&amp;width=350</lido:linkResource>
+               </lido:resourceRepresentation>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/26861v.JPG</lido:linkResource>
+               </lido:resourceRepresentation>
+               <lido:rightsResource>
+                  <lido:rightsType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                     <lido:term>Public Domain Mark 1.0</lido:term>
+                  </lido:rightsType>
+               </lido:rightsResource>
+            </lido:resourceSet>
+         </lido:resourceWrap>
+      </lido:administrativeMetadata></lido:lido>

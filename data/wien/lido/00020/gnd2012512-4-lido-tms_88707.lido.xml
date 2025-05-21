@@ -1,0 +1,190 @@
+<lido:lido xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org         http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd"><lido:lidoRecID lido:source="Albertina" lido:type="http://terminology.lido-schema.org/lido00100">gnd2012512-4/lido/tms_88707</lido:lidoRecID><lido:objectPublishedID lido:source="Albertina" lido:type="http://terminology.lido-schema.org/lido00100">gnd2012512-4/object/13621</lido:objectPublishedID><lido:descriptiveMetadata xml:lang="de">
+         <lido:objectClassificationWrap>
+            <lido:objectWorkTypeWrap>
+               <lido:objectWorkType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://vocab.getty.edu/aat">http://vocab.getty.edu/aat/300033973</lido:conceptID>
+                  <lido:term>Zeichnung</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Zeichnung</lido:term>
+               </lido:objectWorkType>
+            </lido:objectWorkTypeWrap>
+         </lido:objectClassificationWrap>
+         <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+               <lido:titleSet>
+                  <lido:appellationValue lido:pref="preferred">Heilige Theresa</lido:appellationValue>
+               </lido:titleSet>
+            </lido:titleWrap>
+            <lido:inscriptionsWrap>
+               <lido:inscriptions lido:type="Marke">
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>l.u. Herzog Albert von Sachsen-Teschen (Lugt 174)</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+            </lido:inscriptionsWrap>
+            <lido:repositoryWrap>
+               <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+                  <lido:repositoryName>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">http://d-nb.info/gnd/2012512-4</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Albertina</lido:appellationValue>
+                        <lido:appellationValue>Wien, Albertina</lido:appellationValue>
+                     </lido:legalBodyName>
+                     <lido:legalBodyWeblink>http://www.albertina.at</lido:legalBodyWeblink>
+                  </lido:repositoryName>
+                  <lido:workID lido:type="Inventarnummer">13621</lido:workID>
+                  <lido:repositoryLocation>
+                     <lido:placeID lido:source="http://vocab.getty.edu/tgn/" lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/tgn/7003030</lido:placeID>
+                     <lido:placeID lido:source="http://sws.geonames.org/" lido:type="http://terminology.lido-schema.org/lido00099">http://sws.geonames.org/2761367/</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Wien</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:repositoryLocation>
+               </lido:repositorySet>
+            </lido:repositoryWrap>
+            <lido:objectMeasurementsWrap>
+               <lido:objectMeasurementsSet>
+                  <lido:displayObjectMeasurements>7,7 x 6,3 cm</lido:displayObjectMeasurements>
+               </lido:objectMeasurementsSet>
+            </lido:objectMeasurementsWrap>
+         </lido:objectIdentificationWrap>
+         <lido:eventWrap>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:source="http://terminology.lido-schema.org/eventType" lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term xml:lang="en">Production</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor>
+                     <lido:actorInRole>
+                        <lido:actor lido:type="http://terminology.lido-schema.org/lido00163">
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/118577867</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Maria Theresia, Österreich, Erzherzogin</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Erzherzogin Maria Theresia Walpurga Amalia Christina von Österreich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Mária Terézia</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Marie Terezie</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Ungarn, Königin</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Theresia, Ungarn, Königin</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Böhmen, Königin</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Österreich, Kaiserin</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Heiliges Römisches Reich, Kaiserin</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Theresia, Augustissima</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Therese</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Imperatrice</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Marie Thérèse, Impératrice</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Teresa, Imperatrice</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Kaiserin des Römisch-deutschen Reiches</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Impératrice de l'Empire Romain-Germanique</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Empress of the Roman-German Empire</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Archiduchesse d'Autriche</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Marie-Thérèse, Impératrice d'Autriche</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Archduchess of Austria</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Königin von Ungarn und Böhmen</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Reine d'Hongrie et de la Bohême</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Queen of Hungary and of Bohemia</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Empress of Austria</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Mária Terézia, Queen of Hungary</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Kaiserin von Österreich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Kaiserin des Römisch-deutschen Reichs</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Österreich ; Kaiserin</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Kaiserin von Deutschland</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Erzherzogin von Österreich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Königin von Ungarn</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Königin von Böhmen</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Königin von Österreich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Kaiserin des Heiligen Römischen Reichs</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Österreich, Kaiserin</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Ungarn, Königin</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Teresia, Ungheria, Regina</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresa, Hungary and Bohemia, Queen</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia Walpurga Amalia Christina</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria Theresia, Hongarien, Koningin</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria-Theresia, Hongrie et Boheme, Imperatrice</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Maria-Theresia, Hungaria et Bohemia, Regina</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Marie Thérèse, Hongrie, Reine</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Marie-Thérèse, Allemagne, Impératrice</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Erzherzogin Maria Theresia von Österreich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Kaiserin Maria Theresia</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1717-05-13</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1780-11-29</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:term>Künstler_in</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:date>
+                        <lido:earliestDate>1730</lido:earliestDate>
+                        <lido:latestDate>1780</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventMaterialsTech>
+                     <lido:displayMaterialsTech>Bleistift</lido:displayMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300022443</lido:conceptID>
+                           <lido:term>Bleistift</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Bleistift</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+               </lido:event>
+            </lido:eventSet>
+         </lido:eventWrap>
+      </lido:descriptiveMetadata><lido:administrativeMetadata xml:lang="de">
+         <lido:rightsWorkWrap>
+            <lido:rightsWorkSet>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                  <lido:term>Public Domain Mark 1.0</lido:term>
+               </lido:rightsType>
+            </lido:rightsWorkSet>
+         </lido:rightsWorkWrap>
+         <lido:recordWrap>
+            <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">tms_88707</lido:recordID>
+            <lido:recordType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/recordType">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+               <lido:term>Einzelobjekt</lido:term>
+            </lido:recordType>
+            <lido:recordSource>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">http://d-nb.info/gnd/1072890488</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Albertina</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://www.albertina.at</lido:legalBodyWeblink>
+            </lido:recordSource>
+            <lido:recordRights>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                  <lido:term>CC0 1.0 Universal (CC0 1.0)</lido:term>
+               </lido:rightsType>
+            </lido:recordRights>
+            <lido:recordInfoSet>
+               <lido:recordInfoLink>http://sammlungenonline.albertina.at/?query=Inventarnummer=[13621]&amp;showtype=record</lido:recordInfoLink>
+            </lido:recordInfoSet>
+         </lido:recordWrap>
+         <lido:resourceWrap>
+            <lido:resourceSet>
+               
+               
+               
+               <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">13621.JPG</lido:resourceID>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/13621.JPG&amp;width=350</lido:linkResource>
+               </lido:resourceRepresentation>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/13621.JPG</lido:linkResource>
+               </lido:resourceRepresentation>
+               <lido:rightsResource>
+                  <lido:rightsType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                     <lido:term>Public Domain Mark 1.0</lido:term>
+                  </lido:rightsType>
+               </lido:rightsResource>
+            </lido:resourceSet>
+         </lido:resourceWrap>
+      </lido:administrativeMetadata></lido:lido>

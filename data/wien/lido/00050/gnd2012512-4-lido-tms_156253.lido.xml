@@ -1,0 +1,107 @@
+<lido:lido xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org         http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd"><lido:lidoRecID lido:source="Albertina" lido:type="http://terminology.lido-schema.org/lido00100">gnd2012512-4/lido/tms_156253</lido:lidoRecID><lido:objectPublishedID lido:source="Albertina" lido:type="http://terminology.lido-schema.org/lido00100">gnd2012512-4/object/AZ6201</lido:objectPublishedID><lido:descriptiveMetadata xml:lang="de">
+         <lido:objectClassificationWrap>
+            <lido:objectWorkTypeWrap>
+               <lido:objectWorkType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://vocab.getty.edu/aat"/>
+                  <lido:term>Architektur</lido:term>
+               </lido:objectWorkType>
+            </lido:objectWorkTypeWrap>
+         </lido:objectClassificationWrap>
+         <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+               <lido:titleSet>
+                  <lido:appellationValue lido:pref="preferred">Wien I, Hofburg, Um- und Neubauprojekt, Gesamtplan, Grundriss</lido:appellationValue>
+               </lido:titleSet>
+            </lido:titleWrap>
+            <lido:inscriptionsWrap>
+               <lido:inscriptions lido:type="Inschrift">
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>"Aman 1806"</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Inschrift">
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>Legende: "a. Kohlmarkt / b. Michaeler Kirchen Haus / c. Herrengasse / d. Schauflergasse / e. (...) K. K. Winterreitschul / f. neuer Platz samt 2 Fontainen / g. neues Hof Theater und neuer (...) / h. Reichskanzley / i. Burgplatz / k. Amalienhof auf welchen 1 Stock aufzubauen käme / l. neuer Trackt gegen die Bastey / m. vergröserter Vorplatz mit einer Fontaine / n. Basteypromenad / o. Aufgänge hiezu / p. d.o (?) Auffahrten / q. (...) / r. anzulegender Garten / s. Brücke diesen mit den / t. Paradisgartl zu vereinigen / u. Herzog Albrecht kleines Gebäude / w. bestehende äusere Bastey Mauer / x. äuseres Burthor und Brücke / y. Hof-Bibliotek / z. Staatskanzley / aa. vergröserter Schweitzerhof und / bb. vergröserte Hofkappelle / cc. Josephs Platz / dd. Friesisch u: Palfisch: Häuser / ee. Stallburg / ff. Ballhausplatz / gg. Kamerarchiv und Nieder- / länder Kanzley statt dessen / der Hauptentwurf angezeigt / ist in welcher Art das Natural: / phisi: Münz und Antik: Kabinet / samt Bildergallerie unterbracht / werden können / hh. Niederoesterreich. (...) / [später ergänzt in anderer Schrift und Farbe:] ii. der in Bau begriffene Saal."</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+            </lido:inscriptionsWrap>
+            <lido:repositoryWrap>
+               <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+                  <lido:repositoryName>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">http://d-nb.info/gnd/2012512-4</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Albertina</lido:appellationValue>
+                        <lido:appellationValue>Wien, Albertina</lido:appellationValue>
+                     </lido:legalBodyName>
+                     <lido:legalBodyWeblink>http://www.albertina.at</lido:legalBodyWeblink>
+                  </lido:repositoryName>
+                  <lido:workID lido:type="Inventarnummer">AZ6201</lido:workID>
+                  <lido:repositoryLocation>
+                     <lido:placeID lido:source="http://vocab.getty.edu/tgn/" lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/tgn/7003030</lido:placeID>
+                     <lido:placeID lido:source="http://sws.geonames.org/" lido:type="http://terminology.lido-schema.org/lido00099">http://sws.geonames.org/2761367/</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Wien</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:repositoryLocation>
+               </lido:repositorySet>
+            </lido:repositoryWrap>
+            <lido:objectMeasurementsWrap>
+               <lido:objectMeasurementsSet>
+                  <lido:displayObjectMeasurements>Blatt: 65 x 99 cm</lido:displayObjectMeasurements>
+               </lido:objectMeasurementsSet>
+            </lido:objectMeasurementsWrap>
+         </lido:objectIdentificationWrap>
+         
+      </lido:descriptiveMetadata><lido:administrativeMetadata xml:lang="de">
+         <lido:rightsWorkWrap>
+            <lido:rightsWorkSet>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                  <lido:term>Public Domain Mark 1.0</lido:term>
+               </lido:rightsType>
+            </lido:rightsWorkSet>
+         </lido:rightsWorkWrap>
+         <lido:recordWrap>
+            <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">tms_156253</lido:recordID>
+            <lido:recordType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/recordType">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+               <lido:term>Einzelobjekt</lido:term>
+            </lido:recordType>
+            <lido:recordSource>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">http://d-nb.info/gnd/1072890488</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Albertina</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://www.albertina.at</lido:legalBodyWeblink>
+            </lido:recordSource>
+            <lido:recordRights>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                  <lido:term>CC0 1.0 Universal (CC0 1.0)</lido:term>
+               </lido:rightsType>
+            </lido:recordRights>
+            <lido:recordInfoSet>
+               <lido:recordInfoLink>http://sammlungenonline.albertina.at/?query=Inventarnummer=[AZ6201]&amp;showtype=record</lido:recordInfoLink>
+            </lido:recordInfoSet>
+         </lido:recordWrap>
+         <lido:resourceWrap>
+            <lido:resourceSet>
+               
+               
+               
+               <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">AZ6201.jpg</lido:resourceID>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/AZ6201.jpg&amp;width=350</lido:linkResource>
+               </lido:resourceRepresentation>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/AZ6201.jpg</lido:linkResource>
+               </lido:resourceRepresentation>
+               <lido:rightsResource>
+                  <lido:rightsType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                     <lido:term>Public Domain Mark 1.0</lido:term>
+                  </lido:rightsType>
+               </lido:rightsResource>
+            </lido:resourceSet>
+         </lido:resourceWrap>
+      </lido:administrativeMetadata></lido:lido>

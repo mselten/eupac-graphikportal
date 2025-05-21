@@ -1,0 +1,239 @@
+<lido:lido xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org         http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd"><lido:lidoRecID lido:source="Albertina" lido:type="http://terminology.lido-schema.org/lido00100">gnd2012512-4/lido/tms_86778</lido:lidoRecID><lido:objectPublishedID lido:source="Albertina" lido:type="http://terminology.lido-schema.org/lido00100">gnd2012512-4/object/3047r</lido:objectPublishedID><lido:descriptiveMetadata xml:lang="de">
+         <lido:objectClassificationWrap>
+            <lido:objectWorkTypeWrap>
+               <lido:objectWorkType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://vocab.getty.edu/aat">http://vocab.getty.edu/aat/300033973</lido:conceptID>
+                  <lido:term>Zeichnung</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Zeichnung</lido:term>
+               </lido:objectWorkType>
+            </lido:objectWorkTypeWrap>
+            <lido:classificationWrap><lido:classification><lido:term xml:lang="de">unbekannt</lido:term><lido:term xml:lang="en">unknown</lido:term></lido:classification> 
+            </lido:classificationWrap>
+         </lido:objectClassificationWrap>
+         <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+               <lido:titleSet>
+                  <lido:appellationValue lido:pref="preferred">Moses unter dem brennenden Dornbusch</lido:appellationValue>
+               </lido:titleSet>
+            </lido:titleWrap>
+            <lido:inscriptionsWrap>
+               <lido:inscriptions lido:type="Marke">
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>Kein Sammlerstempel Herzog Albert von Sachsen-Teschen</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+            </lido:inscriptionsWrap>
+            <lido:repositoryWrap>
+               <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+                  <lido:repositoryName>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">http://d-nb.info/gnd/2012512-4</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Albertina</lido:appellationValue>
+                        <lido:appellationValue>Wien, Albertina</lido:appellationValue>
+                     </lido:legalBodyName>
+                     <lido:legalBodyWeblink>http://www.albertina.at</lido:legalBodyWeblink>
+                  </lido:repositoryName>
+                  <lido:workID lido:type="Inventarnummer">3047r</lido:workID>
+                  <lido:repositoryLocation>
+                     <lido:placeID lido:source="http://vocab.getty.edu/tgn/" lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/tgn/7003030</lido:placeID>
+                     <lido:placeID lido:source="http://sws.geonames.org/" lido:type="http://terminology.lido-schema.org/lido00099">http://sws.geonames.org/2761367/</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Wien</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:repositoryLocation>
+               </lido:repositorySet>
+            </lido:repositoryWrap>
+            <lido:objectMeasurementsWrap>
+               <lido:objectMeasurementsSet>
+                  <lido:displayObjectMeasurements>36,2 x 29,2 cm</lido:displayObjectMeasurements>
+               </lido:objectMeasurementsSet>
+            </lido:objectMeasurementsWrap>
+         </lido:objectIdentificationWrap>
+         <lido:eventWrap>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:source="http://terminology.lido-schema.org/eventType" lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term xml:lang="en">Production</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor>
+                     <lido:actorInRole>
+                        <lido:actor lido:type="http://terminology.lido-schema.org/lido00163">
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/118542907</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Grünewald, Matthias</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grünewald, Matthias Gothart Nithart</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grünewald, Mathis Gothart Nithart</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grünewald, Matthaeus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grünewald, Mattheus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grünewald, Matthis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grünewald, Mathes</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grünewald, Mathias</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grünewald, Mathias Gothart Nithart</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grünewald, Mathis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grünewald, Mathis Gothardt Neithardt</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grünewald</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grünewaldt, Mathias</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grünewaldt, Mathis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grünewaldt, Matthias</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grünewaldt, Matthis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grünwald, Mathias</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grünwald, Mathis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grünwald, Matthias</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grünwald, Matthis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grünwalt, Mathias</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grünwalt, Mathis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grünwalt, Matthias</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grünwalt, Matthis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grün, Mathis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grün, Matthis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grunewald, Mathias</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grunewald, Mathis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grunewald, Matthias</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Grunewald, Matthis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Gothardt, aus Würzburg</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Gothardt</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Gothardt Neithardt, Mathis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Gothardt-Neithardt, Mathis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Gothart, Mathis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Gothart, Matthis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Gothart Nithard, Mathis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Gothart-Nithard, Mathis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Gothart Nithart, Mathis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Gothart-Nithart, Mathis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Gothart</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Mathis Gothardt Neithardt</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Mathis Gothardt-Neithardt</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Mathis Gothart Nithard</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Mathis Gothart-Nithart</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Mathis Gothart Nithart</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Mathis, der Maler</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Neidhardt, Matthias G.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Neithardt, Mathis Gothardt</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Neithardt, Matthias G.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Neithardt, Matthis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Neithardt</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Neithart, Matthäus Gotthard</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Neithart, Matthis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Neithart</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Nithard, Mathis Gothart</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Neithardt, Mathis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Neithart, Mathis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Nithart, Mathis Gothart</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Nithart, Mathis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Nithart, Matthis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Nithart</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Matthias Grünewald</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Matthias Gothart-Nithart?</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Mathis Grünewald</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Mathias von Aschaffenburg</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Matthaeus Grünewald,</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Mathes Grünewald,</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Matheus Grünewald,</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Mathis von Aschenburg</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Matthaeus von Aschaffenburg</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Mathis von Ossenburg</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Matthaeus Grünwalt,</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Matthaeus Grünwaldt,</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Matthias Gruenewald</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1480</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1528-08-31</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:term>Künstler_in</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:date>
+                        <lido:earliestDate>1511</lido:earliestDate>
+                        <lido:latestDate>1521</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventMaterialsTech>
+                     <lido:displayMaterialsTech>Kohle, partiell flächig gewischt, fixiert, mit dem Pinsel weiß gehöht, auf gelbgrau laviertem Papier</lido:displayMaterialsTech>
+                  </lido:eventMaterialsTech>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:source="http://terminology.lido-schema.org/eventType" lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00227</lido:conceptID>
+                     <lido:term>Provenienz</lido:term>
+                  </lido:eventType>
+                  <lido:eventDescriptionSet>
+                     <lido:descriptiveNoteValue>wohl Hans (gest. um 1560) und Adam Grimmer (gest. um 1598), Mainz und Frankfurt a. M.; wohl Philipp Uffenbach (1566-1636), Frankfurt a. M.; wohl Abraham Schelckens (1606-1648), Frankfurt a. M.; ***** Gottfried Winckler (1731-1795), Leipzig; erworben um oder kurz vor 1795 (?); Herzog Albert von Sachsen-Teschen</lido:descriptiveNoteValue>
+                  </lido:eventDescriptionSet>
+               </lido:event>
+            </lido:eventSet>
+         </lido:eventWrap>
+         <lido:objectRelationWrap>
+            <lido:relatedWorksWrap>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Tietze/Tietze-Conrat 1933</lido:objectID>
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100">R3i_realises</lido:conceptID>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+            </lido:relatedWorksWrap>
+         </lido:objectRelationWrap>
+      </lido:descriptiveMetadata><lido:administrativeMetadata xml:lang="de">
+         <lido:rightsWorkWrap>
+            <lido:rightsWorkSet>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                  <lido:term>Public Domain Mark 1.0</lido:term>
+               </lido:rightsType>
+            </lido:rightsWorkSet>
+         </lido:rightsWorkWrap>
+         <lido:recordWrap>
+            <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">tms_86778</lido:recordID>
+            <lido:recordType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/recordType">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+               <lido:term>Einzelobjekt</lido:term>
+            </lido:recordType>
+            <lido:recordSource>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">http://d-nb.info/gnd/1072890488</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Albertina</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://www.albertina.at</lido:legalBodyWeblink>
+            </lido:recordSource>
+            <lido:recordRights>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                  <lido:term>CC0 1.0 Universal (CC0 1.0)</lido:term>
+               </lido:rightsType>
+            </lido:recordRights>
+            <lido:recordInfoSet>
+               <lido:recordInfoLink>http://sammlungenonline.albertina.at/?query=Inventarnummer=[3047r]&amp;showtype=record</lido:recordInfoLink>
+            </lido:recordInfoSet>
+         </lido:recordWrap>
+         <lido:resourceWrap>
+            <lido:resourceSet>
+               
+               
+               
+               <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">3047r.JPG</lido:resourceID>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/3047r.JPG&amp;width=350</lido:linkResource>
+               </lido:resourceRepresentation>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/3047r.JPG</lido:linkResource>
+               </lido:resourceRepresentation>
+               <lido:rightsResource>
+                  <lido:rightsType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                     <lido:term>Public Domain Mark 1.0</lido:term>
+                  </lido:rightsType>
+               </lido:rightsResource>
+            </lido:resourceSet>
+         </lido:resourceWrap>
+      </lido:administrativeMetadata></lido:lido>
