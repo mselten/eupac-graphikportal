@@ -1,0 +1,368 @@
+<lido:lido xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org         http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd"><lido:lidoRecID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/lido/26800</lido:lidoRecID><lido:objectPublishedID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="https://www.kunsthalle-bremen.de/">DE-MUS-027614/object/26800</lido:objectPublishedID><lido:descriptiveMetadata xml:lang="de">
+         <lido:objectClassificationWrap>
+            <lido:objectWorkTypeWrap>
+               <lido:objectWorkType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+                  <lido:term>Druckgraphik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Druckgraphik</lido:term>
+               </lido:objectWorkType>
+            </lido:objectWorkTypeWrap>
+            <lido:classificationWrap>
+               <lido:classification lido:type="Objektklassifikation" lido:sortorder="1">
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+                  <lido:term>Druckgraphik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Druckgraphik</lido:term>
+               </lido:classification>
+            </lido:classificationWrap>
+         </lido:objectClassificationWrap>
+         <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+               <lido:titleSet lido:type="Originaltitel" lido:sortorder="1">
+                  <lido:appellationValue lido:pref="preferred">Le Bachelier Sanson Carasco, sous le nom du Chevalier des Miroirs, est vaincu par Don Quichotte, aus: Charles Coypel, Miguel de Cervantes, "Les principales avantures de l’admirable Don Quichotte", 1746</lido:appellationValue>
+               </lido:titleSet>
+               <lido:titleSet lido:type="Titel" lido:sortorder="2">
+                  <lido:appellationValue lido:pref="alternate">Sanson Carasco wurde von Don Quijote besiegt</lido:appellationValue>
+               </lido:titleSet>
+            </lido:titleWrap>
+            <lido:inscriptionsWrap>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="1">
+                  <lido:inscriptionTranscription>Ch. Coypel pinx</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>links unterhalb der Darstellung signiert</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="10">
+                  <lido:inscriptionTranscription>Le Bachelier Sanson Carasco, sous le nom du Chevalier des Miroirs, est vaincu par Don Quichotte qui lui ordonne d’aller se jetter aux pieds de Dulcinée.</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>unten Mitte unterhalb der Darstellung betitelt</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="15">
+                  <lido:inscriptionTranscription>03/3269 [Inventarnummer]</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>unten links unterhalb der Darstellung von fremder Hand mit Bleistift bezeichnet</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="5">
+                  <lido:inscriptionTranscription>B. Picart sculp.</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>rechts unterhalb der Darstellung signiert</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+            </lido:inscriptionsWrap>
+            <lido:repositoryWrap>
+               <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+                  <lido:repositoryName>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                        <lido:appellationValue>Bremen, Kunsthalle Bremen</lido:appellationValue>
+                     </lido:legalBodyName>
+                     <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+                  </lido:repositoryName>
+                  <lido:workID lido:sortorder="1" lido:type="Inventarnummer">1903/3269</lido:workID>
+                  <lido:repositoryLocation>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/4008135-7</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://www.geonames.org/2944387</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/page/tgn/7005286</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Bremen</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:repositoryLocation>
+               </lido:repositorySet>
+            </lido:repositoryWrap>
+            
+            <lido:objectMeasurementsWrap>
+               <lido:objectMeasurementsSet lido:sortorder="5">
+                  <lido:displayObjectMeasurements>Blatt: 327 x 238 mm</lido:displayObjectMeasurements>
+                  <lido:objectMeasurements>
+                     <lido:measurementsSet lido:sortorder="1"><lido:measurementType>Blatt</lido:measurementType><lido:measurementUnit>mm</lido:measurementUnit>
+                        
+                        
+                        <lido:measurementValue>327,00</lido:measurementValue>
+                     </lido:measurementsSet>
+                     <lido:measurementsSet lido:sortorder="2"><lido:measurementType>Blatt</lido:measurementType><lido:measurementUnit>mm</lido:measurementUnit>
+                        
+                        
+                        <lido:measurementValue>238,00</lido:measurementValue>
+                     </lido:measurementsSet>
+                     
+                  </lido:objectMeasurements>
+               </lido:objectMeasurementsSet>
+               <lido:objectMeasurementsSet lido:sortorder="1">
+                  <lido:displayObjectMeasurements>Platte: 225 x 162 mm</lido:displayObjectMeasurements>
+                  <lido:objectMeasurements>
+                     <lido:measurementsSet lido:sortorder="1"><lido:measurementType>Platte</lido:measurementType><lido:measurementUnit>mm</lido:measurementUnit>
+                        
+                        
+                        <lido:measurementValue>225,00</lido:measurementValue>
+                     </lido:measurementsSet>
+                     <lido:measurementsSet lido:sortorder="2"><lido:measurementType>Platte</lido:measurementType><lido:measurementUnit>mm</lido:measurementUnit>
+                        
+                        
+                        <lido:measurementValue>162,00</lido:measurementValue>
+                     </lido:measurementsSet>
+                     
+                  </lido:objectMeasurements>
+               </lido:objectMeasurementsSet>
+            </lido:objectMeasurementsWrap>
+         </lido:objectIdentificationWrap>
+         <lido:eventWrap>
+            <lido:eventSet lido:sortorder="1">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Herstellung</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor lido:sortorder="1">
+                     <lido:displayActorInRole>Bernard Picart (*Paris 1673 - † Amsterdam 1733), Stecher</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/123379636</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Picart, Bernard</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Picart, de Romein</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Picart, Bernar, le romain</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Picart, B., le romain</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Picart De Romein, Bernard</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Picart Le Romain, Bernard</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Picart</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">B. P.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Picart, Bernard, le romain</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Picard, Bernard</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Picart, Bernardus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Picaret, Bernard</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Piccard, Bernhard</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Picart, le romain</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Picart, B.</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1673-06-11</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1733-05-08</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025165</lido:conceptID>
+                           <lido:term>Stecher</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Stecher</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>1709-1733</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1709</lido:earliestDate>
+                        <lido:latestDate>1733</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventMaterialsTech>
+                     <lido:displayMaterialsTech>Kupferstich</lido:displayMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041341</lido:conceptID>
+                           <lido:term>Kupferstich</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Kupferstich (Druckverfahren)</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Kupferstich (Druckverfahren)</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="2">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00228</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Veröffentlichung</lido:term>
+                  </lido:eventType>
+                  <lido:eventDate>
+                     <lido:displayDate>1746</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1746</lido:earliestDate>
+                        <lido:latestDate>1746</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="3">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00486</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Entwurf</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor lido:sortorder="5">
+                     <lido:displayActorInRole>nach Charles-Antoine Coypel (*Paris 1694 - † Paris 1752), Inventor</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/119242427</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Coypel, Charles-Antoine</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Coypel, C.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Coypel, C. A.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Coypelino, C. A.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Coypel, Charles Antoine</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Coypel, Louis Charles</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Coypel, Charles</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Coypel, Ch.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Coypel, Car.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Coypel</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1694-07-11</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1752-06-14</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025845</lido:conceptID>
+                           <lido:term>Inventor</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Inventor</lido:term>
+                        </lido:roleActor>
+                        <lido:attributionQualifierActor>nach</lido:attributionQualifierActor>
+                        <lido:attributionQualifierActor>nach</lido:attributionQualifierActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="301">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Erwerb</lido:term>
+                  </lido:eventType>
+                  <lido:eventDate>
+                     <lido:displayDate>1903</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1903</lido:earliestDate>
+                        <lido:latestDate>1903</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventDescriptionSet>
+                     <lido:descriptiveNoteValue>Geschenk Dr. Hermann Henrich Meier jun. 1903</lido:descriptiveNoteValue>
+                  </lido:eventDescriptionSet>
+               </lido:event>
+            </lido:eventSet>
+         </lido:eventWrap>
+         <lido:objectRelationWrap>
+            <lido:subjectWrap>
+               <lido:subjectSet>
+                  <lido:subject>
+                     <lido:subjectConcept>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://iconclass.org/25H154(%2B1)</lido:conceptID>
+                        <lido:term xml:lang="de">Lichtung im Wald (+ Landschaftsdarstellung mit Figuren, Staffage)</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Lichtung</lido:term>
+                     </lido:subjectConcept>
+                     <lido:subjectConcept>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://iconclass.org/45C22</lido:conceptID>
+                        <lido:term xml:lang="de">Rüstung, Panzer</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Rüstung</lido:term>
+                     </lido:subjectConcept>
+                     <lido:subjectConcept>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://iconclass.org/31A2351</lido:conceptID>
+                        <lido:term xml:lang="de">auf der Erde (dem Boden) sitzen</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">sitzen</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Erde</lido:term>
+                     </lido:subjectConcept>
+                     <lido:subjectConcept>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://iconclass.org/83(CERVANTES,_Don_Quijote)</lido:conceptID>
+                        <lido:term xml:lang="de">Szenen aus bestimmten Werken der Literatur (CERVANTES, Don Quijote)</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">literarisches Werk</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Buch</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Roman</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Dichtkunst</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Maskerade</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Spiel</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Titel</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Name</lido:term>
+                     </lido:subjectConcept>
+                     <lido:subjectConcept>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://iconclass.org/33B2(%2B0)</lido:conceptID>
+                        <lido:term xml:lang="de">sich duellieren (+ Variante)</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Duell</lido:term>
+                     </lido:subjectConcept>
+                  </lido:subject>
+               </lido:subjectSet>
+            </lido:subjectWrap>
+            <lido:relatedWorksWrap>
+               <lido:relatedWorkSet>
+                  
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100">R3i_realises</lido:conceptID>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/26774</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46i_forms_part_of</lido:conceptID>
+                     <lido:term>Teil von</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+            </lido:relatedWorksWrap>
+         </lido:objectRelationWrap>
+      </lido:descriptiveMetadata><lido:administrativeMetadata xml:lang="de">
+         <lido:rightsWorkWrap>
+            <lido:rightsWorkSet lido:sortorder="1">
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                  <lido:term>Public Domain Mark 1.0</lido:term>
+               </lido:rightsType>
+            </lido:rightsWorkSet>
+         </lido:rightsWorkWrap>
+         <lido:recordWrap>
+            <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">26800</lido:recordID>
+            <lido:recordType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+               <lido:term>Blatt aus Serie</lido:term>
+            </lido:recordType>
+            <lido:recordSource>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+            </lido:recordSource>
+            <lido:recordRights>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                  <lido:term>CC0 1.0 Universell</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+               </lido:rightsHolder>
+            </lido:recordRights>
+            <lido:recordInfoSet>
+               <lido:recordInfoLink>https://onlinekatalog.kunsthalle-bremen.de/DE-MUS-027614/object/26800</lido:recordInfoLink>
+               <lido:recordMetadataDate>2024-11-16T11:07:22.775</lido:recordMetadataDate>
+            </lido:recordInfoSet>
+         </lido:recordWrap>
+         <lido:resourceWrap>
+            <lido:resourceSet lido:sortorder="1">
+               
+               
+               <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/26800/123315</lido:resourceID>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>https://onlinekatalog.kunsthalle-bremen.de/DE-MUS-027614/object/26800/123315</lido:linkResource>
+               </lido:resourceRepresentation>
+               <lido:resourceType>
+                  <lido:term>image</lido:term>
+               </lido:resourceType>
+               
+               
+               <lido:rightsResource>
+                  <lido:rightsType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                     <lido:term>Public Domain Mark 1.0</lido:term>
+                  </lido:rightsType>
+                  <lido:creditLine>Kunsthalle Bremen - Der Kunstverein in Bremen, Foto: Die Kulturgutscanner</lido:creditLine>
+               </lido:rightsResource>
+            </lido:resourceSet>
+         </lido:resourceWrap>
+      </lido:administrativeMetadata></lido:lido>

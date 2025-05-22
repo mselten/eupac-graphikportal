@@ -1,0 +1,1020 @@
+<lido:lido xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org         http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd"><lido:lidoRecID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/lido/98299</lido:lidoRecID><lido:objectPublishedID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="https://www.kunsthalle-bremen.de/">DE-MUS-027614/object/98299</lido:objectPublishedID><lido:descriptiveMetadata xml:lang="de">
+         <lido:objectClassificationWrap>
+            <lido:objectWorkTypeWrap>
+               <lido:objectWorkType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+                  <lido:term>Druckgraphik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Druckgraphik</lido:term>
+               </lido:objectWorkType>
+            </lido:objectWorkTypeWrap>
+            <lido:classificationWrap>
+               <lido:classification lido:type="Objektklassifikation" lido:sortorder="1">
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+                  <lido:term>Druckgraphik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Druckgraphik</lido:term>
+               </lido:classification>
+            </lido:classificationWrap>
+         </lido:objectClassificationWrap>
+         <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+               <lido:titleSet lido:type="Originaltitel" lido:sortorder="1">
+                  <lido:appellationValue lido:pref="preferred">Paris in time</lido:appellationValue>
+               </lido:titleSet>
+            </lido:titleWrap>
+            
+            <lido:repositoryWrap>
+               <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+                  <lido:repositoryName>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                        <lido:appellationValue>Bremen, Kunsthalle Bremen</lido:appellationValue>
+                     </lido:legalBodyName>
+                     <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+                  </lido:repositoryName>
+                  <lido:repositoryLocation>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/4008135-7</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://www.geonames.org/2944387</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/page/tgn/7005286</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Bremen</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:repositoryLocation>
+               </lido:repositorySet>
+            </lido:repositoryWrap>
+            
+            
+         </lido:objectIdentificationWrap>
+         <lido:eventWrap>
+            <lido:eventSet lido:sortorder="1">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Herstellung</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor lido:sortorder="1">
+                     <lido:displayActorInRole>Adolphe Martial Potémont (*Paris 1828 - † Paris 1883), Radierer</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/109507711</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Potémont, Adolphe Théodore Jules Martial</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Potémont, Adolphe</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Potémont, Adolphe Martial</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Martial</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Martial, A.-P.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Martial Potémont, Adolphe-Thédore-Jules</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Potémont, Adolphe-Théodore-Jules-Martial</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1828</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1883</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025174</lido:conceptID>
+                           <lido:term>Radierer</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Radierer</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>1874</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1874</lido:earliestDate>
+                        <lido:latestDate>1874</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace lido:sortorder="1">
+                     <lido:displayPlace>Paris</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="GND">https://d-nb.info/gnd/4044660-8</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Paris</lido:appellationValue>
+                        </lido:namePlaceSet>
+                     </lido:place>
+                  </lido:eventPlace>
+                  <lido:eventMaterialsTech lido:sortorder="1">
+                     <lido:displayMaterialsTech>Radierung</lido:displayMaterialsTech>
+                     
+                  </lido:eventMaterialsTech>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="2">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00487</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Herstellung des Exemplars</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor lido:sortorder="5">
+                     <lido:displayActorInRole>Abraham Beillet (*1801 - † 1899), Drucker</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/103773257X</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Beillet</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Beillet, Abraham</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum">1801</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum">1899</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025732</lido:conceptID>
+                           <lido:term>Drucker</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Drucker</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="3">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Veröffentlichung</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor lido:sortorder="10">
+                     <lido:displayActorInRole>E. Lacroix et Cie, Verleger</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred">E. Lacroix et Cie</lido:appellationValue>
+                           </lido:nameActorSet>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025574</lido:conceptID>
+                           <lido:term>Verleger</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Verleger</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventPlace lido:sortorder="5">
+                     <lido:displayPlace>Paris</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="GND">https://d-nb.info/gnd/4044660-8</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Paris</lido:appellationValue>
+                        </lido:namePlaceSet>
+                     </lido:place>
+                  </lido:eventPlace>
+               </lido:event>
+            </lido:eventSet>
+         </lido:eventWrap>
+         <lido:objectRelationWrap>
+            
+            <lido:relatedWorksWrap>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Beraldi (Graveurs XIXe Siècle) XI.35.5</lido:objectID>
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100">R3i_realises</lido:conceptID>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100">R3i_realises</lido:conceptID>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1480, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Paris intime, Mappenumschlag der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/92874</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1481, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Ordre du tirage, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/92875</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1484, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Tout en admirant les savants..., Blatt 2 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/92876</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1482, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Paris intime, Blatt 1 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/92877</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1483, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Le Pont royal, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/92878</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1485, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, La Bièvre, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/92879</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1488, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Rivière de Bièvre, Blatt 4 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/92880</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1486, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, La Bièvre, Blatt 3 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/92881</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1487, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Bièvre, aus "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/92882</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1489, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Cinquième arrondissement, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/92883</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1492, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Ancien marché aux chevaux, Blatt 6 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/92884</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1490, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Ancien marché aux chevaux, Blatt 5 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/92885</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1491, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Ancien marché-aux-chevaux, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/92886</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1493, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Marché-aux-chevaux, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/92887</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1496, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Rue Mouffetard marché des patriarches, Blatt 8 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/92888</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1494, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Cour des patriarches - marché, Blatt 7 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93106</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1495, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Le Clos des patriarches, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93108</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1497, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Buveurs, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93111</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1500, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, L’Ecole Polytechnique doit a Jeanne de Navarre..., Blatt 10 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93114</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1498, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Les Buveurs, Blatt 9 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93121</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1499, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, L’École Polytechnique, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93122</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1501, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, L’Ouvriere, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93123</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1504, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Place de la Bourse - le patissier Julien, Blatt 12 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93125</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1502, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Blatt 11 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93129</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1503, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Patisserie de la Bourse, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93132</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1505, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Affiches de la Bourse, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93133</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1508, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Le Théâtre du Vaudeville de la Place de la Bourse et la rue des Filles-St-Thomas, Blatt 14 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93135</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1506, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Le 24 Mai 1869 le quartier de la Bourse était en émoi..., Blatt 12 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93140</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1507, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Quartier de la Bourse - Tribunal de Commerce, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93143</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1509, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Rue des Colonnes, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93150</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1512, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Les Actrices, Blatt 16 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93151</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1510, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Rue des Colonnes, Blatt 15 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93157</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1511, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Actrice, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93158</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1513, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Rue du Croissant, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93160</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1516, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Rue du Croissant - l’Opera de la rue Richelieu, Blatt 18 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93164</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1514, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Rue du Croissant, Blatt 17 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93172</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1515, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Rue du Croissant, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93173</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1517, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Place Louvois, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93174</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1520, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Feydeau, Blatt 20 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93175</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1518, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, L’Opera réduction d’une image d’optique 1796, Blatt 19 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93176</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1519, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Feydeau, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93177</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1521, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Theatres, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93178</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1524, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Théâtre du Quartier St. Marcel, Blatt 22 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93179</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1522, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, La Salle St. Marcel, Blatt 21 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93180</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1523, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Quartier St. Marcel, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93181</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1525, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Rue St. Hyacinthe, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93182</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1528, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, L’Hotel des Stuarts et les Catacombes, Blatt 24 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93183</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1526, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Percement de la rue Soufflot, Blatt 23 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93184</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1527, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Hotel des Stuarts, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93185</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1529, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Catacombes, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93186</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1532, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Il serait bien facile d’extraire..., Blatt 26 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93187</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1530, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Entrée des catacombes, Blatt 25 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93188</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1531, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Berge du Pont Royal, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93189</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1533, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Auteuil en 1871, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93190</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1536, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Gare du chemin de fer d’Auteuil 1871, Blatt 28 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93191</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1534, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Grande rue d’Auteuil 26. Mai 1871, Blatt 27 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93192</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1535, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Gare d’Auteuil, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93193</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1537, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Pont du chemin de fer, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93194</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1540, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Lorsque sous cette commune..., Blatt 30 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93195</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1538, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Porte d’Auteuil 1871 et Pont du chemin de fer d’Auteuil, Blatt 29 der Folge "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93196</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2022/1539, Adolphe Martial Potémont (10.2.1827 - 14.10.1883)/ Abraham Beillet (1801 - 1899)/ E. Lacroix et Cie, Paris 1874, aus: "Paris intime", Herstellung der Druckplatte: 1874</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/93197</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+            </lido:relatedWorksWrap>
+         </lido:objectRelationWrap>
+      </lido:descriptiveMetadata><lido:administrativeMetadata xml:lang="de">
+         <lido:rightsWorkWrap>
+            <lido:rightsWorkSet lido:sortorder="1">
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                  <lido:term>Public Domain Mark 1.0</lido:term>
+               </lido:rightsType>
+            </lido:rightsWorkSet>
+         </lido:rightsWorkWrap>
+         <lido:recordWrap>
+            <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">98299</lido:recordID>
+            <lido:recordType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org">http://terminology.lido-schema.org/lido00453</lido:conceptID>
+               <lido:term>Mappe</lido:term>
+            </lido:recordType>
+            <lido:recordSource>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+            </lido:recordSource>
+            <lido:recordRights>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                  <lido:term>CC0 1.0 Universell</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+               </lido:rightsHolder>
+            </lido:recordRights>
+            <lido:recordInfoSet>
+               <lido:recordInfoLink>https://onlinekatalog.kunsthalle-bremen.de/DE-MUS-027614/object/98299</lido:recordInfoLink>
+               <lido:recordMetadataDate>2025-02-11T12:41:43.723</lido:recordMetadataDate>
+            </lido:recordInfoSet>
+         </lido:recordWrap>
+         
+      </lido:administrativeMetadata></lido:lido>

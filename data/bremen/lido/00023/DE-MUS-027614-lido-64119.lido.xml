@@ -1,0 +1,305 @@
+<lido:lido xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org         http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd"><lido:lidoRecID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/lido/64119</lido:lidoRecID><lido:objectPublishedID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="https://www.kunsthalle-bremen.de/">DE-MUS-027614/object/64119</lido:objectPublishedID><lido:descriptiveMetadata xml:lang="de">
+         <lido:objectClassificationWrap>
+            <lido:objectWorkTypeWrap>
+               <lido:objectWorkType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+                  <lido:term>Druckgraphik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Druckgraphik</lido:term>
+               </lido:objectWorkType>
+            </lido:objectWorkTypeWrap>
+            <lido:classificationWrap>
+               <lido:classification lido:type="Objektklassifikation" lido:sortorder="1">
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+                  <lido:term>Druckgraphik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Druckgraphik</lido:term>
+               </lido:classification>
+            </lido:classificationWrap>
+         </lido:objectClassificationWrap>
+         <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+               <lido:titleSet lido:type="Titel" lido:sortorder="1">
+                  <lido:appellationValue lido:pref="preferred">Johannes Teuschlein, "In divi A. Augustini Hypponensis episcopi undecim parteis omnium contentorum index consummatissimus", Nürnberg 1517</lido:appellationValue>
+               </lido:titleSet>
+            </lido:titleWrap>
+            
+            <lido:repositoryWrap>
+               <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+                  <lido:repositoryName>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                        <lido:appellationValue>Bremen, Kunsthalle Bremen</lido:appellationValue>
+                     </lido:legalBodyName>
+                     <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+                  </lido:repositoryName>
+                  <lido:repositoryLocation>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/4008135-7</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://www.geonames.org/2944387</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/page/tgn/7005286</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Bremen</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:repositoryLocation>
+               </lido:repositorySet>
+            </lido:repositoryWrap>
+            
+            
+         </lido:objectIdentificationWrap>
+         <lido:eventWrap>
+            <lido:eventSet lido:sortorder="1">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Herstellung</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor lido:sortorder="20">
+                     <lido:displayActorInRole>ehemals zugeschrieben an Albrecht Dürer (*Nürnberg 1471 - † Nürnberg 1528), Formschneider</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/11852786X</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Dürer, Albrecht</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Dürer, Albert</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Dürer, Albert Albrecht</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Dürer, Alberto</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Duerer, Albrecht</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Dürer</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Direr, Albreht</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Dīrers, Albrehts</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Dürero, Alberto</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Djurer, Albrecht</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Djurer, Al'brecht</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Djurer, A.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Dürrer, Albert</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Dürrer, Alb.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Durer, Albert</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Durer, Alberto</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Durer, Albertus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Durer, Albrecht</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Durer</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Durero, Alberto</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Durero</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Durerus, Albertus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Dürer, Albertus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Duerer, Albert</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Dyûrâ</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1471-05-21</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1528-04-06</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025178</lido:conceptID>
+                           <lido:term>Formschneider</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Formschneider</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventActor lido:sortorder="1">
+                     <lido:displayActorInRole>Anonym, deutsch, 16. Jahrhundert (*1501 - † 1600), Formschneider</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred">Anonym, deutsch, 16. Jahrhundert</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate>1501</lido:earliestDate>
+                              <lido:latestDate>1600</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025178</lido:conceptID>
+                           <lido:term>Formschneider</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Formschneider</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>vor 1517</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1515</lido:earliestDate>
+                        <lido:latestDate>1517</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventMaterialsTech>
+                     <lido:displayMaterialsTech>Holzschnitt</lido:displayMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041405</lido:conceptID>
+                           <lido:term>Holzschnitt</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Holzschnitt (Druckverfahren)</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="2">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00228</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Veröffentlichung</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor lido:sortorder="10">
+                     <lido:displayActorInRole>Hans Koberger (*Nürnberg 1449 - † 1548), Verleger</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/136106196</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Koberger, Hans</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Koberger, Hans, der Ältere</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Koberger, Johann</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Koberger, Johannes</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Koberger, Joannes</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Koberger, Jean</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Kobergius, Joannes</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Koburger, Joannes</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Koburger, Hans</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Coberger, Hans</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Coberger, Johannes</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Coberger, Joannes</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Coberger, Jean</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Coubergus, Johannes</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1454</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1543</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025574</lido:conceptID>
+                           <lido:term>Verleger</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>26.7.1517</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1517</lido:earliestDate>
+                        <lido:latestDate>1517</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace lido:sortorder="1">
+                     <lido:displayPlace>Nürnberg</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="GND">http://d-nb.info/gnd/4042742-0</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Nürnberg</lido:appellationValue>
+                        </lido:namePlaceSet>
+                     </lido:place>
+                  </lido:eventPlace>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="3">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00487</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Herstellung des Exemplars</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor lido:sortorder="5">
+                     <lido:displayActorInRole>Friedrich Peypus (*Forchheim (Oberfranken) 1485 - † Nürnberg 1534), Drucker</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/129085154</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Peypus, Friedrich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Beysus, Friedrich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Beipus, Fritz</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Pypus, Frederick</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Peypus, Friderich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Peypus, Fryderich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Peypus, Foedericus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Peyp, Fœdericus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Peypesius, Fridericus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Beipus, Friedrich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Beipus, Arthemisius</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Peybus, Friedrich</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1485</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1534</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025732</lido:conceptID>
+                           <lido:term>Drucker</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Drucker</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+               </lido:event>
+            </lido:eventSet>
+         </lido:eventWrap>
+         <lido:objectRelationWrap>
+            
+            <lido:relatedWorksWrap>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1906/425, Anonym, deutsch, 16. Jahrhundert (1501 - 1600)/ alternative Zuschreibung: Hans Springinklee (zwischen 1490 und 1495 - um 1540)/ Friedrich Peypus (1485 - 1534)/ Hans Koberger (um 1454 - um 1543), Schmuckrahmen mit der Taufe Christi, Titelblatt aus: Johannes Teuschlein, "In divi A. Augustini Hypponensis episcopi undecim parteis omnium contentorum index consummatissimus", Nürnberg 1517, Herstellung der Druckplatte: vor 1517</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/54079</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1851/1887, Anonym, deutsch, 16. Jahrhundert (1501 - 1600)/ alternative Zuschreibung: Hans Springinklee (zwischen 1490 und 1495 - um 1540)/ Friedrich Peypus (1485 - 1534)/ Hans Koberger (um 1454 - um 1543), Schmuckrahmen mit der Taufe Christi, Titelblatt aus: Johannes Teuschlein, "In divi A. Augustini Hypponensis episcopi undecim parteis omnium contentorum index consummatissimus", Nürnberg 1517, Herstellung der Druckplatte: vor 1517</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/53848</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+            </lido:relatedWorksWrap>
+         </lido:objectRelationWrap>
+      </lido:descriptiveMetadata><lido:administrativeMetadata xml:lang="de">
+         <lido:rightsWorkWrap>
+            <lido:rightsWorkSet lido:sortorder="1">
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                  <lido:term>Public Domain Mark 1.0</lido:term>
+               </lido:rightsType>
+            </lido:rightsWorkSet>
+         </lido:rightsWorkWrap>
+         <lido:recordWrap>
+            <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">64119</lido:recordID>
+            <lido:recordType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org">http://terminology.lido-schema.org/lido00453</lido:conceptID>
+               <lido:term>Serie</lido:term>
+            </lido:recordType>
+            <lido:recordSource>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+            </lido:recordSource>
+            <lido:recordRights>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                  <lido:term>CC0 1.0 Universell</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+               </lido:rightsHolder>
+            </lido:recordRights>
+            <lido:recordInfoSet>
+               <lido:recordInfoLink>https://onlinekatalog.kunsthalle-bremen.de/DE-MUS-027614/object/64119</lido:recordInfoLink>
+               <lido:recordMetadataDate>2025-02-04T16:15:40.974</lido:recordMetadataDate>
+            </lido:recordInfoSet>
+         </lido:recordWrap>
+         
+      </lido:administrativeMetadata></lido:lido>

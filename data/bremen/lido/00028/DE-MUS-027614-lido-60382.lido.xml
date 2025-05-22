@@ -1,0 +1,293 @@
+<lido:lido xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org         http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd"><lido:lidoRecID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/lido/60382</lido:lidoRecID><lido:objectPublishedID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="https://www.kunsthalle-bremen.de/">DE-MUS-027614/object/60382</lido:objectPublishedID><lido:descriptiveMetadata xml:lang="de">
+         <lido:objectClassificationWrap>
+            <lido:objectWorkTypeWrap>
+               <lido:objectWorkType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+                  <lido:term>Druckgraphik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Druckgraphik</lido:term>
+               </lido:objectWorkType>
+            </lido:objectWorkTypeWrap>
+            <lido:classificationWrap>
+               <lido:classification lido:type="Objektklassifikation" lido:sortorder="1">
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+                  <lido:term>Druckgraphik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Druckgraphik</lido:term>
+               </lido:classification>
+            </lido:classificationWrap>
+         </lido:objectClassificationWrap>
+         <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+               <lido:titleSet lido:type="Originaltitel" lido:sortorder="1">
+                  <lido:appellationValue lido:pref="preferred">Officia. Ein Buch, So Marcus Tullius Cicero der Römer, zu seynem Sune Marco, von den tugentsamen Amptern und zugehörungen, eynes wol und rechtlebenden Menschen in Latein geschriben, Augsburg 1533</lido:appellationValue>
+               </lido:titleSet>
+               <lido:titleSet lido:type="Titel" lido:sortorder="2">
+                  <lido:appellationValue lido:pref="alternate">Teutsch Cicero</lido:appellationValue>
+               </lido:titleSet>
+            </lido:titleWrap>
+            
+            <lido:repositoryWrap>
+               <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+                  <lido:repositoryName>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                        <lido:appellationValue>Bremen, Kunsthalle Bremen</lido:appellationValue>
+                     </lido:legalBodyName>
+                     <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+                  </lido:repositoryName>
+                  <lido:repositoryLocation>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/4008135-7</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://www.geonames.org/2944387</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/page/tgn/7005286</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Bremen</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:repositoryLocation>
+               </lido:repositorySet>
+            </lido:repositoryWrap>
+            
+            
+         </lido:objectIdentificationWrap>
+         <lido:eventWrap>
+            <lido:eventSet lido:sortorder="1">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Herstellung</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor lido:sortorder="1">
+                     <lido:displayActorInRole>Hans Weiditz (*Straßburg 1495 - † Freiburg im Breisgau 1536), Formschneider</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/118806491</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Weiditz, Hans</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Wydyz, Hans</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Weiditz, Hans, der Jüngere</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Weidlitz, Hans</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Widitz, Hans</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Wyditz, Hans</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Wydyz, Joh.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Wydyz, Johannes</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Weiditz, Johann</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Weiditz, Johannes</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Guidictius, Johannes</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Wydytz, Hans</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Weyditz, Hans</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Weiditz, Hans d. J.</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1495</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1536</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025178</lido:conceptID>
+                           <lido:term>Formschneider</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Formschneider</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>1532-1533</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1532</lido:earliestDate>
+                        <lido:latestDate>1533</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventMaterialsTech>
+                     <lido:displayMaterialsTech>Holzschnitt</lido:displayMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041405</lido:conceptID>
+                           <lido:term>Holzschnitt</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Holzschnitt (Druckverfahren)</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="2">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00487</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Herstellung des Exemplars</lido:term>
+                  </lido:eventType>
+                  <lido:eventDate>
+                     <lido:displayDate>1.10.1533</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1533</lido:earliestDate>
+                        <lido:latestDate>1533</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="3">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00228</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Veröffentlichung</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor lido:sortorder="10">
+                     <lido:displayActorInRole>Heinrich Steiner (*Augsburg 1500 - † 1548), Verleger</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/119838451</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Steiner, Heinrich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Steiner, Heinrich von Augsburg</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Seiner, Heinrich Siliceus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Steyner, Heinrich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Steyner, Heinricus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Steyner, Henricus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Steyner, Heynrich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Steyner, Haynrich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Steynerus, Henricus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Stainer, Heinrich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Stainer, Hainrich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Stainer, Heynrich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Stayner, Heinrich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Stayner, Hainrich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Stayner, Haynrich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Stayner, Heynrych</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Siliceus, Heinrich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Siliceus, Henricus</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum">1500</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1548</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025574</lido:conceptID>
+                           <lido:term>Verleger</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>1533</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1533</lido:earliestDate>
+                        <lido:latestDate>1533</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace lido:sortorder="1">
+                     <lido:displayPlace>Augsburg</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="GND">http://d-nb.info/gnd/4003614-5</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Augsburg</lido:appellationValue>
+                        </lido:namePlaceSet>
+                     </lido:place>
+                  </lido:eventPlace>
+               </lido:event>
+            </lido:eventSet>
+         </lido:eventWrap>
+         <lido:objectRelationWrap>
+            
+            <lido:relatedWorksWrap>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/125085</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org">http://terminology.lido-schema.org/lido00622</lido:conceptID>
+                     <lido:term>weiterer Abzug</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Hollstein German XLIII.137.742-782</lido:objectID>
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100">R3i_realises</lido:conceptID>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Bartsch VII.261.55</lido:objectID>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Le Blanc III.437.75</lido:objectID>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Bartsch III.231.55</lido:objectID>
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100">R3i_realises</lido:conceptID>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30515 recto, Hans Leonhard Schäufelein (um 1482/83 - 1539/40)/ Heinrich Steiner (vor 1500 - 3.1548 oder 4.1548), Tod der Lucrezia, aus: Marcus Tullius Cicero und Johann von Schwarzenberg, Der Teutsch Cicero, Augsburg 1533, S. CXV recto, Herstellung der Druckplatte: 1532-1533</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/39952</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30515 verso, Hans Leonhard Schäufelein (um 1482/83 - 1539/40)/ Heinrich Steiner (vor 1500 - 3.1548 oder 4.1548), Marcus Furius Camillus lässt den Schulmeister von Falerii durch seine Schüler bestrafen, aus: Marcus Tullius Cicero und Johann von Schwarzenberg, Der Teutsch Cicero, Augsburg 1533, S. CXV verso, Herstellung der Druckplatte: 1532-1533</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/39966</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+            </lido:relatedWorksWrap>
+         </lido:objectRelationWrap>
+      </lido:descriptiveMetadata><lido:administrativeMetadata xml:lang="de">
+         <lido:rightsWorkWrap>
+            <lido:rightsWorkSet lido:sortorder="1">
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                  <lido:term>Public Domain Mark 1.0</lido:term>
+               </lido:rightsType>
+            </lido:rightsWorkSet>
+         </lido:rightsWorkWrap>
+         <lido:recordWrap>
+            <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">60382</lido:recordID>
+            <lido:recordType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org">http://terminology.lido-schema.org/lido00453</lido:conceptID>
+               <lido:term>Serie</lido:term>
+            </lido:recordType>
+            <lido:recordSource>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+            </lido:recordSource>
+            <lido:recordRights>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                  <lido:term>CC0 1.0 Universell</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+               </lido:rightsHolder>
+            </lido:recordRights>
+            <lido:recordInfoSet>
+               <lido:recordInfoLink>https://onlinekatalog.kunsthalle-bremen.de/DE-MUS-027614/object/60382</lido:recordInfoLink>
+               <lido:recordMetadataDate>2025-02-04T16:27:48.241</lido:recordMetadataDate>
+            </lido:recordInfoSet>
+         </lido:recordWrap>
+         
+      </lido:administrativeMetadata></lido:lido>

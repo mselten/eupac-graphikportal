@@ -1,0 +1,496 @@
+<lido:lido xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org         http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd"><lido:lidoRecID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/lido/100431</lido:lidoRecID><lido:objectPublishedID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="https://www.kunsthalle-bremen.de/">DE-MUS-027614/object/100431</lido:objectPublishedID><lido:descriptiveMetadata xml:lang="de">
+         <lido:objectClassificationWrap>
+            <lido:objectWorkTypeWrap>
+               <lido:objectWorkType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+                  <lido:term>Druckgraphik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Druckgraphik</lido:term>
+               </lido:objectWorkType>
+            </lido:objectWorkTypeWrap>
+            <lido:classificationWrap>
+               <lido:classification lido:type="Objektklassifikation" lido:sortorder="1">
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+                  <lido:term>Druckgraphik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Druckgraphik</lido:term>
+               </lido:classification>
+            </lido:classificationWrap>
+         </lido:objectClassificationWrap>
+         <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+               <lido:titleSet lido:type="Titel" lido:sortorder="1">
+                  <lido:appellationValue lido:pref="preferred">Sammlung von Fragmenten künstlerischer Themen</lido:appellationValue>
+               </lido:titleSet>
+            </lido:titleWrap>
+            
+            <lido:repositoryWrap>
+               <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+                  <lido:repositoryName>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                        <lido:appellationValue>Bremen, Kunsthalle Bremen</lido:appellationValue>
+                     </lido:legalBodyName>
+                     <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+                  </lido:repositoryName>
+                  <lido:repositoryLocation>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/4008135-7</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://www.geonames.org/2944387</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/page/tgn/7005286</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Bremen</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:repositoryLocation>
+               </lido:repositorySet>
+            </lido:repositoryWrap>
+            
+            
+         </lido:objectIdentificationWrap>
+         <lido:eventWrap>
+            <lido:eventSet lido:sortorder="1">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Herstellung</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor lido:sortorder="1">
+                     <lido:displayActorInRole>Jean Claude Richard de Saint-Non (*1727 - † 1791), Radierer</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/119148226</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Saint Non, Jean Claude Richard de</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Saint-Non, Jean Claude Richard de</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Saint-Non, Jean-Claude Richard de</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Non, Jean Claude Richard de Saint</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Saint-Non, Richard de</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Saintnon, Richard de</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Saintnon, Jean Claude Richard</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Saint-Non, Jean-Baptiste Claude Richard de</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Saint-Non, Jean C. de</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Saint-Non, Jean-Claude de</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Richard, Jean-Claude</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Richard, Jean C.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Richard de Saint-Non, Jean-Claude</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Richard-de-Saint-Non, Jean C.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Richard-de-Saint-Non, Jean-Claude</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Non de</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Richard de Saint-Non, Jean Claude</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Abbé de Saint-Non</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Abate di Saint-Non</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1727</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1791</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025174</lido:conceptID>
+                           <lido:term>Radierer</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Radierer</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>1770-1775</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1770</lido:earliestDate>
+                        <lido:latestDate>1775</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace lido:sortorder="1">
+                     <lido:displayPlace>Rom</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="GND">https://d-nb.info/gnd/4050471-2</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Rom</lido:appellationValue>
+                        </lido:namePlaceSet>
+                     </lido:place>
+                  </lido:eventPlace>
+                  <lido:eventMaterialsTech>
+                     <lido:displayMaterialsTech>Radierung, Aquatinta</lido:displayMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041365</lido:conceptID>
+                           <lido:term>Radierung</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Radierung (Druckverfahren)</lido:term>
+                        </lido:termMaterialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041366</lido:conceptID>
+                           <lido:term>Aquatinta</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Aquatinta (Druckverfahren)</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Aquatinta (Druckverfahren)</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+               </lido:event>
+            </lido:eventSet>
+         </lido:eventWrap>
+         <lido:objectRelationWrap>
+            
+            <lido:relatedWorksWrap>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Le Blanc III.414.40</lido:objectID>
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100">R3i_realises</lido:conceptID>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1966/285, Jean Claude Richard de Saint-Non (1727 - 1791)/ nach: Jean-Honoré Fragonard (5.4.1732 - 22.8.1806)/ nach: Raffaello Sanzio (26.3.1483 oder 28.3.1483 oder 6.4.1483 - 6.4.1520 oder 8.4.1520)/ nach: Francesco Albani (17.3.1578 - 4.10.1660)/ nach: Annibale Carracci (3.11.1560 - 15.7.1609), Mythologische Szenen, aus: "Sammlung von Fragmenten künstlerischer Themen", Herstellung der Druckplatte: 1771</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99179</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1966/284, Jean Claude Richard de Saint-Non (1727 - 1791)/ nach: Jean-Robert Ango (um 1701 - 1773)/ nach: Giovanni Francesco Barbieri (gen. Il Guercino) (8.2.1591 oder 1591 - 22.12.1666), Heiliger Laurentius verteilt Almosen, Herstellung der Druckplatte: 1771</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99180</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1966/287, Jean Claude Richard de Saint-Non (1727 - 1791)/ nach: Jean-Honoré Fragonard (5.4.1732 - 22.8.1806)/ nach: Polidoro Caldara (da Caravaggio) (1499 ? - 1543)/ nach: Raffaello Sanzio (26.3.1483 oder 28.3.1483 oder 6.4.1483 - 6.4.1520 oder 8.4.1520), Allegorie der Gerechtigkeit und zwei Frauen im Profil, aus: "Sammlung von Fragmenten künstlerischer Themen", Herstellung der Druckplatte: 1772</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99183</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1966/289, Jean Claude Richard de Saint-Non (1727 - 1791)/ nach: Jean-Robert Ango (um 1701 - 1773)/ nach: Annibale Carracci (3.11.1560 - 15.7.1609)/ nach: Peter Paul Rubens (28.6.1577 - 30.5.1640), Personifikation der Stärke, Personifikation der Mäßigung, Romulus und Remus, aus: "Sammlung von Fragmenten künstlerischer Themen", Herstellung der Druckplatte: 1772</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99184</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1966/288, Jean Claude Richard de Saint-Non (1727 - 1791)/ nach: Antonio Correggio (1489 - 1534)/ nach: Romano Giulio (1492 oder 1499 - 1.11.1546)/ nach: Raffaello Sanzio (26.3.1483 oder 28.3.1483 oder 6.4.1483 - 6.4.1520 oder 8.4.1520), Mythologische Szenen, aus: "Sammlung von Fragmenten künstlerischer Themen", Herstellung der Druckplatte: 1770</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99186</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1966/286, Jean Claude Richard de Saint-Non (1727 - 1791)/ nach: Jean-Honoré Fragonard (5.4.1732 - 22.8.1806)/ nach: Salvator Rosa (20.6.1615 oder 21.6.1615 oder Juni oder Mai 1615 - 15.3.1673), Zwei Kampfszenen, aus: "Sammlung von Fragmenten künstlerischer Themen", Herstellung der Druckplatte: 1770</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99187</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1967/60, Jean Claude Richard de Saint-Non (1727 - 1791)/ nach: Jean-Honoré Fragonard (5.4.1732 - 22.8.1806)/ nach: Annibale Carracci (3.11.1560 - 15.7.1609)/ nach: Pietro da Cortona (1.11.1596 - 16.5.1669), Faunen-Szenen, aus: "Sammlung von Fragmenten künstlerischer Themen", Herstellung der Druckplatte: 1771</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99189</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1962/20, Jean Claude Richard de Saint-Non (1727 - 1791)/ nach: Jean-Honoré Fragonard (5.4.1732 - 22.8.1806)/ nach: Giovanni Francesco Barbieri (gen. Il Guercino) (8.2.1591 oder 1591 - 22.12.1666), Beschneidung Christi, aus: "Sammlung von Fragmenten künstlerischer Themen", Herstellung der Druckplatte: 1770-1775</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99191</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1971/64, Jean Claude Richard de Saint-Non (1727 - 1791)/ nach: Jean-Honoré Fragonard (5.4.1732 - 22.8.1806)/ nach: Giovanni Maria Viani (1636 - 1700), Himmelfahrt des Heiligen Franziskus, aus: "Sammlung von Fragmenten künstlerischer Themen", Herstellung der Druckplatte: 1772</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99195</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1971/63, Jean Claude Richard de Saint-Non (1727 - 1791)/ nach: Jean-Honoré Fragonard (5.4.1732 - 22.8.1806)/ nach: Nicolas Poussin (Juni 1593 oder 1594 - 19.11.1665), Gottvater mit Putti, Blatt 15 der Folge "Sammlung von Fragmenten künstlerischer Themen", Herstellung der Druckplatte: 1773</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99196</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1971/62, Jean Claude Richard de Saint-Non (1727 - 1791)/ nach: Jean-Honoré Fragonard (5.4.1732 - 22.8.1806)/ nach: Buonarroti Michelangelo (6.3.1475 - 18.2.1564), Sibylle und Prophet, aus: "Sammlung von Fragmenten künstlerischer Themen", Herstellung der Druckplatte: 1771</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99199</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1971/61, Jean Claude Richard de Saint-Non (1727 - 1791)/ nach: Jean-Honoré Fragonard (5.4.1732 - 22.8.1806)/ nach: Polidoro Caldara (da Caravaggio) (1499 ? - 1543)/ nach: Raffaello Sanzio (26.3.1483 oder 28.3.1483 oder 6.4.1483 - 6.4.1520 oder 8.4.1520), Allegorie der Weisheit und zwei Frauen in Togen, aus: "Sammlung von Fragmenten künstlerischer Themen", Herstellung der Druckplatte: 1772</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99200</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1971/60, Jean Claude Richard de Saint-Non (1727 - 1791)/ nach: Jean-Honoré Fragonard (5.4.1732 - 22.8.1806)/ nach: Ludovico Carracci (19.4.1555 - 13.11.1619 oder 14.11.1619), Zwei Karyatiden, aus: "Sammlung von Fragmenten künstlerischer Themen", Herstellung der Druckplatte: 1772</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99202</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1971/65, Jean Claude Richard de Saint-Non (1727 - 1791)/ nach: Jean-Honoré Fragonard (5.4.1732 - 22.8.1806)/ nach: Paolo Caliari (gen. Veronese) (1528 - 19.4.1588), Kirche San Sebastiano in Venedeig, Blatt 7 der Folge "Sammlung von Fragmenten künstlerischer Themen", Herstellung der Druckplatte: 1774</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99204</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1971/66, Jean Claude Richard de Saint-Non (1727 - 1791)/ nach: Jean-Honoré Fragonard (5.4.1732 - 22.8.1806)/ nach: Jacopo Robusti (gen. Tintoretto) (1518 - 1594), Tintoretto an den Türen der Orgeln der Madonna dell’Orto in Venedig, Blatt 11 der Folge "Sammlung von Fragmenten künstlerischer Themen", Herstellung der Druckplatte: 1774</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99206</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1971/67, Jean Claude Richard de Saint-Non (1727 - 1791)/ nach: Jean-Honoré Fragonard (5.4.1732 - 22.8.1806)/ nach: Sebastiano Ricci (1659 - 15.5.1734), Kindermord, Blatt 21 der Folge "Sammlung von Fragmenten künstlerischer Themen", Herstellung der Druckplatte: 1775</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99207</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1971/59, Jean Claude Richard de Saint-Non (1727 - 1791)/ nach: Jean-Honoré Fragonard (5.4.1732 - 22.8.1806)/ nach: Nicolas Poussin (Juni 1593 oder 1594 - 19.11.1665), Gottvater mit Putti, Blatt 15 der Folge "Sammlung von Fragmenten künstlerischer Themen", Herstellung der Druckplatte: 1773</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99208</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1971/53, Jean Claude Richard de Saint-Non (1727 - 1791)/ nach: Jean-Honoré Fragonard (5.4.1732 - 22.8.1806)/ nach: Domenichino (21.10.1581 oder 28.10.1581 oder 1589 - 6.4.1641), Zwei Frauen in Chitons, aus: "Sammlung von Fragmenten künstlerischer Themen", Herstellung der Druckplatte: 1771</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99209</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1971/54, Jean Claude Richard de Saint-Non (1727 - 1791)/ nach: Jean-Honoré Fragonard (5.4.1732 - 22.8.1806)/ nach: Ludovico Carracci (19.4.1555 - 13.11.1619 oder 14.11.1619), Predigt Johannes des Täufers, aus: "Sammlung von Fragmenten künstlerischer Themen", Herstellung der Druckplatte: 1772</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99211</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1971/55, Jean Claude Richard de Saint-Non (1727 - 1791)/ nach: Raffaello Sanzio (26.3.1483 oder 28.3.1483 oder 6.4.1483 - 6.4.1520 oder 8.4.1520), Mythologische Szenen, aus: "Sammlung von Fragmenten künstlerischer Themen", Herstellung der Druckplatte: 1770</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99214</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1971/56, Jean Claude Richard de Saint-Non (1727 - 1791)/ nach: Jean-Honoré Fragonard (5.4.1732 - 22.8.1806), Musizierende Engel, aus: "Sammlung von Fragmenten künstlerischer Themen", Herstellung der Druckplatte: 1771</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99216</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1971/57, Jean Claude Richard de Saint-Non (1727 - 1791)/ nach: Jean-Honoré Fragonard (5.4.1732 - 22.8.1806)/ nach: Francesco Albani (17.3.1578 - 4.10.1660), Himmlische und irdische Trinität, aus: "Sammlung von Fragmenten künstlerischer Themen", Herstellung der Druckplatte: 1772</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99217</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1971/58, Jean Claude Richard de Saint-Non (1727 - 1791)/ nach: Jean-Honoré Fragonard (5.4.1732 - 22.8.1806)/ nach: Giovanni Benedetto Castiglione (gen. Il Grechetto) (1616 - 1670), Zwei biblische Szenen, Blatt 16 der Folge "Sammlung von Fragmenten künstlerischer Themen", Herstellung der Druckplatte: 1774</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99218</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1964/589, Jean Claude Richard de Saint-Non (1727 - 1791)/ nach: Jean-Honoré Fragonard (5.4.1732 - 22.8.1806)/ nach: Giovanni Battista Tiepolo (5.3.1696 - 27.3.1770), Tiepolo dans le palais Labbia a Venise/ Mann mit Windhund aus dem Treffen von Antonius und Kleopatra, weitere Szenen aus den Fresken des Palazzo Labia in Venedig, Blatt 23 der Folge "Sammlung von Fragmenten künstlerischer Themen", Herstellung der Druckplatte: 1774</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/108099</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+            </lido:relatedWorksWrap>
+         </lido:objectRelationWrap>
+      </lido:descriptiveMetadata><lido:administrativeMetadata xml:lang="de">
+         <lido:rightsWorkWrap>
+            <lido:rightsWorkSet lido:sortorder="1">
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                  <lido:term>Public Domain Mark 1.0</lido:term>
+               </lido:rightsType>
+            </lido:rightsWorkSet>
+         </lido:rightsWorkWrap>
+         <lido:recordWrap>
+            <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">100431</lido:recordID>
+            <lido:recordType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org">http://terminology.lido-schema.org/lido00453</lido:conceptID>
+               <lido:term>Serie</lido:term>
+            </lido:recordType>
+            <lido:recordSource>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+            </lido:recordSource>
+            <lido:recordRights>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                  <lido:term>CC0 1.0 Universell</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+               </lido:rightsHolder>
+            </lido:recordRights>
+            <lido:recordInfoSet>
+               <lido:recordInfoLink>https://onlinekatalog.kunsthalle-bremen.de/DE-MUS-027614/object/100431</lido:recordInfoLink>
+               <lido:recordMetadataDate>2024-09-09T10:18:49.5</lido:recordMetadataDate>
+            </lido:recordInfoSet>
+         </lido:recordWrap>
+         
+      </lido:administrativeMetadata></lido:lido>

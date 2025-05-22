@@ -1,0 +1,368 @@
+<lido:lido xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org         http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd"><lido:lidoRecID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/lido/29142</lido:lidoRecID><lido:objectPublishedID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="https://www.kunsthalle-bremen.de/">DE-MUS-027614/object/29142</lido:objectPublishedID><lido:descriptiveMetadata xml:lang="de">
+         <lido:objectClassificationWrap>
+            <lido:objectWorkTypeWrap>
+               <lido:objectWorkType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/page/aat/300033973</lido:conceptID>
+                  <lido:term>Zeichnung</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Zeichnung</lido:term>
+               </lido:objectWorkType>
+            </lido:objectWorkTypeWrap>
+            <lido:classificationWrap>
+               <lido:classification lido:type="Objektklassifikation" lido:sortorder="1">
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/page/aat/300033973</lido:conceptID>
+                  <lido:term>Zeichnung</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Zeichnung</lido:term>
+               </lido:classification>
+            </lido:classificationWrap>
+         </lido:objectClassificationWrap>
+         <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+               <lido:titleSet lido:type="Titel" lido:sortorder="1">
+                  <lido:appellationValue lido:pref="preferred">Allegorie der fridlichen Herrschaft</lido:appellationValue>
+               </lido:titleSet>
+            </lido:titleWrap>
+            <lido:inscriptionsWrap>
+               <lido:inscriptions lido:type="Marke" lido:sortorder="1">
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>unten links: Prägestempel Kunsthalle Bremen</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="1">
+                  <lido:inscriptionTranscription>Jost Amman Zurich 1531–1591</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>verso oben rechts mit Graphitstift bezeichnet</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="10">
+                  <lido:inscriptionTranscription>1</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>verso unten rechts mit schwarzer Kreide bezeichnet</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="15">
+                  <lido:inscriptionTranscription>4</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>auf altem Falz mit Graphitstift bezeichnet</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="5">
+                  <lido:inscriptionTranscription>K</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>verso links mit Graphitstift bezeichnet</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+            </lido:inscriptionsWrap>
+            <lido:repositoryWrap>
+               <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+                  <lido:repositoryName>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                        <lido:appellationValue>Bremen, Kunsthalle Bremen</lido:appellationValue>
+                     </lido:legalBodyName>
+                     <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+                  </lido:repositoryName>
+                  <lido:workID lido:sortorder="1" lido:type="Inventarnummer">1981/431</lido:workID>
+                  <lido:repositoryLocation>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/4008135-7</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://www.geonames.org/2944387</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/page/tgn/7005286</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Bremen</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:repositoryLocation>
+               </lido:repositorySet>
+            </lido:repositoryWrap>
+            
+            <lido:objectMeasurementsWrap>
+               <lido:objectMeasurementsSet lido:sortorder="1">
+                  <lido:displayObjectMeasurements>Blatt: 114 x 307 mm</lido:displayObjectMeasurements>
+                  <lido:objectMeasurements>
+                     <lido:measurementsSet lido:sortorder="1"><lido:measurementType>Blatt</lido:measurementType><lido:measurementUnit>mm</lido:measurementUnit>
+                        
+                        
+                        <lido:measurementValue>114,00</lido:measurementValue>
+                     </lido:measurementsSet>
+                     <lido:measurementsSet lido:sortorder="2"><lido:measurementType>Blatt</lido:measurementType><lido:measurementUnit>mm</lido:measurementUnit>
+                        
+                        
+                        <lido:measurementValue>307,00</lido:measurementValue>
+                     </lido:measurementsSet>
+                     
+                  </lido:objectMeasurements>
+               </lido:objectMeasurementsSet>
+            </lido:objectMeasurementsWrap>
+         </lido:objectIdentificationWrap>
+         <lido:eventWrap>
+            <lido:eventSet lido:sortorder="1">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Herstellung</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor lido:sortorder="30">
+                     <lido:displayActorInRole>ehemals zugeschrieben an Jost Amman (*Zürich 1539 - † Nürnberg 1591), Zeichner</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/118502573</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Amman, Jost</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Amman, Horst</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Amman, Joducus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Aman, Yōsuto</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Amman, Joß</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Ammann, Jobst</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Amann, Jobst</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Aman, Jos.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Amann, Jodocus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Amannus, Jodocus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Ammannus, Jodocus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Amannus, Justus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Amman, J.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">I.A.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Amman, Iustus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Amman, Justus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Ammannus, Judocus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Ammann, Jost</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Amman, Jodokus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Amanus, Iodocus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Amman, Jodocus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Amann, Iustus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Amann, Justus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Ammen, Jost</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Aman, Jos</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Amanus, Jodocus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Amman, Jobst</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Amann, Jost</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Ammon, Jost</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Ammann, Jodocus</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1539-06-13</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1591-03-17</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300112172</lido:conceptID>
+                           <lido:term>Zeichner</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Zeichner</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventActor lido:sortorder="20">
+                     <lido:displayActorInRole>ehemals zugeschrieben an Anonym, niederländisch, 16. Jahrhundert (*1501 - † 1600), Zeichner</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred">Anonym, niederländisch, 16. Jahrhundert</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate>1501</lido:earliestDate>
+                              <lido:latestDate>1600</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300112172</lido:conceptID>
+                           <lido:term>Zeichner</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Zeichner</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventActor lido:sortorder="1">
+                     <lido:displayActorInRole>zugeschrieben an Jan van der Straet (*Brügge 1523 - † Florenz 1605), Zeichner</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/118755730</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Straet, Jan van der</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Van der Straet, Jan</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Stradano, Giovanni</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Strada, Giovanni della</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Stradensis, Johannes</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Stradanus, Johann</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Straet, Jan van der</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Strada, Johann</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Straet, Johann van der</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Stradan, Jean</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Strada, Johannes de</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Stradanus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Johannes, Stradensis</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Stradius, Johannes</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Stradanus, Johannes</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Strada, Jan</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Stradano, Jan</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Stradan, Jan</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Strada, L.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Stradanus, Ioannis</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1523</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1605</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300112172</lido:conceptID>
+                           <lido:term>Zeichner</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Zeichner</lido:term>
+                        </lido:roleActor>
+                        <lido:attributionQualifierActor>zugeschrieben an</lido:attributionQualifierActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventActor lido:sortorder="25">
+                     <lido:displayActorInRole>ehemals zugeschrieben an Anonym, französisch, Zeichner</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred">Anonym, französisch</lido:appellationValue>
+                           </lido:nameActorSet>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300112172</lido:conceptID>
+                           <lido:term>Zeichner</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Zeichner</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>1538-1600</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1538</lido:earliestDate>
+                        <lido:latestDate>1600</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventMaterialsTech lido:sortorder="1">
+                     <lido:displayMaterialsTech>Feder in Braun, mit Pinsel braun laviert, Einfassungslinie mit Feder in Braun</lido:displayMaterialsTech>
+                     
+                  </lido:eventMaterialsTech>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="201">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido01096</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Herstellung</lido:term>
+                  </lido:eventType>
+                  <lido:eventMaterialsTech>
+                     <lido:displayMaterialsTech>zwei ineinander verschränkte C</lido:displayMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech>
+                           <lido:term>zwei ineinander verschränkte C</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="301">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Erwerb</lido:term>
+                  </lido:eventType>
+                  <lido:eventDate>
+                     <lido:displayDate>1981</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1981</lido:earliestDate>
+                        <lido:latestDate>1981</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventDescriptionSet>
+                     <lido:descriptiveNoteValue>Erworben 1981, 2015 nachinventarisiert</lido:descriptiveNoteValue>
+                  </lido:eventDescriptionSet>
+               </lido:event>
+            </lido:eventSet>
+         </lido:eventWrap>
+         <lido:objectRelationWrap>
+            <lido:subjectWrap>
+               <lido:subjectSet>
+                  <lido:subject>
+                     <lido:subjectConcept>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://iconclass.org/31AA</lido:conceptID>
+                        <lido:term xml:lang="de">die (nackte) menschliche Figur; Ripa: Corpo humano - AA - weibliche Figur</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Frau</lido:term>
+                     </lido:subjectConcept>
+                     <lido:subjectConcept>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://iconclass.org/44B10(%2B0)</lido:conceptID>
+                        <lido:term xml:lang="de">Tugenden des Herrschers (+ Variante)</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Tugend(haftigkeit)</lido:term>
+                     </lido:subjectConcept>
+                     <lido:subjectConcept>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://iconclass.org/92B58(CADUCEUS)</lido:conceptID>
+                        <lido:term xml:lang="de">Caduceus (Stab mit zwei Schlangen, Attribut Merkurs)</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Hermes</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Merkur</lido:term>
+                     </lido:subjectConcept>
+                     <lido:subjectConcept>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://iconclass.org/5(%2B2)</lido:conceptID>
+                        <lido:term xml:lang="de">abstrakte Ideen und Konzeptionen (+ allegorische Szene (zwei oder mehr Personifikationen sind in eine Handlung involviert))</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">abstrakte Ideen und Konzeptionen</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Allegorie</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Personifikation</lido:term>
+                     </lido:subjectConcept>
+                  </lido:subject>
+               </lido:subjectSet>
+            </lido:subjectWrap>
+            
+         </lido:objectRelationWrap>
+      </lido:descriptiveMetadata><lido:administrativeMetadata xml:lang="de">
+         <lido:rightsWorkWrap>
+            <lido:rightsWorkSet lido:sortorder="1">
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                  <lido:term>Public Domain Mark 1.0</lido:term>
+               </lido:rightsType>
+            </lido:rightsWorkSet>
+         </lido:rightsWorkWrap>
+         <lido:recordWrap>
+            <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">29142</lido:recordID>
+            <lido:recordType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+               <lido:term>Einzelobjekt</lido:term>
+            </lido:recordType>
+            <lido:recordSource>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+            </lido:recordSource>
+            <lido:recordRights>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                  <lido:term>CC0 1.0 Universell</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+               </lido:rightsHolder>
+            </lido:recordRights>
+            <lido:recordInfoSet>
+               <lido:recordInfoLink>https://onlinekatalog.kunsthalle-bremen.de/DE-MUS-027614/object/29142</lido:recordInfoLink>
+               <lido:recordMetadataDate>2024-11-15T23:53:11.491</lido:recordMetadataDate>
+            </lido:recordInfoSet>
+         </lido:recordWrap>
+         <lido:resourceWrap>
+            <lido:resourceSet lido:sortorder="1">
+               
+               
+               <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/29142/117364</lido:resourceID>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>https://onlinekatalog.kunsthalle-bremen.de/DE-MUS-027614/object/29142/117364</lido:linkResource>
+               </lido:resourceRepresentation>
+               <lido:resourceType>
+                  <lido:term>image</lido:term>
+               </lido:resourceType>
+               
+               
+               <lido:rightsResource>
+                  <lido:rightsType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                     <lido:term>Public Domain Mark 1.0</lido:term>
+                  </lido:rightsType>
+                  <lido:creditLine>Kunsthalle Bremen - Der Kunstverein in Bremen, Foto: Die Kulturgutscanner</lido:creditLine>
+               </lido:rightsResource>
+            </lido:resourceSet>
+         </lido:resourceWrap>
+      </lido:administrativeMetadata></lido:lido>

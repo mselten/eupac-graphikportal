@@ -1,0 +1,347 @@
+<lido:lido xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org         http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd"><lido:lidoRecID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/lido/28613</lido:lidoRecID><lido:objectPublishedID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="https://www.kunsthalle-bremen.de/">DE-MUS-027614/object/28613</lido:objectPublishedID><lido:descriptiveMetadata xml:lang="de">
+         <lido:objectClassificationWrap>
+            <lido:objectWorkTypeWrap>
+               <lido:objectWorkType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+                  <lido:term>Druckgraphik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Druckgraphik</lido:term>
+               </lido:objectWorkType>
+            </lido:objectWorkTypeWrap>
+            <lido:classificationWrap>
+               <lido:classification lido:type="Objektklassifikation" lido:sortorder="1">
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+                  <lido:term>Druckgraphik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Druckgraphik</lido:term>
+               </lido:classification>
+            </lido:classificationWrap>
+         </lido:objectClassificationWrap>
+         <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+               <lido:titleSet lido:type="Originaltitel" lido:sortorder="1">
+                  <lido:appellationValue lido:pref="preferred">Instruction paternelle</lido:appellationValue>
+               </lido:titleSet>
+               <lido:titleSet lido:type="Titel" lido:sortorder="2">
+                  <lido:appellationValue lido:pref="alternate">Väterliche Unterweisung</lido:appellationValue>
+               </lido:titleSet>
+            </lido:titleWrap>
+            <lido:inscriptionsWrap>
+               <lido:inscriptions lido:type="Marke" lido:sortorder="1">
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteID lido:type="http://terminology.lido-schema.org/lido00100">Lugt 2714</lido:descriptiveNoteID>
+                     <lido:descriptiveNoteValue>unten rechts: Johann Heinrich Albers; Lugt 2714</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="1">
+                  <lido:inscriptionTranscription>Elfte Platte.</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>oben links oberhalb der Darstellung nummeriert</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="10">
+                  <lido:inscriptionTranscription>INSTRUCTION PATERNELLE.</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>unten Mitte unterhalb der Darstellung das zentrale Wappen flankierend betitelt</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="15">
+                  <lido:inscriptionTranscription>Et gravé en 1765, par J. G. Wille, Graveur du Roy.</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>unten rechts unterhalb der Darstellung signiert und datiert</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="20">
+                  <lido:inscriptionTranscription>Dédié à Sa Majesté Marie Thérese, Impératrice Douairiere Reine Apostolique d’Hongrie et de Bohême, Archiduchesse d’Autriche, &amp;c &amp;c &amp;c.</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>unterhalb der Darstellung bezeichnet</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="25">
+                  <lido:inscriptionTranscription>Le Tableau Original est dans le Cabinet de M. de Peters, Peintre de S.A.R. Monseigneur le Prince Charles, Duc de Lorraine, Gouverneur des Pays Bas, &amp;c.</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>unten links am Blattrand bezeichnet</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="30">
+                  <lido:inscriptionTranscription>Par son très humble très obeissant et très soumis serviteur, Jean George Wille.</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>unten rechts am Blattrand bezeichnet</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="5">
+                  <lido:inscriptionTranscription>Peint par G. Terburg.</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>unten links unterhalb der Darstellung bezeichnet</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+            </lido:inscriptionsWrap>
+            <lido:repositoryWrap>
+               <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+                  <lido:repositoryName>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                        <lido:appellationValue>Bremen, Kunsthalle Bremen</lido:appellationValue>
+                     </lido:legalBodyName>
+                     <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+                  </lido:repositoryName>
+                  <lido:workID lido:sortorder="1" lido:type="Inventarnummer">10562</lido:workID>
+                  <lido:repositoryLocation>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/4008135-7</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://www.geonames.org/2944387</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/page/tgn/7005286</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Bremen</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:repositoryLocation>
+               </lido:repositorySet>
+            </lido:repositoryWrap>
+            <lido:displayStateEditionWrap>
+               <lido:displayState>IV (von IV)</lido:displayState>
+               <lido:sourceStateEdition>Le Blanc IV.230.101</lido:sourceStateEdition>
+            </lido:displayStateEditionWrap>
+            
+            <lido:objectMeasurementsWrap>
+               <lido:objectMeasurementsSet lido:sortorder="1">
+                  <lido:displayObjectMeasurements>Blatt: 433 x 342 mm (beschnitten)</lido:displayObjectMeasurements>
+                  <lido:objectMeasurements>
+                     <lido:measurementsSet lido:sortorder="1"><lido:measurementType>Blatt</lido:measurementType><lido:measurementUnit>(beschnitten)</lido:measurementUnit>
+                        
+                        
+                        <lido:measurementValue>433,00</lido:measurementValue>
+                     </lido:measurementsSet>
+                     <lido:measurementsSet lido:sortorder="2"><lido:measurementType>Blatt</lido:measurementType><lido:measurementUnit>(beschnitten)</lido:measurementUnit>
+                        
+                        
+                        <lido:measurementValue>342,00</lido:measurementValue>
+                     </lido:measurementsSet>
+                     
+                  </lido:objectMeasurements>
+               </lido:objectMeasurementsSet>
+            </lido:objectMeasurementsWrap>
+         </lido:objectIdentificationWrap>
+         <lido:eventWrap>
+            <lido:eventSet lido:sortorder="1">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Herstellung</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor lido:sortorder="1">
+                     <lido:displayActorInRole>Johann Georg Wille (*Biebertal bei Gießen 1715 - † Paris 1808), Stecher</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/118841378</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Wille, Johann Georg</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Will, Johann Georg</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Willius, Johannes Georgius</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Wille, Johann G.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Will, Je. Geo.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Wille, J. G.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Wille, Jean George</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Will, Johann Georges</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Will, J. G.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Wille, Jean-Georges</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Wille, Jean Georges</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Will</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Wil.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Wille, Johann G.</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1715-11-05</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1808-04-05</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025165</lido:conceptID>
+                           <lido:term>Stecher</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Stecher</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>1765</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1765</lido:earliestDate>
+                        <lido:latestDate>1765</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventMaterialsTech>
+                     <lido:displayMaterialsTech>Kupferstich</lido:displayMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041341</lido:conceptID>
+                           <lido:term>Kupferstich</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Kupferstich (Druckverfahren)</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Kupferstich (Druckverfahren)</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="2">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00486</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Entwurf</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor lido:sortorder="5">
+                     <lido:displayActorInRole>nach Gerard Terborch (*Zwolle 1617 - † Deventer 1681), Inventor</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/13621889X</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Borch, Gerard ter</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Ter Borch, Gerard</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Borch, Gerard ter, de Oude</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Borch, Gerard ter, der Ältere</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Borch, Gerhard ter</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Terborch, Gerard</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Terburg, Gérard</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1584</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1662</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025845</lido:conceptID>
+                           <lido:term>Inventor</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Inventor</lido:term>
+                        </lido:roleActor>
+                        <lido:attributionQualifierActor>nach</lido:attributionQualifierActor>
+                        <lido:attributionQualifierActor>nach</lido:attributionQualifierActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="301">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Erwerb</lido:term>
+                  </lido:eventType>
+                  <lido:eventDescriptionSet>
+                     <lido:descriptiveNoteValue>Vermächtnis Johann Heinrich Albers 1856</lido:descriptiveNoteValue>
+                  </lido:eventDescriptionSet>
+               </lido:event>
+            </lido:eventSet>
+         </lido:eventWrap>
+         <lido:objectRelationWrap>
+            <lido:subjectWrap>
+               <lido:subjectSet>
+                  <lido:subject>
+                     <lido:subjectConcept>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://iconclass.org/42B112</lido:conceptID>
+                        <lido:term xml:lang="de">Vater mit Tochter bzw. Töchtern</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Vater und Tochter</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Tochter</lido:term>
+                     </lido:subjectConcept>
+                     <lido:subjectConcept>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://iconclass.org/31D14(%2B53)</lido:conceptID>
+                        <lido:term xml:lang="de">erwachsener Mann (+ sitzen)</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Erwachsenenalter</lido:term>
+                     </lido:subjectConcept>
+                     <lido:subjectConcept>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://iconclass.org/41A23</lido:conceptID>
+                        <lido:term xml:lang="de">Schlafzimmer</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Schlafraum</lido:term>
+                     </lido:subjectConcept>
+                     <lido:subjectConcept>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://iconclass.org/31D13(%2B2)</lido:conceptID>
+                        <lido:term xml:lang="de">Mädchen, junge Frau (+ Rückansicht)</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Mädchen</lido:term>
+                     </lido:subjectConcept>
+                     <lido:subjectConcept>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://iconclass.org/42AA56(%2B0)</lido:conceptID>
+                        <lido:term xml:lang="de">Erziehung - AA - Mädchen (+ Variante)</lido:term>
+                     </lido:subjectConcept>
+                  </lido:subject>
+               </lido:subjectSet>
+            </lido:subjectWrap>
+            <lido:relatedWorksWrap>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Le Blanc 1847.40.55</lido:objectID>
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100">R3i_realises</lido:conceptID>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Le Blanc IV.230.101</lido:objectID>
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100">R3i_realises</lido:conceptID>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+            </lido:relatedWorksWrap>
+         </lido:objectRelationWrap>
+      </lido:descriptiveMetadata><lido:administrativeMetadata xml:lang="de">
+         <lido:rightsWorkWrap>
+            <lido:rightsWorkSet lido:sortorder="1">
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                  <lido:term>Public Domain Mark 1.0</lido:term>
+               </lido:rightsType>
+            </lido:rightsWorkSet>
+         </lido:rightsWorkWrap>
+         <lido:recordWrap>
+            <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">28613</lido:recordID>
+            <lido:recordType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+               <lido:term>Einzelobjekt</lido:term>
+            </lido:recordType>
+            <lido:recordSource>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+            </lido:recordSource>
+            <lido:recordRights>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                  <lido:term>CC0 1.0 Universell</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+               </lido:rightsHolder>
+            </lido:recordRights>
+            <lido:recordInfoSet>
+               <lido:recordInfoLink>https://onlinekatalog.kunsthalle-bremen.de/DE-MUS-027614/object/28613</lido:recordInfoLink>
+               <lido:recordMetadataDate>2024-11-16T11:34:00.104</lido:recordMetadataDate>
+            </lido:recordInfoSet>
+         </lido:recordWrap>
+         <lido:resourceWrap>
+            <lido:resourceSet lido:sortorder="1">
+               
+               
+               <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/28613/123514</lido:resourceID>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>https://onlinekatalog.kunsthalle-bremen.de/DE-MUS-027614/object/28613/123514</lido:linkResource>
+               </lido:resourceRepresentation>
+               <lido:resourceType>
+                  <lido:term>image</lido:term>
+               </lido:resourceType>
+               
+               
+               <lido:rightsResource>
+                  <lido:rightsType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                     <lido:term>Public Domain Mark 1.0</lido:term>
+                  </lido:rightsType>
+                  <lido:creditLine>Kunsthalle Bremen - Der Kunstverein in Bremen, Foto: Die Kulturgutscanner</lido:creditLine>
+               </lido:rightsResource>
+            </lido:resourceSet>
+         </lido:resourceWrap>
+      </lido:administrativeMetadata></lido:lido>

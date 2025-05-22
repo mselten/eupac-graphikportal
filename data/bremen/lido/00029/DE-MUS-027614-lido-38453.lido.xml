@@ -1,0 +1,280 @@
+<lido:lido xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org         http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd"><lido:lidoRecID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/lido/38453</lido:lidoRecID><lido:objectPublishedID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="https://www.kunsthalle-bremen.de/">DE-MUS-027614/object/38453</lido:objectPublishedID><lido:descriptiveMetadata xml:lang="de">
+         <lido:objectClassificationWrap>
+            <lido:objectWorkTypeWrap>
+               <lido:objectWorkType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+                  <lido:term>Druckgraphik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Druckgraphik</lido:term>
+               </lido:objectWorkType>
+            </lido:objectWorkTypeWrap>
+            <lido:classificationWrap>
+               <lido:classification lido:type="Objektklassifikation" lido:sortorder="1">
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+                  <lido:term>Druckgraphik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Druckgraphik</lido:term>
+               </lido:classification>
+            </lido:classificationWrap>
+         </lido:objectClassificationWrap>
+         <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+               <lido:titleSet lido:type="Titel" lido:sortorder="1">
+                  <lido:appellationValue lido:pref="preferred">Lesende</lido:appellationValue>
+               </lido:titleSet>
+            </lido:titleWrap>
+            <lido:inscriptionsWrap>
+               <lido:inscriptions lido:type="Marke" lido:sortorder="1">
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteID lido:type="http://terminology.lido-schema.org/lido00100">Lugt 292</lido:descriptiveNoteID>
+                     <lido:descriptiveNoteValue>oberhalb der Darstellung: Kunsthalle Bremen; Lugt 292</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Marke" lido:sortorder="10">
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>recto unten links: Prägestempel Kunsthalle Bremen</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Marke" lido:sortorder="5">
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>oberhalb der Darstellung: roter, ovaler Stempel (nicht genauer bestimmbar)</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="1">
+                  <lido:inscriptionTranscription>1429</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>oberhalb der Darstellung von fremder Hand mit Stift in Blau bezeichnet</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="10">
+                  <lido:inscriptionTranscription>60/457</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>rechts unterhalb der Darstellung von fremder Hand mit Bleistift bezeichnet</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="5">
+                  <lido:inscriptionTranscription>Degas a Lepic</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>unten links innerhalb der Darstellung Seitenverkehrt, um 45 Grad nach rechts gedreht signiert</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+            </lido:inscriptionsWrap>
+            <lido:repositoryWrap>
+               <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+                  <lido:repositoryName>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                        <lido:appellationValue>Bremen, Kunsthalle Bremen</lido:appellationValue>
+                     </lido:legalBodyName>
+                     <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+                  </lido:repositoryName>
+                  <lido:workID lido:sortorder="1" lido:type="Inventarnummer">1960/457 verso</lido:workID>
+                  <lido:repositoryLocation>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/4008135-7</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://www.geonames.org/2944387</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/page/tgn/7005286</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Bremen</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:repositoryLocation>
+               </lido:repositorySet>
+            </lido:repositoryWrap>
+            <lido:displayStateEditionWrap>
+               <lido:displayState>I (von I)</lido:displayState>
+               <lido:sourceStateEdition>Adhémar Cachin.60.165</lido:sourceStateEdition>
+            </lido:displayStateEditionWrap>
+            <lido:objectDescriptionWrap>
+               <lido:objectDescriptionSet lido:sortorder="1">
+                  <lido:descriptiveNoteValue>Edgar Degas beschäftigte sich intensiv mit druckgraphischen Techniken. Sein Interesse ging über die konventionell angewandten Verfahren hinaus, technisch sind viele seiner Druckgraphiken als experimentell zu bezeichnen. So auch die hier vorliegende Monotypie. Degas beschäftigte sich seit 1877 mit der Technik der Monotypie, bei der mit Künstler*innen auf der blanken Kupfer- oder Zinkplatte mit (fetthaltiger) Druckfarbe zeichnen ohne vorher - wie in der Radierung oder Kaltnadel - einzelne Linien eingekratzt oder geätzt zu haben. Die so entstandene Zeichnung auf der glatten Platte wird durch die Druckerpresse auf Papier abgezogen, dabei geht das Motiv vollständig auf das Papier über. Das Ergebnis weist einen äußerst malerischen bzw. zeichnerischen Charakter auf, den auch Degas zu erzielen suchte, der die Monotypie als "dessin fait à l'encre grasse et imprimé" (mit fettiger Druckfarbe gedruckte Zeichnung) beschrieb. Degas kam durch Ludovic-Napoléon Lepic mit dieser äußerst experimentellen Technik in Kontakt. Für seine "Lesende" strich Degas die Druckplatte zunächst komplett mit schwarz-grauer Druckfarbe ein und arbeitete anschließend durch Freischaben der entsprechenden Linien das Motiv der liegenden Nackten heraus. Das Bremer Blatt beweist den Wunsch Degas' die Grenzen der eigentlich auf einen Abzug beschränkten Technik auszuloten. Es handelt sich bei dem Verso des Bremer Blattes um einen zweiten, im Kontrast deutlich schwächeren Abzug einer Monotypie (heute in der National Gallery of Art, Washington D.C.). Unzufrieden mit der limitierten Technik hatte Degas versucht - wie bereits andere Künstler des 17. Jahrunderts, etwa Giovanni Benedetto Castiglione - einen zweiten Abzug des noch geisterhaft auf der Platte befindlichen Motivs herzustellen. Da dieser zweite Abzug äußerst schwach wirkte, versuchte er sein Glück erneut indem er einen Abklatsch des ersten (Washingtoner) Abzugs anfertigte, das heißt den ersten Druck mit der Rückseite des zweiten Abzugs bedeckte und mit der Druckplatte beschwert nochmals durch die Druckerpresse laufen ließ, wodurch das Bremer Blatt einen doppelten Plattenrand erhielt. Das (heutige) Recto ist deshalb kräftiger in der Farbigkeit, zeigt die Lesende jedoch spiegelverkehrt. Auch Degas Widmung an Lepic, im ersten Abzug der Monotypie in Washington noch gut lesbar, erscheint im Abklatsch (Recto) spiegelverkehrt. Neben Zink- und Kupferplatten experimetierte Degas auch mit Monotypien auf Celluloid sowie mit verschiedenen Ätzgründen und Säuren in der Radierung und Aquatinta. Maria Aresin</lido:descriptiveNoteValue>
+               </lido:objectDescriptionSet>
+            </lido:objectDescriptionWrap>
+            <lido:objectMeasurementsWrap>
+               <lido:objectMeasurementsSet lido:sortorder="5">
+                  <lido:displayObjectMeasurements>Blatt: 494 x 353 mm</lido:displayObjectMeasurements>
+                  <lido:objectMeasurements>
+                     <lido:measurementsSet lido:sortorder="1"><lido:measurementType>Blatt</lido:measurementType><lido:measurementUnit>mm</lido:measurementUnit>
+                        
+                        
+                        <lido:measurementValue>494,00</lido:measurementValue>
+                     </lido:measurementsSet>
+                     <lido:measurementsSet lido:sortorder="2"><lido:measurementType>Blatt</lido:measurementType><lido:measurementUnit>mm</lido:measurementUnit>
+                        
+                        
+                        <lido:measurementValue>353,00</lido:measurementValue>
+                     </lido:measurementsSet>
+                     
+                  </lido:objectMeasurements>
+               </lido:objectMeasurementsSet>
+               <lido:objectMeasurementsSet lido:sortorder="1">
+                  <lido:displayObjectMeasurements>Darstellung: ca. 379 x 277 mm</lido:displayObjectMeasurements>
+                  <lido:objectMeasurements>
+                     <lido:measurementsSet lido:sortorder="1"><lido:measurementType>Darstellung</lido:measurementType><lido:measurementUnit>mm</lido:measurementUnit>
+                        
+                        
+                        <lido:measurementValue>379,00</lido:measurementValue>
+                     </lido:measurementsSet>
+                     <lido:measurementsSet lido:sortorder="2"><lido:measurementType>Darstellung</lido:measurementType><lido:measurementUnit>mm</lido:measurementUnit>
+                        
+                        
+                        <lido:measurementValue>277,00</lido:measurementValue>
+                     </lido:measurementsSet>
+                     
+                  </lido:objectMeasurements>
+               </lido:objectMeasurementsSet>
+            </lido:objectMeasurementsWrap>
+         </lido:objectIdentificationWrap>
+         <lido:eventWrap>
+            <lido:eventSet lido:sortorder="1">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Herstellung</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor lido:sortorder="1">
+                     <lido:displayActorInRole>Edgar Degas (*Paris 1834 - † Paris 1917), Lithograph</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/118524291</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Degas, Edgar</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Gas, Ed</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Dega, Ėdgar</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Degas, E. M.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Dega, Edgar</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Degas, Hilaire Germain Edgar</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Gas, Hilaire Germain Edgar de</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Degas, Edgar H.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Degas, Hilaire-Germain Edgard</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Degas</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Degas, Edgar Hilaire Germain</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Дега, Едгар</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Га, Илер Жермен Едгар де</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Дега, Едгар</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Дега, Илер Жермен Едгар</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Деґа, Едґар</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Ґа, Іле́р-Жерме́н-Едґа́р де</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Дегас, Едгар</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1834-07-19</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1917-09-26</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025175</lido:conceptID>
+                           <lido:term>Lithograph</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Lithograph</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>um 1885</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1880</lido:earliestDate>
+                        <lido:latestDate>1890</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventMaterialsTech lido:sortorder="1">
+                     <lido:displayMaterialsTech>Monotypie (zweiter Abzug)</lido:displayMaterialsTech>
+                     
+                  </lido:eventMaterialsTech>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="301">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Erwerb</lido:term>
+                  </lido:eventType>
+                  <lido:eventDate>
+                     <lido:displayDate>1960</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1960</lido:earliestDate>
+                        <lido:latestDate>1960</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventDescriptionSet>
+                     <lido:descriptiveNoteValue>Erworben 1960</lido:descriptiveNoteValue>
+                  </lido:eventDescriptionSet>
+               </lido:event>
+            </lido:eventSet>
+         </lido:eventWrap>
+         <lido:objectRelationWrap>
+            
+            <lido:relatedWorksWrap>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1960/457 recto, Edgar Degas (19.7.1834 - 27.9.1917), Lesende, Herstellung der Druckplatte: um 1885</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:source="https://www.kunsthalle-bremen.de/" lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/16193</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:source="http://terminology.lido-schema.org" lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00613</lido:conceptID>
+                     <lido:term xml:lang="de">ist Verso von</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Adhémar Cachin.60.165</lido:objectID>
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100">R3i_realises</lido:conceptID>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">IFF après 1800 VI.112.52</lido:objectID>
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100">R3i_realises</lido:conceptID>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+            </lido:relatedWorksWrap>
+         </lido:objectRelationWrap>
+      </lido:descriptiveMetadata><lido:administrativeMetadata xml:lang="de">
+         <lido:rightsWorkWrap>
+            <lido:rightsWorkSet lido:sortorder="1">
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                  <lido:term>Public Domain Mark 1.0</lido:term>
+               </lido:rightsType>
+            </lido:rightsWorkSet>
+         </lido:rightsWorkWrap>
+         <lido:recordWrap>
+            <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">38453</lido:recordID>
+            <lido:recordType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+               <lido:term>Einzelobjekt</lido:term>
+            </lido:recordType>
+            <lido:recordSource>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+            </lido:recordSource>
+            <lido:recordRights>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                  <lido:term>CC0 1.0 Universell</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+               </lido:rightsHolder>
+            </lido:recordRights>
+            <lido:recordInfoSet>
+               <lido:recordInfoLink>https://onlinekatalog.kunsthalle-bremen.de/DE-MUS-027614/object/38453</lido:recordInfoLink>
+               <lido:recordMetadataDate>2025-02-11T17:40:14.635</lido:recordMetadataDate>
+            </lido:recordInfoSet>
+         </lido:recordWrap>
+         
+      </lido:administrativeMetadata></lido:lido>

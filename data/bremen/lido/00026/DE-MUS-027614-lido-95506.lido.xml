@@ -1,0 +1,397 @@
+<lido:lido xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org         http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd"><lido:lidoRecID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/lido/95506</lido:lidoRecID><lido:objectPublishedID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="https://www.kunsthalle-bremen.de/">DE-MUS-027614/object/95506</lido:objectPublishedID><lido:descriptiveMetadata xml:lang="de">
+         <lido:objectClassificationWrap>
+            <lido:objectWorkTypeWrap>
+               <lido:objectWorkType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+                  <lido:term>Druckgraphik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Druckgraphik</lido:term>
+               </lido:objectWorkType>
+            </lido:objectWorkTypeWrap>
+            <lido:classificationWrap>
+               <lido:classification lido:type="Objektklassifikation" lido:sortorder="1">
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+                  <lido:term>Druckgraphik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Druckgraphik</lido:term>
+               </lido:classification>
+            </lido:classificationWrap>
+         </lido:objectClassificationWrap>
+         <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+               <lido:titleSet lido:type="Originaltitel" lido:sortorder="1">
+                  <lido:appellationValue lido:pref="preferred">C’est la fin du monde!, Titelblatt der Folge "Lithographische Skizzen"</lido:appellationValue>
+               </lido:titleSet>
+               <lido:titleSet lido:type="Titel" lido:sortorder="2">
+                  <lido:appellationValue lido:pref="alternate">Das ist das Ende der Welt!</lido:appellationValue>
+               </lido:titleSet>
+            </lido:titleWrap>
+            <lido:inscriptionsWrap>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="1">
+                  <lido:inscriptionTranscription>1824</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>oben rechts innerhalb der Darstellung datiert</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="10">
+                  <lido:inscriptionTranscription>Charlet</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>unten links innerhalb der Darstellung auf einem Buch signiert</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="15">
+                  <lido:inscriptionTranscription>C’est la fin du monde!</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>unten Mitte unterhalb der Darstellung betitelt</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="20">
+                  <lido:inscriptionTranscription>Lith. de Villain.</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>unten links unterhalb der Darstellung bezeichnet</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="25">
+                  <lido:inscriptionTranscription>chez Gihaut, éditeur, B.ard ["ard" hochgestellt] des Italiens, N°.5</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>unten rechts unterhalb der Darstellung bezeichnet</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="30">
+                  <lido:inscriptionTranscription>534 534</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>unten rechts unterhalb der Darstellung am Blattrand von fremder Hand mit Bleistift bezeichnet</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+               <lido:inscriptions lido:type="Inschrift" lido:sortorder="5">
+                  <lido:inscriptionTranscription>Album, Album, Album [...]</lido:inscriptionTranscription>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>innerhalb der Darstellung verteilt bezeichnet</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+            </lido:inscriptionsWrap>
+            <lido:repositoryWrap>
+               <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+                  <lido:repositoryName>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                        <lido:appellationValue>Bremen, Kunsthalle Bremen</lido:appellationValue>
+                     </lido:legalBodyName>
+                     <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+                  </lido:repositoryName>
+                  <lido:workID lido:sortorder="1" lido:type="Inventarnummer">2022/3336</lido:workID>
+                  <lido:repositoryLocation>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/4008135-7</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://www.geonames.org/2944387</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/page/tgn/7005286</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Bremen</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:repositoryLocation>
+               </lido:repositorySet>
+            </lido:repositoryWrap>
+            <lido:displayStateEditionWrap>
+               <lido:displayState>I (von I)</lido:displayState>
+               <lido:sourceStateEdition>Beraldi (Graveurs XIXe Siècle) IV.124.534</lido:sourceStateEdition>
+            </lido:displayStateEditionWrap>
+            
+            <lido:objectMeasurementsWrap>
+               <lido:objectMeasurementsSet lido:sortorder="1">
+                  <lido:displayObjectMeasurements>Darstellung: 210 x 159 mm</lido:displayObjectMeasurements>
+                  <lido:objectMeasurements>
+                     <lido:measurementsSet lido:sortorder="1"><lido:measurementType>Darstellung</lido:measurementType><lido:measurementUnit>mm</lido:measurementUnit>
+                        
+                        
+                        <lido:measurementValue>210,00</lido:measurementValue>
+                     </lido:measurementsSet>
+                     <lido:measurementsSet lido:sortorder="2"><lido:measurementType>Darstellung</lido:measurementType><lido:measurementUnit>mm</lido:measurementUnit>
+                        
+                        
+                        <lido:measurementValue>159,00</lido:measurementValue>
+                     </lido:measurementsSet>
+                     
+                  </lido:objectMeasurements>
+               </lido:objectMeasurementsSet>
+               <lido:objectMeasurementsSet lido:sortorder="5">
+                  <lido:displayObjectMeasurements>Blatt: 359 x 269 mm</lido:displayObjectMeasurements>
+                  <lido:objectMeasurements>
+                     <lido:measurementsSet lido:sortorder="1"><lido:measurementType>Blatt</lido:measurementType><lido:measurementUnit>mm</lido:measurementUnit>
+                        
+                        
+                        <lido:measurementValue>359,00</lido:measurementValue>
+                     </lido:measurementsSet>
+                     <lido:measurementsSet lido:sortorder="2"><lido:measurementType>Blatt</lido:measurementType><lido:measurementUnit>mm</lido:measurementUnit>
+                        
+                        
+                        <lido:measurementValue>269,00</lido:measurementValue>
+                     </lido:measurementsSet>
+                     
+                  </lido:objectMeasurements>
+               </lido:objectMeasurementsSet>
+            </lido:objectMeasurementsWrap>
+         </lido:objectIdentificationWrap>
+         <lido:eventWrap>
+            <lido:eventSet lido:sortorder="1">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Herstellung</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor lido:sortorder="1">
+                     <lido:displayActorInRole>Nicolas-Toussaint Charlet (*Paris 1792 - † Paris 1845), Lithograph</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/10424383X</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Charlet, Nicolas Toussaint</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Toussaint-Charlet, Nicolas</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Charlet, ...</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Charlet, Nicolas</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative">Charlet, Nicolas-Toussaint</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1792-12-20</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1845-12-30</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025175</lido:conceptID>
+                           <lido:term>Lithograph</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Lithograph</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>1824</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1824</lido:earliestDate>
+                        <lido:latestDate>1824</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventMaterialsTech>
+                     <lido:displayMaterialsTech>Lithographie</lido:displayMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041379</lido:conceptID>
+                           <lido:term>Lithographie</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Lithographie (Druckverfahren)</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="2">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Veröffentlichung</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor lido:sortorder="10">
+                     <lido:displayActorInRole>Gihaut Frères (*1815 - † 1871), Verleger</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred">Gihaut Frères</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum">1815</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum">1871</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025574</lido:conceptID>
+                           <lido:term>Verleger</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Verleger</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="3">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00487</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Herstellung des Exemplars</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor lido:sortorder="5">
+                     <lido:displayActorInRole>François le Villain (*Paris 1801 - † 1900), Drucker</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/131893807</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Le Villain, François</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Villain, ...</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Villain, François le</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">LeVillain, François</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum">1801</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum">1900</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025732</lido:conceptID>
+                           <lido:term>Drucker</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Drucker</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="301">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Erwerb</lido:term>
+                  </lido:eventType>
+                  <lido:eventDate>
+                     <lido:displayDate>1905</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1905</lido:earliestDate>
+                        <lido:latestDate>1905</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventDescriptionSet>
+                     <lido:descriptiveNoteValue>2022 nachinventarisiert [vermutlich Vermächtnis Dr. Hermann Henrich Meier jun. 1905]</lido:descriptiveNoteValue>
+                  </lido:eventDescriptionSet>
+               </lido:event>
+            </lido:eventSet>
+         </lido:eventWrap>
+         <lido:objectRelationWrap>
+            <lido:subjectWrap>
+               <lido:subjectSet>
+                  <lido:subject>
+                     <lido:subjectConcept>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://iconclass.org/48C75</lido:conceptID>
+                        <lido:term xml:lang="de">musizieren; Musiker mit Instrument</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">musizieren</lido:term>
+                     </lido:subjectConcept>
+                     <lido:subjectConcept>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://iconclass.org/41D2631</lido:conceptID>
+                        <lido:term xml:lang="de">Regenschirm</lido:term>
+                     </lido:subjectConcept>
+                     <lido:subjectConcept>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://iconclass.org/61A(1824)</lido:conceptID>
+                        <lido:term xml:lang="de">historische Ereignisse und Situationen (1824)</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Geschichte</lido:term>
+                     </lido:subjectConcept>
+                     <lido:subjectConcept>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://iconclass.org/44C312</lido:conceptID>
+                        <lido:term xml:lang="de">politische Karikaturen und Satiren</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Karikatur</lido:term>
+                        <lido:term lido:pref="alternative" lido:addedSearchTerm="yes">Satire</lido:term>
+                     </lido:subjectConcept>
+                  </lido:subject>
+               </lido:subjectSet>
+            </lido:subjectWrap>
+            <lido:relatedWorksWrap>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/809, Nicolas-Toussaint Charlet (20.10.1792 - 29.10.1845)/ François le Villain (1801 - 1900)/ Gihaut Frères (1815 - 1871), C’est la fin du monde!, Titelblatt der Folge "Lithographische Skizzen"/ Das ist das Ende der Welt!, Herstellung der Druckplatte: 1824</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/83109</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org">http://terminology.lido-schema.org/lido00622</lido:conceptID>
+                     <lido:term>weiterer Abzug</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Beraldi (Graveurs XIXe Siècle) IV.124.534</lido:objectID>
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100">R3i_realises</lido:conceptID>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">de La Combe 1856.291.534</lido:objectID>
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100">R3i_realises</lido:conceptID>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>Nicolas-Toussaint Charlet (20.10.1792 - 29.10.1845)/ François le Villain (1801 - 1900)/ Gihaut Frères (1815 - 1871), Lithographische Skizzen, Herstellung der Druckplatte: 1824</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/83110</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46i_forms_part_of</lido:conceptID>
+                     <lido:term>Teil von</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+            </lido:relatedWorksWrap>
+         </lido:objectRelationWrap>
+      </lido:descriptiveMetadata><lido:administrativeMetadata xml:lang="de">
+         <lido:rightsWorkWrap>
+            <lido:rightsWorkSet lido:sortorder="1">
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                  <lido:term>Public Domain Mark 1.0</lido:term>
+               </lido:rightsType>
+            </lido:rightsWorkSet>
+         </lido:rightsWorkWrap>
+         <lido:recordWrap>
+            <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">95506</lido:recordID>
+            <lido:recordType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+               <lido:term>Blatt aus Serie</lido:term>
+            </lido:recordType>
+            <lido:recordSource>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+            </lido:recordSource>
+            <lido:recordRights>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                  <lido:term>CC0 1.0 Universell</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+               </lido:rightsHolder>
+            </lido:recordRights>
+            <lido:recordInfoSet>
+               <lido:recordInfoLink>https://onlinekatalog.kunsthalle-bremen.de/DE-MUS-027614/object/95506</lido:recordInfoLink>
+               <lido:recordMetadataDate>2024-11-18T23:08:20.018</lido:recordMetadataDate>
+            </lido:recordInfoSet>
+         </lido:recordWrap>
+         <lido:resourceWrap>
+            <lido:resourceSet lido:sortorder="1">
+               
+               
+               <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/95506/153121</lido:resourceID>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>https://onlinekatalog.kunsthalle-bremen.de/DE-MUS-027614/object/95506/153121</lido:linkResource>
+               </lido:resourceRepresentation>
+               <lido:resourceType>
+                  <lido:term>image</lido:term>
+               </lido:resourceType>
+               
+               
+               <lido:rightsResource>
+                  <lido:rightsType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                     <lido:term>Public Domain Mark 1.0</lido:term>
+                  </lido:rightsType>
+                  <lido:creditLine>Kunsthalle Bremen - Der Kunstverein in Bremen, Foto: Die Kulturgutscanner</lido:creditLine>
+               </lido:rightsResource>
+            </lido:resourceSet>
+         </lido:resourceWrap>
+      </lido:administrativeMetadata></lido:lido>

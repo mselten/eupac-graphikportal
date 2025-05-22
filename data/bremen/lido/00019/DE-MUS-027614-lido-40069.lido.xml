@@ -1,0 +1,1195 @@
+<lido:lido xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org         http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd"><lido:lidoRecID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/lido/40069</lido:lidoRecID><lido:objectPublishedID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="https://www.kunsthalle-bremen.de/">DE-MUS-027614/object/40069</lido:objectPublishedID><lido:descriptiveMetadata xml:lang="de">
+         <lido:objectClassificationWrap>
+            <lido:objectWorkTypeWrap>
+               <lido:objectWorkType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+                  <lido:term>Druckgraphik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Druckgraphik</lido:term>
+               </lido:objectWorkType>
+            </lido:objectWorkTypeWrap>
+            <lido:classificationWrap>
+               <lido:classification lido:type="Objektklassifikation" lido:sortorder="1">
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+                  <lido:term>Druckgraphik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Druckgraphik</lido:term>
+               </lido:classification>
+            </lido:classificationWrap>
+         </lido:objectClassificationWrap>
+         <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+               <lido:titleSet lido:type="Titel" lido:sortorder="1">
+                  <lido:appellationValue lido:pref="preferred">Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626</lido:appellationValue>
+               </lido:titleSet>
+            </lido:titleWrap>
+            
+            <lido:repositoryWrap>
+               <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+                  <lido:repositoryName>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                        <lido:appellationValue>Bremen, Kunsthalle Bremen</lido:appellationValue>
+                     </lido:legalBodyName>
+                     <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+                  </lido:repositoryName>
+                  <lido:repositoryLocation>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/4008135-7</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://www.geonames.org/2944387</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/page/tgn/7005286</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Bremen</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:repositoryLocation>
+               </lido:repositorySet>
+            </lido:repositoryWrap>
+            
+            
+         </lido:objectIdentificationWrap>
+         <lido:eventWrap>
+            <lido:eventSet lido:sortorder="1">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Herstellung</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor lido:sortorder="1">
+                     <lido:displayActorInRole>Melchior Lorck (*Flensburg 1526 - † 1583), Formschneider</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/118800868</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Lorichs, Melchior</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">M L</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">F M L</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Lorch, Melchior</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Lorck, Melchior</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Lorich, Melchior</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Lorichius, Melchior</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Lorich, Melcher</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1527</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1583</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025178</lido:conceptID>
+                           <lido:term>Formschneider</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Formschneider</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>1570-1583</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1570</lido:earliestDate>
+                        <lido:latestDate>1583</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventMaterialsTech>
+                     <lido:displayMaterialsTech>Holzschnitt</lido:displayMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041405</lido:conceptID>
+                           <lido:term>Holzschnitt</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Holzschnitt (Druckverfahren)</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="2">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00228</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Veröffentlichung</lido:term>
+                  </lido:eventType>
+                  <lido:eventDate>
+                     <lido:displayDate>1626</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1626</lido:earliestDate>
+                        <lido:latestDate>1626</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace lido:sortorder="1">
+                     <lido:displayPlace>Hamburg</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="GND">https://d-nb.info/gnd/4023118-5</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Hamburg</lido:appellationValue>
+                        </lido:namePlaceSet>
+                     </lido:place>
+                  </lido:eventPlace>
+               </lido:event>
+            </lido:eventSet>
+         </lido:eventWrap>
+         <lido:objectRelationWrap>
+            
+            <lido:relatedWorksWrap>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Hollstein German XXII.224.59</lido:objectID>
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100">R3i_realises</lido:conceptID>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Bartsch IX.511.4</lido:objectID>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Passavant IV.183.11</lido:objectID>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Harbeck 1911.59.1-128</lido:objectID>
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100">R3i_realises</lido:conceptID>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/276, Melchior Lorck (1526/27 - nach 1583), Fußsoldat, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1576</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40051</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/277, Melchior Lorck (1526/27 - nach 1583), Kanonier mit Luntenstock, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1581</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40072</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/278, Melchior Lorck (1526/27 - nach 1583), Bärtiger Soldat en face, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40075</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/302, Melchior Lorck (1526/27 - nach 1583), Hofarzt, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1581</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40078</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/303, Melchior Lorck (1526/27 - nach 1583), Türkischer Offizier, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1576</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40079</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/315, Melchior Lorck (1526/27 - nach 1583), Begräbnisplatz, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1576</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40080</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/316, Melchior Lorck (1526/27 - nach 1583), Vorderansicht einer Moschee, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1570</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40082</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/313, Melchior Lorck (1526/27 - nach 1583), Karawanserei, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1570</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40087</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/314, Melchior Lorck (1526/27 - nach 1583), Kirchengemälde, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1570</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40474</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/298, Melchior Lorck (1526/27 - nach 1583), Vornehmer Türke zu Pferd nach links, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40490</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/299, Melchior Lorck (1526/27 - nach 1583), Türke zu Pferd nach links, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40491</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/304, Melchior Lorck (1526/27 - nach 1583), "Waghals", aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1576</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40493</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/305, Melchior Lorck (1526/27 - nach 1583), Reiter, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1576</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40495</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/300, Melchior Lorck (1526/27 - nach 1583), Reiter mit langer schmaler zweiteiliger Fahne, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1576</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40497</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/301, Melchior Lorck (1526/27 - nach 1583), Reiter nach links mit dreigeschlitzter Fahne, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1576</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40498</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/297, Melchior Lorck (1526/27 - nach 1583), Kadi, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1581</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40501</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/296, Melchior Lorck (1526/27 - nach 1583), Reiter nach links, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1576</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40502</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/261, Melchior Lorck (1526/27 - nach 1583), Krieger mit Lanze und Schild, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1581</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40505</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/265, Melchior Lorck (1526/27 - nach 1583), "Staffier", aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1575</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40506</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/262, Melchior Lorck (1526/27 - nach 1583), Fußsoldat mit Schild und Spieß, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40508</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/259, Melchior Lorck (1526/27 - nach 1583), Krieger, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1576</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40516</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/258, Melchior Lorck (1526/27 - nach 1583), "Holunke", aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1581</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40517</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/260, Melchior Lorck (1526/27 - nach 1583), Soldat mit langem offenen Mantel, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1576</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40518</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/255, Melchior Lorck (1526/27 - nach 1583), Laufender Krieger, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1576</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40524</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/257, Melchior Lorck (1526/27 - nach 1583), Soldat mit Lanze und Schild, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40525</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/256, Melchior Lorck (1526/27 - nach 1583), Schreitender Bogenschütze, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1576</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40526</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/247, Melchior Lorck (1526/27 - nach 1583), Barmherziger Pilger, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1570-1583</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40527</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/244, Melchior Lorck (1526/27 - nach 1583), "Prahlhans", aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40528</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/248, Melchior Lorck (1526/27 - nach 1583), Kaiserlicher Obersekretarius, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40529</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/249, Melchior Lorck (1526/27 - nach 1583), Kurde, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1576</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40530</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/250, Melchior Lorck (1526/27 - nach 1583), Türkischer Grenzsoldat mit Lanze und Streitkolben, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1576</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40531</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/251, Melchior Lorck (1526/27 - nach 1583), Sorbetverkäufer, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1581</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40532</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/279, Melchior Lorck (1526/27 - nach 1583), Soldat mit Schild und Lanze, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40533</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/281, Melchior Lorck (1526/27 - nach 1583), Öffentlicher Ringer, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40534</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/280, Melchior Lorck (1526/27 - nach 1583), Janitschar mit hohem Federbusch und langem Spieß, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40535</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/270, Melchior Lorck (1526/27 - nach 1583), Koch, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1575</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40536</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/271, Melchior Lorck (1526/27 - nach 1583), Janitschar, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1581</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40537</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/272, Melchior Lorck (1526/27 - nach 1583), Wasserträger, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1575</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40539</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/267, Melchior Lorck (1526/27 - nach 1583), Feldschmied mit Hammer und Zange, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1581</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40541</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/269, Melchior Lorck (1526/27 - nach 1583), Schreitender Krieger, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1581</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40543</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/268, Melchior Lorck (1526/27 - nach 1583), Bärtiger Türke mit einem Fass auf dem Rücken, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1581</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40545</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/253, Melchior Lorck (1526/27 - nach 1583), Fußsoldat mit Pickelhaube, Streithammer und Faustkolben, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1576</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40549</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/252, Melchior Lorck (1526/27 - nach 1583), Wasserträger, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40551</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/254, Melchior Lorck (1526/27 - nach 1583), Soldat mit Schild und Lanze, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1570-1583</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40552</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/273, Melchior Lorck (1526/27 - nach 1583), Persischer Priester, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1576</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40587</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/274, Melchior Lorck (1526/27 - nach 1583), Türkische Frau in Straßentracht, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40589</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/275, Melchior Lorck (1526/27 - nach 1583), Kriegsknecht mit Schild und Lanze, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1576</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40590</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/288, Melchior Lorck (1526/27 - nach 1583), Drei Feldzeichen, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1576</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40598</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/290, Melchior Lorck (1526/27 - nach 1583), Tartarischer Leiterwagen, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1579</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40600</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/289, Melchior Lorck (1526/27 - nach 1583), Verschiedene Gefäße und Geräte, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1570-1583</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40602</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/308, Melchior Lorck (1526/27 - nach 1583), Pferd mit Fransendecke, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40603</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/307, Melchior Lorck (1526/27 - nach 1583), Lastpferd mit hölzernem Traggestell, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40604</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/306, Melchior Lorck (1526/27 - nach 1583), Angebundenes Reitpferd nach links, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40607</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/309, Melchior Lorck (1526/27 - nach 1583), Pferd nach links, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40610</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/311, Melchior Lorck (1526/27 - nach 1583), Gesatteltes Streitross nach rechts, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40611</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/310, Melchior Lorck (1526/27 - nach 1583), Pferd nach rechts, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40613</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/312, Melchior Lorck (1526/27 - nach 1583), Nach rechts trabendes gesatteltes Saumtier, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1576</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40616</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/318, Melchior Lorck (1526/27 - nach 1583), Türkisches Straßenbild, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1570</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40623</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/317, Melchior Lorck (1526/27 - nach 1583), Moschee, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1576</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40624</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/319, Melchior Lorck (1526/27 - nach 1583), Zelt am Ufer eines Flusses, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1570-1583</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40626</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/295, Melchior Lorck (1526/27 - nach 1583), Vornehmer Türke auf reich gezäumtem Pferd nach rechts, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40627</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/294, Melchior Lorck (1526/27 - nach 1583), Reitender Türke, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40628</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/264, Melchior Lorck (1526/27 - nach 1583), Bauer mit einer Sense, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1581</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40654</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/263, Melchior Lorck (1526/27 - nach 1583), Hoher Beamter nach rechts, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40655</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/266, Melchior Lorck (1526/27 - nach 1583), Tartarischer Soldat, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1576</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40656</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/245, Melchior Lorck (1526/27 - nach 1583), Nach rechts schreitende Figur in Rückenansicht, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1570-1583</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40695</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/243, Melchior Lorck (1526/27 - nach 1583), Georgianer, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1576</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40696</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/246, Melchior Lorck (1526/27 - nach 1583), Junger Gärnter, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1581</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40697</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/285, Melchior Lorck (1526/27 - nach 1583), Blutsverwandter des Propheten, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40698</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/286, Melchior Lorck (1526/27 - nach 1583), Hofdiener, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1581</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40699</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/287, Melchior Lorck (1526/27 - nach 1583), Mohammedanischer Engel, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40701</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/283, Melchior Lorck (1526/27 - nach 1583), Krieger mit Federbusch und Lanze, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1570-1583</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40703</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/282, Melchior Lorck (1526/27 - nach 1583), Schreitende Lastträgerin nach links, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40705</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/284, Melchior Lorck (1526/27 - nach 1583), Janitschar, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1575</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40706</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/291, Melchior Lorck (1526/27 - nach 1583), Zwei vierrädrige Wagen, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1576</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40707</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/293, Melchior Lorck (1526/27 - nach 1583), Vermummte Tartarin, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40708</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1911/292, Melchior Lorck (1526/27 - nach 1583), Fünf Sarkophage, aus: Melchior Lorch, "Des Weitberühmten Kunstreichen und Wolerfahrnen herrn Melchior Lorichs, Flensburgensis Wolgerissene und geschnittene Figuren zu Ross und Fuss sampt schönen Türkischen Gebäuden und allerhand was in der Türkey ze sehen", Hamburg 1626, Herstellung der Druckplatte: 1582</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/40709</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+            </lido:relatedWorksWrap>
+         </lido:objectRelationWrap>
+      </lido:descriptiveMetadata><lido:administrativeMetadata xml:lang="de">
+         <lido:rightsWorkWrap>
+            <lido:rightsWorkSet lido:sortorder="1">
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                  <lido:term>Public Domain Mark 1.0</lido:term>
+               </lido:rightsType>
+            </lido:rightsWorkSet>
+         </lido:rightsWorkWrap>
+         <lido:recordWrap>
+            <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">40069</lido:recordID>
+            <lido:recordType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org">http://terminology.lido-schema.org/lido00453</lido:conceptID>
+               <lido:term>Serie</lido:term>
+            </lido:recordType>
+            <lido:recordSource>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+            </lido:recordSource>
+            <lido:recordRights>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                  <lido:term>CC0 1.0 Universell</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+               </lido:rightsHolder>
+            </lido:recordRights>
+            <lido:recordInfoSet>
+               <lido:recordInfoLink>https://onlinekatalog.kunsthalle-bremen.de/DE-MUS-027614/object/40069</lido:recordInfoLink>
+               <lido:recordMetadataDate>2025-02-20T11:14:08.025</lido:recordMetadataDate>
+            </lido:recordInfoSet>
+         </lido:recordWrap>
+         
+      </lido:administrativeMetadata></lido:lido>

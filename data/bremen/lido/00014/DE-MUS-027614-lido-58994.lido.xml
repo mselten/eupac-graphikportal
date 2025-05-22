@@ -1,0 +1,1605 @@
+<lido:lido xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org         http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd"><lido:lidoRecID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/lido/58994</lido:lidoRecID><lido:objectPublishedID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="https://www.kunsthalle-bremen.de/">DE-MUS-027614/object/58994</lido:objectPublishedID><lido:descriptiveMetadata xml:lang="de">
+         <lido:objectClassificationWrap>
+            <lido:objectWorkTypeWrap>
+               <lido:objectWorkType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+                  <lido:term>Druckgraphik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Druckgraphik</lido:term>
+               </lido:objectWorkType>
+            </lido:objectWorkTypeWrap>
+            <lido:classificationWrap>
+               <lido:classification lido:type="Objektklassifikation" lido:sortorder="1">
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+                  <lido:term>Druckgraphik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Druckgraphik</lido:term>
+               </lido:classification>
+            </lido:classificationWrap>
+         </lido:objectClassificationWrap>
+         <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+               <lido:titleSet lido:type="Originaltitel" lido:sortorder="1">
+                  <lido:appellationValue lido:pref="preferred">Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493</lido:appellationValue>
+               </lido:titleSet>
+               <lido:titleSet lido:type="Titel" lido:sortorder="1">
+                  <lido:appellationValue lido:pref="preferred">Schedelsche Weltchronik</lido:appellationValue>
+               </lido:titleSet>
+            </lido:titleWrap>
+            
+            <lido:repositoryWrap>
+               <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+                  <lido:repositoryName>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                        <lido:appellationValue>Bremen, Kunsthalle Bremen</lido:appellationValue>
+                     </lido:legalBodyName>
+                     <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+                  </lido:repositoryName>
+                  <lido:repositoryLocation>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/4008135-7</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://www.geonames.org/2944387</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/page/tgn/7005286</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Bremen</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:repositoryLocation>
+               </lido:repositorySet>
+            </lido:repositoryWrap>
+            
+            
+         </lido:objectIdentificationWrap>
+         <lido:eventWrap>
+            <lido:eventSet lido:sortorder="1">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Herstellung</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor lido:sortorder="1">
+                     <lido:displayActorInRole>Michael Wolgemut (*Nürnberg 1434 - † Nürnberg 1519), Formschneider</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/118771175</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Wolgemut, Michael</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Wohlgemuth, Michael</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Wolgemuth, Michael</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Michael Wolgemut</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1434</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1519-11-30</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025178</lido:conceptID>
+                           <lido:term>Formschneider</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Formschneider</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventActor lido:sortorder="5">
+                     <lido:displayActorInRole>Wilhelm Pleydenwurff (*1460 - † 1494), Zeichner</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/11874111X</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Pleydenwurff, Wilhelm</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Pleydenwurf, Wilhelm</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Wilhelm Pleydenwurff</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1460</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1494</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300112172</lido:conceptID>
+                           <lido:term>Zeichner</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Zeichner</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>vor 1493</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1475</lido:earliestDate>
+                        <lido:latestDate>1493</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace lido:sortorder="1">
+                     <lido:displayPlace>Nürnberg</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="GND">http://d-nb.info/gnd/4042742-0</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Nürnberg</lido:appellationValue>
+                        </lido:namePlaceSet>
+                     </lido:place>
+                  </lido:eventPlace>
+                  <lido:eventMaterialsTech>
+                     <lido:displayMaterialsTech>Holzschnitt</lido:displayMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041405</lido:conceptID>
+                           <lido:term>Holzschnitt</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Holzschnitt (Druckverfahren)</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="2">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00228</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Veröffentlichung</lido:term>
+                  </lido:eventType>
+                  <lido:eventDate>
+                     <lido:displayDate>12.7.1493</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1493</lido:earliestDate>
+                        <lido:latestDate>1493</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace lido:sortorder="5">
+                     <lido:displayPlace>Nürnberg</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="GND">http://d-nb.info/gnd/4042742-0</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Nürnberg</lido:appellationValue>
+                        </lido:namePlaceSet>
+                     </lido:place>
+                  </lido:eventPlace>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="3">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00487</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Herstellung des Exemplars</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor lido:sortorder="10">
+                     <lido:displayActorInRole>Anton Koberger (*Nürnberg 1440 - † Nürnberg 1513), Drucker</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/118563890</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Koberger, Anton</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Koberger, Anton, der Ältere</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Coberger, Anton</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Koberger, Anthon</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Koberger, Anthonien</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Koberger, Antonius</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Coburger, Anton</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Coburger, Antonius</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Koburger, Anton</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Koburger, Antonius</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Koburger, Anthonius</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Koberger, Anthoni</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Koberger, Antoni</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Koburger, Anton</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1440</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1513-10-03</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025732</lido:conceptID>
+                           <lido:term>Drucker</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Drucker</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+               </lido:event>
+            </lido:eventSet>
+         </lido:eventWrap>
+         <lido:objectRelationWrap>
+            
+            <lido:relatedWorksWrap>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Hartmann Schedel, "Register des Buchs der Croniken und geschichten mit figuren und pildnussen von anbeginn der welt bis auf dise unnsere Zeit", Nürnberg 23.12.1493, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/80242</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org">http://terminology.lido-schema.org/lido00622</lido:conceptID>
+                     <lido:term>weiterer Abzug</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Le Blanc IV.245.1</lido:objectID>
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100">R3i_realises</lido:conceptID>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Muther 1884 Bd. I.58.424-425</lido:objectID>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Dodgson Woodcuts I.228.24 D</lido:objectID>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Hollstein German XXXII.221 ohne Nummer</lido:objectID>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Dodgson Woodcuts I.246.2</lido:objectID>
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100">R3i_realises</lido:conceptID>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23858, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Martyrium Bartholomäus, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, fol. CV (verso), Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/38479</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23893, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Bildnis Zeuxis und Parrhasius, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, fol. LXXI, Herstellung der Druckplatte: 1491-1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58986</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23894, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Bildnis Evangelist Lukas, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, fol. CVIII, Herstellung der Druckplatte: 1491-1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58987</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23880 recto, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Odysseus und Circe, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, fol. CLI, Herstellung der Druckplatte: 1491-1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58992</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23880 verso, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Samuel und andere Figuren, aus: Hartmann Schedel, Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi, Nürnberg 12.7.1493, fol. CLI (verso), Herstellung der Druckplatte: 1491-1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58993</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23892, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Florencia, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, fol. LXXXVI verso–LXXXVII/ Stadtansicht von Florenz, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/62088</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23900, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Roma, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, fol. LVII verso–LVIII/ Stadtansicht von Rom, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/62126</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23898, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Hans Koberger (um 1454 - um 1543), Argentina, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493/ Stadtansicht von Straßburg, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/62127</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23901, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Herbipolis, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, fol. CLIX verso–CLIX/ Stadtansicht von Würzburg, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/62129</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23843, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Martyrium des Apostels Andreas, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/38471</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23844, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Philippus Apostolus, aus: aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/38472</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23847, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Johannes auf Patmos, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/38473</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23848, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Sibylle von Tibur, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/38474</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23849, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Verehrung des goldenen Kalbes, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/38475</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/38476</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23857, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Enthauptung des Apostels Matthias, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/38478</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23860, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Martyrium des Apostels Philippus, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/38480</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23861, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Martyrium des Apostels Matthäus, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/38481</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23862, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Martyrium des Apostels Thomas, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/38482</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23863, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513)/ nach: Michael Wolgemut (1433/34 - 30.11.1519), Enthauptung des Apostels Jacobus Minor, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/38483</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23865, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Enthauptung des Apostels Jacobus Major, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/38484</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23867, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Martyrium des Apostels Judas Thaddäus, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/38485</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23868, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Septima aetas mundi: Versuchung des heiligen Antonius, darunter die Predigt des Antichrist, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/38487</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23870, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Eremit: Bruder Niclas, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: 12.7.1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/38488</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23878, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Bekehrung des Paulus, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/38489</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23881, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Vertreiber der Bewohner Jerusalems, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/38490</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23882, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Sexta Aetatis Mundi: Christus und die Apostel, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/38491</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23885, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Hirt predigt in Niclashausen wider den Geistlichen, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/38492</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23888, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Hans Koberger (um 1454 - um 1543), Himmelfahrt der Maria Magdalena, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/38493</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23896, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513)/ nach: Michael Wolgemut (1433/34 - 30.11.1519), Konzil in Rom, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/38495</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23833, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Sexta Aetas - Das sechste Alter der Welt: Christus und die Apostel, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/38497</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/38499</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (38), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Alttestamentlicher Stammbaum, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58333</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58336</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23864 recto, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Kreuzigung Petri, aus: Hartmann Schedel, Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi, Nürnberg 12.7.1493, fol. CIIII (verso), Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58342</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23854 recto, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Enthauptung Petri, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, fol. CIIII, Herstellung der Druckplatte: 1491-1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58351</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23854 verso, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Enthauptung Jacobus Major, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: 1491-1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58985</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23837 recto, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Elias, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, fol. L (recto), Herstellung der Druckplatte: 1491-1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58988</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23889, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Teufel entführt eine nackte Frau, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, fol. CLXXXIX (verso), Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/59300</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23859, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Seelen im Fegefeuer, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, fol. CCLVII (verso), Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/59302</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23879, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Abendmahl vor einem Hochaltar, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, fol. CXCVII (verso), Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/59304</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/59305</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23886 recto, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Paare auf der zusammenbrechenden Brücke und ein Priester mit dem Abendmahl, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, fol. CCXVII, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/59306</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23852 recto, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Totentanz, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, fol. CCLXI, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/59308</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23853 recto, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Urteil Salomons, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, fol. XLVII (verso), Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/59313</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23835, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Salomon und die Königin von Saba, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/59318</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23899, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Venecie, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, fol. XLIII verso–XLIIII/ Stadtansicht von Venedig, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/62125</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23902, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Patavia, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, fol. CXCIX verso–CC/ Stadtansicht von Passau, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/62130</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23905 b, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Vlma, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, fol. CXC verso–CXCI/ Stadtansicht von Ulm, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/62131</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23905 a, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Salczbvrga, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, fol. CLII verso–CLIII/ Stadtansicht von Salzburg, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/62132</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23903 a, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Kaiser mit den 7 Kurfürsten und Wappenträgern aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, fol. CLXXXIII verso–CLXXXIIII, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/62197</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23903, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Bamberga, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, fol. CLXXIV verso–CLXXV/ Stadtansicht von Bamberg, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/62198</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23904, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Nvremberga, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493/ Stadtansicht von Nürnberg, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/62199</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/62305</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (13), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Brustbildnisse griechischer Geistlicher, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. CXII verso, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/73789</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (14), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Bildnisse Pius Antonius, Marcus Antonius und Lucius Aurelius Commodus, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. CXII recto, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/73791</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (15), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Stammbaum Johannes des Täufers, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. XCIIII verso, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/73792</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (16), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Brustbildnis des Jacob, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. LXXXVIII verso, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/73803</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (17), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Figuren aus der Bibel, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. XCV recto, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/73804</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (18), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Linea Summorum Pontificium, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. CXIIII verso/ Brustbildnisse der Päpste Anicetus, Sother, Eleutherius und Victor, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/73822</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (19), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Teil Stammbaum Abraham, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. XXI verso, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/73823</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (20), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Brustbildnisse mehrerer Heiliger, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. CXVIII recto, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/73824</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (31), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Teil eines Stammbaumes, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. XLII verso, Herstellung der Druckplatte: 1491-1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/73825</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (21), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Hiericho, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. L recto/ Jericho, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/73933</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (22), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Mediolanum, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. LXXII recto/ Stadtansicht Mailand, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/73934</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (23), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Tolosa, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. LXXI verso/ Stadtansicht Toulouse, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/73935</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (24), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Brustbildnisse in Paaren, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. Blatt LXXVI verso, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/73936</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (25), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), 6 Brustbildnisse, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. LXXXV verso, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/73937</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (26), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Brustbildnis Ratsherr Yppolita, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. CXXI verso, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/73938</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (27), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Brustbildnis Eusebius, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/73939</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (28), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Christuskind mit Maria und Josef, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. XCV verso, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/73940</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (32), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Teil eines Stammbaumes, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. XLII verso, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74055</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (33), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Brustbildnisse dreier Amazonen, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. XXVIII verso, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74056</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (34), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Brustbildnisse einer Gruppe von Zeugen, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. LXXVII recto, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74057</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (35), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Brustbildnisse Tales, Solon, Chilon, Periander, Cleobolus, Bias und Pitacus, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. LX verso, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74058</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (36), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Brustbildnisse Zacharias und Elisabeth, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. XCIIII recto, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74059</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (1), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Brustbilder von zwei der drei Brüder, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. LV verso, Herstellung der Druckplatte: 1491-1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74092</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (2), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Brustbildnis Prediger Vincentius mit Buch, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. CCXIIII verso, Herstellung der Druckplatte: 1491-1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74093</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (4), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Brustbildnis einer Ordensschwester, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. CCXXVIII recto, Herstellung der Druckplatte: 1491-1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74095</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (7), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Brustbildnis König Luzius von Chur und seiner Schwester Emerita, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. CXV verso, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74098</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (9), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Brustbildnis eines Heiligen, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. CXVI recto, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74100</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>30317 (10), Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Brustbildnis Bischof Theophilus, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. CXIII verso, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74101</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23836, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Stammbaum des Kaisers Heinrich, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. CLXXXVI verso, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74121</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23838, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Primus rex isreal Saul, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. XLI/ König Saul in ganzer Figur - der erste König Israels, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74122</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23839, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Samson, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. XLI verso/ Simson der Richter Israels in ganzer Figur, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74123</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23840, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Monogramm Hartmann Schedels, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. III, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74449</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23841, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Sanctus marcus euangelista, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. CIIII recto / Brustbildnis Evangelist Marcus, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74450</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23845, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Heliseus der Prophet, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. LIII recto, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74451</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23871, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Sanctus augustinus, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. CXXXVI/ Brustbildnis Sankt Augustinus, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74452</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23872, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Sanctus hieronymus, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. CXXXV recto/ Brustbildnis Hieronymus, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74516</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23873, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Apparitio michaelis, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. CXLI verso/ Brustbildnis Heiliger Michael, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74517</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23875, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Gekreuzigter Jesus, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. CXLIX verso , Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74518</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23874, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Gregorius magnus victor, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. CXLVIII recto/ Brustbildnis Erzbischoff Gregorius, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74519</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23876, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Sanctus ambrosius, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. CXXXIIII verso/ Brustbildnis Ambrosius, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74520</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23877, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), S. Sebaldus, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. CLXII verso/ Brustbildnis Heiliger Sebald, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74521</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23869, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Machometus, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. CLI verso/ Mohammed und drei Männer, Herstellung der Druckplatte: 1475-1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74522</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23895, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Gefäß zur Reinigung Geistlicher, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. XXXIII recto, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74523</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>23891, Michael Wolgemut (1433/34 - 30.11.1519)/ Wilhelm Pleydenwurff (um 1460 - um 1494)/ Anton Koberger (1440 - 3.10.1513), Ordo Cisterciensium, aus: Hartmann Schedel, "Registrum huius operis libri cronicarum cu figuris et ymagibus ab inicio mudi", Nürnberg 12.7.1493, S. CXCV verso/ Kloster Cîteaux, Herstellung der Druckplatte: vor 1493</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/74524</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/80236</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/80237</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/80238</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/80239</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+            </lido:relatedWorksWrap>
+         </lido:objectRelationWrap>
+      </lido:descriptiveMetadata><lido:administrativeMetadata xml:lang="de">
+         <lido:rightsWorkWrap>
+            <lido:rightsWorkSet lido:sortorder="1">
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                  <lido:term>Public Domain Mark 1.0</lido:term>
+               </lido:rightsType>
+            </lido:rightsWorkSet>
+         </lido:rightsWorkWrap>
+         <lido:recordWrap>
+            <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">58994</lido:recordID>
+            <lido:recordType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org">http://terminology.lido-schema.org/lido00453</lido:conceptID>
+               <lido:term>Serie</lido:term>
+            </lido:recordType>
+            <lido:recordSource>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+            </lido:recordSource>
+            <lido:recordRights>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                  <lido:term>CC0 1.0 Universell</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+               </lido:rightsHolder>
+            </lido:recordRights>
+            <lido:recordInfoSet>
+               <lido:recordInfoLink>https://onlinekatalog.kunsthalle-bremen.de/DE-MUS-027614/object/58994</lido:recordInfoLink>
+               <lido:recordMetadataDate>2025-02-06T14:20:07.775</lido:recordMetadataDate>
+            </lido:recordInfoSet>
+         </lido:recordWrap>
+         
+      </lido:administrativeMetadata></lido:lido>

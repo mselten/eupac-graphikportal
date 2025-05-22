@@ -1,0 +1,1437 @@
+<lido:lido xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org         http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd"><lido:lidoRecID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/lido/44160</lido:lidoRecID><lido:objectPublishedID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="https://www.kunsthalle-bremen.de/">DE-MUS-027614/object/44160</lido:objectPublishedID><lido:descriptiveMetadata xml:lang="de">
+         <lido:objectClassificationWrap>
+            <lido:objectWorkTypeWrap>
+               <lido:objectWorkType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300015578</lido:conceptID>
+                  <lido:term>Illustration/Buchillustration</lido:term>
+               </lido:objectWorkType>
+            </lido:objectWorkTypeWrap>
+            <lido:classificationWrap>
+               <lido:classification lido:type="Objektklassifikation" lido:sortorder="1">
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+                  <lido:term>Druckgraphik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Druckgraphik</lido:term>
+               </lido:classification>
+            </lido:classificationWrap>
+         </lido:objectClassificationWrap>
+         <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+               <lido:titleSet lido:type="Titel" lido:sortorder="1">
+                  <lido:appellationValue lido:pref="preferred">"Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559</lido:appellationValue>
+               </lido:titleSet>
+            </lido:titleWrap>
+            
+            <lido:repositoryWrap>
+               <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+                  <lido:repositoryName>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                        <lido:appellationValue>Bremen, Kunsthalle Bremen</lido:appellationValue>
+                     </lido:legalBodyName>
+                     <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+                  </lido:repositoryName>
+                  <lido:repositoryLocation>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/4008135-7</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://www.geonames.org/2944387</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/page/tgn/7005286</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Bremen</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:repositoryLocation>
+               </lido:repositorySet>
+            </lido:repositoryWrap>
+            
+            
+         </lido:objectIdentificationWrap>
+         <lido:eventWrap>
+            <lido:eventSet lido:sortorder="1">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Herstellung</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor lido:sortorder="1">
+                     <lido:displayActorInRole>Hans Weiditz (*Straßburg 1495 - † Freiburg im Breisgau 1536), Formschneider</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/118806491</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Weiditz, Hans</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Wydyz, Hans</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Weiditz, Hans, der Jüngere</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Weidlitz, Hans</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Widitz, Hans</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Wyditz, Hans</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Wydyz, Joh.</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Wydyz, Johannes</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Weiditz, Johann</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Weiditz, Johannes</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Guidictius, Johannes</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Wydytz, Hans</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Weyditz, Hans</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Weiditz, Hans d. J.</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1495</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1536</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025178</lido:conceptID>
+                           <lido:term>Formschneider</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Formschneider</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventActor lido:sortorder="5">
+                     <lido:displayActorInRole>alternative Zuschreibung Petrarcameister (*1550 - † 1700), Formschneider</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/118740326</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Petrarcameister</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Meister des Trostspiegels</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Petrarca-Meister</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Petrarch Master</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Petrarkameister</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Petrarka-Meister</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Meister des Trostspiegels¶Petrarca-Meister</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum">1550</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum">1700</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025178</lido:conceptID>
+                           <lido:term>Formschneider</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Formschneider</lido:term>
+                        </lido:roleActor>
+                        <lido:attributionQualifierActor>alternative Zuschreibung</lido:attributionQualifierActor>
+                        <lido:attributionQualifierActor>alternative Zuschreibung</lido:attributionQualifierActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>um 1520</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1519</lido:earliestDate>
+                        <lido:latestDate>1520</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventMaterialsTech>
+                     <lido:displayMaterialsTech>Holzschnitt</lido:displayMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041405</lido:conceptID>
+                           <lido:term>Holzschnitt</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Holzschnitt (Druckverfahren)</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="2">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00228</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Veröffentlichung</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor lido:sortorder="10">
+                     <lido:displayActorInRole>Nachfolger von Christian Egenolff (*Hadamar 1502 - † Frankfurt am Main 1555), Verleger</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/122968468</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Egenolff, Christian</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Egenolphus, Christianus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Egenolf, Christian</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Egenolph, Christian</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Egenolff, Christianus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Egenolff, Christian, der Ältere</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Monogrammist, CE</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">CE, Monogrammist</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1502-07-26</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1555-02-09</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025574</lido:conceptID>
+                           <lido:term>Verleger</lido:term>
+                        </lido:roleActor>
+                        <lido:attributionQualifierActor>Nachfolger von</lido:attributionQualifierActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>1559</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1559</lido:earliestDate>
+                        <lido:latestDate>1559</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace lido:sortorder="1">
+                     <lido:displayPlace>Frankfurt am Main</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="GND">http://d-nb.info/gnd/4018118-2</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Frankfurt am Main</lido:appellationValue>
+                        </lido:namePlaceSet>
+                     </lido:place>
+                  </lido:eventPlace>
+               </lido:event>
+            </lido:eventSet>
+         </lido:eventWrap>
+         <lido:objectRelationWrap>
+            
+            <lido:relatedWorksWrap>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650), Petrarcas Glücksbuch, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/124158</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org">http://terminology.lido-schema.org/lido00622</lido:conceptID>
+                     <lido:term>weiterer Abzug</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Bartrum German Renaissance Prints.160.163</lido:objectID>
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100">R3i_realises</lido:conceptID>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Röttinger Petrarka.24</lido:objectID>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Scheidig Petrarca.35</lido:objectID>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">Passavant III.275.106</lido:objectID>
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100">R3i_realises</lido:conceptID>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7243 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Glücksrad, Titelblatt aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Band I, Frankfurt am Main 1559, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44159</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7248 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Fortuna Euripus, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Band I, Frankfurt am Main 1559, Vorspann, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44161</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7249 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Wägung von Gut und Böse, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Band I, Frankfurt am Main 1559, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44162</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7250 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von mancherlei Anderer der Römer Kurzweil, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Band I, Frankfurt am Main 1559, Kapitel 30, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44163</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7251 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von Hunden Jagen und Beißen, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Band I, Frankfurt am Main 1559, Kapitel 32, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44164</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7529 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von Perlen und Edelgesteinen, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Band I, Frankfurt am Main 1559, Kapitel 37, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44165</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7544 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von der Seligkeit, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Band I, Frankfurt am Main 1559, Kapitel 108, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44218</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7271 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von Verheissung allerlei Geschlecht der Wahrsager, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Band I, Frankfurt am Main 1559, Kapitel 112, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44220</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7258 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von Fried und Friedes Anlass, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Band I, Frankfurt am Main 1559, Kapitel 106, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44222</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7287 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von Macht und Gewalt, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Band I, Frankfurt am Main 1559, Kapitel 91, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44229</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7245 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Vom geruhigen Stand, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Band I, Frankfurt am Main 1559, Kapitel 90, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44232</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7384 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von einem guten Herrn, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Band I, Frankfurt am Main 1559, Kapitel 85, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44255</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7536 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von angenehmer Lieb und Buhlschaften, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Band I, Frankfurt am Main 1559, Kapitel 69, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44275</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7264 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von Stärke und Großmütigkeit des Sohnes, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Band I, Frankfurt am Main 1559, Kapitel 72, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44279</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7350 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von Freundschaft der Könige, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Band I, Frankfurt am Main 1559, Kapitel 49, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44309</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7535 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von Findung der Goldgruben, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Band I, Frankfurt am Main 1559, Kapitel 54, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44315</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7367 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von einem großen Heiratgut, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Kapitel 68, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44399</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7262 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von Pfauen, Hühnern, Hennen, Bienen und Tauben, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Kapitel 62, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44430</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7263 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von Affen und schimpflichen Tieren, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Kapitel 61, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44431</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7260 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von glückseliger Schiffahrt, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band I, Kapitel 87, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44612</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7261 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von erwünschter Ergreifung der Zulandung des Schiffes, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band I, Kapitel 88, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44613</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7247 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Vom Leben des Francesco Petrarca, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band I, Vorspann, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44619</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7523 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von blühendem Alter und Hoffnung längeren Lebens, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band I, Kapitel 1, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44622</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7522 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von fürtrefflicher Gestalt des Leibs, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band I, Kapitel 2, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44626</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7309 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von Verstand, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band I, Kapitel 7, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44627</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7254 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von starken und festen Schlossen, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Band I, Frankfurt am Main 1559, Kapitel 35, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44737</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7255 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von herrlich Gebäude, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Band I, Frankfurt am Main 1559, Band I, Kapitel 34, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44738</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7282 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von erlangter und eingenommener Tyrannei, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band I, Kapitel 95, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44798</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7270 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von Königreich und Kaisertum, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band I, Kapitel 96, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44799</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7265 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von Kriegszeug und Wehren, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band I, Kapitel 99, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44801</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7244 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von adeligem Ursprung, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Band I, Frankfurt am Main 1559, Kapitel 16, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44813</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7524 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von köstlichem Hausrat, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band I, Kapitel 36, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44814</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7310 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von der Gedächtnis, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band I, Kapitel 8, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44815</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7316 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von der Geistlichkeit, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band I, Kapitel 13, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44818</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7317 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von der Freiheit, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band I, Kapitel 14, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44819</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7257 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von unbekannten Freunden, die man allein durch das Gerücht erkennt hat, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Band I, Frankfurt am Main 1559, Band I, Kapitel 51, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44827</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7256 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von einem einigen getreuen Freund, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Band I, Frankfurt am Main 1559, Band I, Kapitel 52, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44828</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7540 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ alternative Zuschreibung: Christian Egenolff (26.7.1502 - 9.2.1555), Von verhoffter Glorie aus Beiwohnung, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band I, Kapitel 119, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45122</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7541 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von vielfältiger Hoffnung, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45123</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7266 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von bewaffnetem Heer, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band I, Kapitel 97, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45141</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7267 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von bereiter Schiffahrt, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band I, Kapitel 98, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45142</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7403 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von verhofftem Fried des Gemüts, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band I, Kapitel 121, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45178</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7272 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von gehoffter Zukunft des Fürsten, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band I, Kapitel 116, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45182</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7246 recto (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Omnica secundum litem fiunt. Heraclitus, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Vorrede/ Vom widerwärtigen Glück, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Vorrede, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45207</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7246 verso (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Alle ding bestehen im Zanck, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Vorrede/ Vom widerwärtigen Glück, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Vorrede, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45212</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7294 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von einem schändlichen und unehrlichen Tod, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 122, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45214</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7284 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von dem, der sich in seinem Sterben bekümmert, wie es nach seinem Tod seinem Vaterland gehen werde, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45215</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7285 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von dem, der in seinem Sterben fürcht, er werd unbegraben weggeworfen werden, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 132, Herstellung der Druckplatte: 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45220</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7493 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von dem Sterben oder Pestillenz, die sehr weit tobt und währet, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 92, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45269</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7492 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von der Traurigkeit und Trübseligkeit, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 93, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45270</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7509 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von dem Fieber, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 112, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45299</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7508 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von der Krankheit der Lenden oder von dem Wehmut der Därme, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 113, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45300</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7673 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von dem verlorenen Gehör, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 97, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45400</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7276 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von verlorenen Schlössern, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 82, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45437</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7558 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von dem Gebrechen der Redenhaftigkeit, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 102, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45438</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7555 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von einem armen und schwachen Gedächtnis, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 101, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45439</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7503 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von der Unsinnigkeit, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 115, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45440</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7277 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von dem Frass, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 108, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45441</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7556 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von dem Tod, Blatt aus "Hülff/ Trost vnd Rath in allem Anligen der Menschen. Francisci Petrarche/ des hochweisen/ fürtreflichen Poeten vnd Oratorn/ zwei Trostbücher/ Von Artznei vnd Rath beyde im gůten vnd widerwertigen Glück", Band II, Kapitel 119, Egenolff, Frankfurt am Main, 1559, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45444</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7283 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von dem unzeitigen Tod, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 120, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45445</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7515 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von dem gewaltsamen unrechten oder unnatürlichen Tod, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 121, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45446</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7301 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von einer unglückhaften Schlacht, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 73, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45447</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7259 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von der Zwietracht des irrigen und zweifelhaftigen Gemüts, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 75, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45448</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7275 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von dem bürgerlichen und innerlichen Krieg, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 74, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45449</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7678 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von dem Elend, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 67, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45531</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7299 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von dem verstörten Vaterland, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 69, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45539</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7274 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von der Furcht, im Krieg zu verlieren, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 70, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45542</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7498 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von Gefängnis und Kerkern, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 64, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45556</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7273 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Vom Tode des Freunds, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 52, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45559</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7297 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von dem Abwesen der Freunde, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 53, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45562</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7300 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von einem schweren Schiffbruch, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 54, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45564</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7278 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Vom Brand, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 55, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45565</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7459 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von einem verlorenen Vater, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 46, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45568</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7460 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von verlorener Mutter, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 47, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/45569</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7549 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von des Vaters Härtigkeit, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 43, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58164</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7550 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von der Stiefmutter, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 42, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58166</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7286 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von den beschwerlichen Nachbarn, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 31, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58180</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7291 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von einem ungerechten Herrn, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 33, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58185</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7545 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von Bürgschaft, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 14, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58236</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7404 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von der Schwachheit des Leibs, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 2, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58256</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7411 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von Krankheit, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 3, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58257</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7412 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von unadeligem Vaterland, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 4, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58259</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7419 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von unbekanntem Ursprung, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 6, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58263</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7546 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von schmaler Nahrung, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 10, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58277</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7547 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von ursprünglicher Armut, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 11, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58278</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7424 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650), Von einer vermählten Braut, einem Andern zugesprochen, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 17, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58294</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7423 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von widerwärtigem Würfelspiele, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 16, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58295</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7553 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von der Unfruchtbarkeit des Jahrs, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 58, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58337</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7302 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von einem schweren Geschäft, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 56, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58339</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>7298 (Künstlerverzeichnis), Hans Weiditz (1495 - 1536)/ alternative Zuschreibung: Petrarcameister (vor 1600 - nach 1650)/ Nachfolger von: Christian Egenolff (26.7.1502 - 9.2.1555), Von einem bösen hoffärtigen Hofmeister, aus: "Hülff, Trost und Rath in allem anligen der Menschen. Francisci Petrarche, des hochweisen, fürtreflichen Poeten und Oratorn, zwei Trostbücher, Von Artznei und Rath beyde im guten vnd widerwertigen Glück", Frankfurt am Main 1559, Band II, Kapitel 59, Herstellung der Druckplatte: um 1520</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/58340</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+            </lido:relatedWorksWrap>
+         </lido:objectRelationWrap>
+      </lido:descriptiveMetadata><lido:administrativeMetadata xml:lang="de">
+         <lido:rightsWorkWrap>
+            <lido:rightsWorkSet lido:sortorder="1">
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                  <lido:term>Public Domain Mark 1.0</lido:term>
+               </lido:rightsType>
+            </lido:rightsWorkSet>
+         </lido:rightsWorkWrap>
+         <lido:recordWrap>
+            <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">44160</lido:recordID>
+            <lido:recordType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org">http://terminology.lido-schema.org/lido00453</lido:conceptID>
+               <lido:term>Serie</lido:term>
+            </lido:recordType>
+            <lido:recordSource>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+            </lido:recordSource>
+            <lido:recordRights>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                  <lido:term>CC0 1.0 Universell</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+               </lido:rightsHolder>
+            </lido:recordRights>
+            <lido:recordInfoSet>
+               <lido:recordInfoLink>https://onlinekatalog.kunsthalle-bremen.de/DE-MUS-027614/object/44160</lido:recordInfoLink>
+               <lido:recordMetadataDate>2025-02-06T15:27:21.17</lido:recordMetadataDate>
+            </lido:recordInfoSet>
+         </lido:recordWrap>
+         
+      </lido:administrativeMetadata></lido:lido>

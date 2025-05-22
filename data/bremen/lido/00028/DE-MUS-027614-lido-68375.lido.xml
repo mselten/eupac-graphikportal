@@ -1,0 +1,600 @@
+<lido:lido xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org         http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd"><lido:lidoRecID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/lido/68375</lido:lidoRecID><lido:objectPublishedID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="https://www.kunsthalle-bremen.de/">DE-MUS-027614/object/68375</lido:objectPublishedID><lido:descriptiveMetadata xml:lang="de">
+         <lido:objectClassificationWrap>
+            <lido:objectWorkTypeWrap>
+               <lido:objectWorkType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+                  <lido:term>Druckgraphik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Druckgraphik</lido:term>
+               </lido:objectWorkType>
+            </lido:objectWorkTypeWrap>
+            <lido:classificationWrap>
+               <lido:classification lido:type="Objektklassifikation" lido:sortorder="1">
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+                  <lido:term>Druckgraphik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Druckgraphik</lido:term>
+               </lido:classification>
+            </lido:classificationWrap>
+         </lido:objectClassificationWrap>
+         <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+               <lido:titleSet lido:type="Titel" lido:sortorder="1">
+                  <lido:appellationValue lido:pref="preferred">Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599</lido:appellationValue>
+               </lido:titleSet>
+            </lido:titleWrap>
+            
+            <lido:repositoryWrap>
+               <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+                  <lido:repositoryName>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                        <lido:appellationValue>Bremen, Kunsthalle Bremen</lido:appellationValue>
+                     </lido:legalBodyName>
+                     <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+                  </lido:repositoryName>
+                  <lido:repositoryLocation>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/4008135-7</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://www.geonames.org/2944387</lido:placeID>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/page/tgn/7005286</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Bremen</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:repositoryLocation>
+               </lido:repositorySet>
+            </lido:repositoryWrap>
+            
+            
+         </lido:objectIdentificationWrap>
+         <lido:eventWrap>
+            <lido:eventSet lido:sortorder="1">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Herstellung</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor lido:sortorder="1">
+                     <lido:displayActorInRole>Theodor de Bry (*Lüttich 1528 - † Frankfurt am Main 1598), Stecher</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:pref="preferred" lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd/">http://d-nb.info/gnd/118516418</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson">Bry, Theodor de</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bry, Theodor de, der Ältere</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bry, Theodor</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bry, Theodoor de</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bry, Theodoricus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bry, Thierry de</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bry, Theodorus de</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bry, Teodoro de</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bry, Dieterich de</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bry, Diterich von</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bry, ... de</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bry, Dieterich von</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bry, Dietherich von</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bry, Diederich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bry, Dietrich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bry, Ditherich de</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bryius, Theodorus</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bry, Dirk de</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bry, Théodore de</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bry, Dietrich von</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Debry, Théodore</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bry, Dietrich de</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Bry, Dieterich</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">De Bry, Theodor</lido:appellationValue>
+                              <lido:appellationValue lido:pref="alternative" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#variantForThePerson">Brie, Theþodore</lido:appellationValue>
+                           </lido:nameActorSet>
+                           <lido:vitalDatesActor>
+                              <lido:earliestDate lido:type="Geburtsdatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfBirth">1528</lido:earliestDate>
+                              <lido:latestDate lido:type="Sterbedatum" lido:encodinganalog="http://d-nb.info/standards/elementset/gnd#dateOfDeath">1598-03-27</lido:latestDate>
+                           </lido:vitalDatesActor>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025165</lido:conceptID>
+                           <lido:term>Stecher</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Stecher</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>vor 1597</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1543</lido:earliestDate>
+                        <lido:latestDate>1597</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventMaterialsTech>
+                     <lido:displayMaterialsTech>Kupferstich</lido:displayMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300041341</lido:conceptID>
+                           <lido:term>Kupferstich</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Kupferstich (Druckverfahren)</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Kupferstich (Druckverfahren)</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="2">
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00228</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Veröffentlichung</lido:term>
+                  </lido:eventType>
+                  <lido:eventDate>
+                     <lido:displayDate>1597-1599</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1597</lido:earliestDate>
+                        <lido:latestDate>1599</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace lido:sortorder="1">
+                     <lido:displayPlace>Frankfurt am Main</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="GND">http://d-nb.info/gnd/4018118-2</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Frankfurt am Main</lido:appellationValue>
+                        </lido:namePlaceSet>
+                     </lido:place>
+                  </lido:eventPlace>
+               </lido:event>
+            </lido:eventSet>
+         </lido:eventWrap>
+         <lido:objectRelationWrap>
+            
+            <lido:relatedWorksWrap>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     
+                     <lido:object>
+                        <lido:objectWebResource>http://gateway-bayern.de/VD16+B+6459</lido:objectWebResource>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/44757</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org">http://terminology.lido-schema.org/lido00622</lido:conceptID>
+                     <lido:term>weiterer Abzug</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100">R3i_realises</lido:conceptID>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1909/208, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ nach: Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Nicolaus Copernicus/ Bildnis Nikolaus Kopernikus, aus: Jean Jacques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599, Bd. 3, S. 314, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/21771</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>2019/1, Theodor de Bry (1528 - 27.3.1598), Bildnis Marsilius Ficinus, aus "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Boissard, de Bry, Frankfurt am Main 1597–1599, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/68366</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/206, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Petrus Martir Vermilius, Theologus, aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Peter Martyr Vermigli, Theologe, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99137</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/203, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Ludovicus Lavaterus Tigurinus, Theol., aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Ludwig Lavater, Theologe, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99138</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/202, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Ioannes Cochlæus Theol. Doct. Decanus Francf., aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Johannes Cochläus, Theologe, Doktor Dekan Frankfurt, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99139</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/205, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Iosias Simlerus Heluetius Theologus, aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Josias Simmler, Schweizer Theologe, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99140</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/204, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Simon Sulcerus Theologus, aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Simon Sulzer, Theologe, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99141</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/201, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Georgius Wicelius Theologus Pontificius, aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Georg Witzel, bischöflicher Theologe, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99142</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/183, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Hulrichus Zwinglius, aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Huldrych Zwingli, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99143</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/207, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Wolfgangus Musculus Theologus, aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Wolfgang Musculus, Theologe, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99144</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/182, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Alardus Amstelredamus, aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Alardus von Amsterdam, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99145</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/200, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Bertholdus Hallerus Theologus, aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Berchtold Haller, Theologe, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99146</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/199, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Ioannes Caluinus Theologus Geneuensis, aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Johannes Calvin, Genfer Theologe, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99147</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/198, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Iacobus Latomus Theologus, aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Jacques Masson, Theologe, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99148</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/197, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Ioannes Operinus, Græcæ, aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Johannes Oporinus, Grieche, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99149</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/196, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Leo Iudæ Theologus Tigurinus, aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Leo Jud, Züricher Theologe, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99150</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/195, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Ioan. Latomus Francf. Dec. Theol. et Hist., aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Johann Latomus, Frankfurter Dekan, Theologe und Historiker, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99151</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/194, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Henricus Bulingerus Heluetius Theologus, aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Heinrich Bullinger, Schweizer Theologe, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99152</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/193, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Simon Grynæus Philos. et Theol., aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Simon Grynaeus, Philosoph und Theologe, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99153</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/192, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Rudolphus Gualterus Tigurinus Theol., aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Rudolf Gwalther, Züricher Theologe, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99154</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/191, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Ionnes de Indagine Theologus &amp; Astrologus, aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Johannes Indagine, Theologe und Astrologe, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99155</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/190, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Caspar Schwenckfeldius, aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Kaspar Schwenckfeld, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99156</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/189, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Nicolaus Machiavelus Florentin, aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Niccolò Machiavelli, Florentiner, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99157</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/188, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Helius Eobanus Hessus Poeta, aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Helius Eobanus Hessus, Dichter, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99158</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/187, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Iohannes Fischerus Episcopus Roffensis Aglus, aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis John Fisher, Englischer Bischof von Rochester, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99159</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/186, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Conradus Pelicanus Theologus Tigurinus, aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Konrad Pellikan, Züricher Theologe, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99160</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/185, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Æneas Sylvius Picolomineus, dictus Pius II, aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Enea Silvio Piccolomini, genannt Pius II., Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99161</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/184, Theodor de Bry (1528 - 27.3.1598)/ alternative Zuschreibung: Robert Boissard (um 1570 - nach 1601)/ Jean Jacques Boissard (1528 - 1602)/ Theodor de Bry (1528 - 27.3.1598), Ioannes Oecolampadius, aus: Jean-Jaques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599/ Bildnis Johannes Oekolampad, Herstellung der Druckplatte: 1543-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/99162</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1851/977, Robert Boissard (um 1570 - nach 1601)/ Art des: Theodor de Bry (1528 - 27.3.1598)/ nach: Albrecht Dürer (21.5.1471 - 6.4.1528)/ Theodor de Bry (1528 - 27.3.1598), Philippvs Melannthon Germaniæ Phoenix/ Bildnis Philipp Melanchthon, aus: Jean Jacques Boissard, "Icones quinquaginta virorum illustrium doctrina &amp; eruditione praestantium ad vivum effictae", Frankfurt am Main 1597–1599, Herstellung der Druckplatte: 1585-1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/21772</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+               <lido:relatedWorkSet>
+                  <lido:relatedWork>
+                     <lido:displayObject>1914/321, Theodor de Bry (1528 - 27.3.1598), Bildnis Petrus Aretinus Hetruscus, aus: Jean-Jaques Boissard, "Icones Qvinqvaginta Virorvm illustrium doctrina &amp; eruditione præstantium ad vivum effictæ, cum eorum vitis, Frankfurt 1597, S. 266, Herstellung der Druckplatte: vor 1597</lido:displayObject>
+                     <lido:object>
+                        <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/68418</lido:objectID>
+                        
+                     </lido:object>
+                  </lido:relatedWork>
+                  <lido:relatedWorkRelType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.4_official_release.rdfs">P46_is_composed_of</lido:conceptID>
+                     <lido:term>hat Teil</lido:term>
+                  </lido:relatedWorkRelType>
+               </lido:relatedWorkSet>
+            </lido:relatedWorksWrap>
+         </lido:objectRelationWrap>
+      </lido:descriptiveMetadata><lido:administrativeMetadata xml:lang="de">
+         <lido:rightsWorkWrap>
+            <lido:rightsWorkSet lido:sortorder="1">
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                  <lido:term>Public Domain Mark 1.0</lido:term>
+               </lido:rightsType>
+            </lido:rightsWorkSet>
+         </lido:rightsWorkWrap>
+         <lido:recordWrap>
+            <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">68375</lido:recordID>
+            <lido:recordType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org">http://terminology.lido-schema.org/lido00453</lido:conceptID>
+               <lido:term>Serie</lido:term>
+            </lido:recordType>
+            <lido:recordSource>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+            </lido:recordSource>
+            <lido:recordRights>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                  <lido:term>CC0 1.0 Universell</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+               </lido:rightsHolder>
+            </lido:recordRights>
+            <lido:recordInfoSet>
+               <lido:recordInfoLink>https://onlinekatalog.kunsthalle-bremen.de/DE-MUS-027614/object/68375</lido:recordInfoLink>
+               <lido:recordMetadataDate>2024-09-09T10:18:38.427</lido:recordMetadataDate>
+            </lido:recordInfoSet>
+         </lido:recordWrap>
+         
+      </lido:administrativeMetadata></lido:lido>
