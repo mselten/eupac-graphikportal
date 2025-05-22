@@ -143,7 +143,7 @@ def generate_histograms(data: Dict[str, List[str]], output_dir: str, show_count_
 def main():
     data_dir = '../data/wien/lido'
     output_dir = '../output/01-initial-analysis'
-    max_files = 2000  # Change to a number to limit processing -1 is all
+    max_files = -1  # Change to a number to limit processing -1 is all
     show_count_one = False
     xml_files = parse_xml_files(data_dir, max_files)
     print(f"Found {len(xml_files)} XML files to process.")
