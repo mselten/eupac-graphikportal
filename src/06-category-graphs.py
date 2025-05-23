@@ -52,11 +52,17 @@ fig_heatmap = go.Figure(data=go.Heatmap(
     y=normalized.index,
     text=text_vals.values,
     texttemplate="%{text}",
-    textfont={"size":13},
+    textfont={"size":15},
     colorscale='Viridis',
     # colorscale='cividis',
     hoverongaps=False
 ))
+
+fig_heatmap.update_layout(
+    xaxis_tickfont=dict(family='sans-serif', size=14, weight='bold'),
+    yaxis_tickfont=dict(family='sans-serif', size=14, weight='bold')
+)
+
 
 fig_heatmap.write_html(f'{output_dir}/category_country_heatmap_normalized.html')
 fig_heatmap.write_image(f'{output_dir}/category_country_heatmap_normalized.png')
