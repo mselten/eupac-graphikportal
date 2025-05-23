@@ -96,7 +96,7 @@ async def main():
         save_task = asyncio.create_task(save_cache_periodically(cache, cache_file))
 
         # Load CSV and translate
-        df = pd.read_csv('../output_csv/bremen_output.csv')
+        df = pd.read_csv('../output_csv/bremen_data_V3.csv')
         print("Starting translation...")
         df['subject_translated'] = await translate_column(df, 'subject', cache)
 
@@ -110,7 +110,7 @@ async def main():
         # Save cache and CSV on success
         with open(cache_file, 'w') as f:
             json.dump(cache, f)
-        df.to_csv('../output_csv/bremen_output_translated.csv', index=False)
+        df.to_csv('../output_csv/bremen_data_V4_translated.csv', index=False)
         print("Translation completed and saved.")
 
     except KeyboardInterrupt:
