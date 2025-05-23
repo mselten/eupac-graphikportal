@@ -89,10 +89,10 @@ for cat in sorted(df['custom_category'].unique()):
     ))
 
 fig_time.update_layout(
-    title='Artworks Over Time by Category (Gaussian Smoothed)',
-    xaxis_title='Year',
-    yaxis_title='Number of Artworks',
-    legend_title='Category',
+    # title='Artworks Over Time by Category (Gaussian Smoothed)',
+    # xaxis_title='Year',
+    # yaxis_title='Number of Artworks',
+    # legend_title='Category',
     legend=dict(itemclick='toggle', itemdoubleclick='toggleothers')
 )
 fig_time.write_html(f'{output_dir}/category_timeline.html')
