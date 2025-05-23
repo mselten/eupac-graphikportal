@@ -37,13 +37,11 @@ fig_hist.show()
 
 print("Generating normalized heatmap by country with text annotations...")
 raw_matrix = pd.crosstab(df['associatedCountry'], df['custom_category'])
-filtered = raw_matrix[raw_matrix.sum(axis=1) >= 10]
+filtered = raw_matrix[raw_matrix.sum(axis=1) >= 50]
 
 total_counts = filtered.sum(axis=1).sort_values(ascending=True)
 filtered = filtered.loc[total_counts.index]
-
 normalized = filtered.div(filtered.sum(axis=1), axis=0) * 100
-
 normalized.index = [f"{country} ({total_counts[country]})" for country in normalized.index]
 
 text_vals = normalized.round(1).astype(str) + '%'
@@ -54,17 +52,12 @@ fig_heatmap = go.Figure(data=go.Heatmap(
     y=normalized.index,
     text=text_vals.values,
     texttemplate="%{text}",
-    textfont={"size":12},
+    textfont={"size":13},
     colorscale='Viridis',
     # colorscale='cividis',
     hoverongaps=False
 ))
 
-fig_heatmap.update_layout(
-    title='Percentage of Artworks per Category by Country (Normalized)',
-    xaxis_title='Category',
-    yaxis_title='Country'
-)
 fig_heatmap.write_html(f'{output_dir}/category_country_heatmap_normalized.html')
 fig_heatmap.write_image(f'{output_dir}/category_country_heatmap_normalized.png')
 fig_heatmap.show()
