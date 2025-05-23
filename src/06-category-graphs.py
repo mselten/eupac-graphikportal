@@ -55,8 +55,8 @@ fig_heatmap = go.Figure(data=go.Heatmap(
     text=text_vals.values,
     texttemplate="%{text}",
     textfont={"size":12},
-    # colorscale='Viridis',
-    colorscale='cividis',
+    colorscale='Viridis',
+    # colorscale='cividis',
     hoverongaps=False
 ))
 
