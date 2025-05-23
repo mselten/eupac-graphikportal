@@ -1,0 +1,1757 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_dd8e1361630f41c063a5fd59f40328d6 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_dd8e1361630f41c063a5fd59f40328d6" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_dd8e1361630f41c063a5fd59f40328d6 = L.map(
+                "map_dd8e1361630f41c063a5fd59f40328d6",
+                {
+                    center: [50.0, 10.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 4,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_484046116bb2a099b0a7bdd9c40fd4ae = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_484046116bb2a099b0a7bdd9c40fd4ae.addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+            var circle_marker_b8b15bc000c39b7443766d4bba796a3e = L.circleMarker(
+                [50.1060835, 1.8337029],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_baa793135cbc8bf6d9fd2762704070d7 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_56e6e65973626651b522dff468489789 = $(`<div id="html_56e6e65973626651b522dff468489789" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Dequevauviller, François; Voyez, François; Dufour, Pierre-Charles-Nicolas; Aliamet, Jacques; Voyez, Nicolas Joseph; Hubert, François<br><b>Count:</b> 6</div>`)[0];
+                popup_baa793135cbc8bf6d9fd2762704070d7.setContent(html_56e6e65973626651b522dff468489789);
+            
+        
+
+        circle_marker_b8b15bc000c39b7443766d4bba796a3e.bindPopup(popup_baa793135cbc8bf6d9fd2762704070d7)
+        ;
+
+        
+    
+    
+            var circle_marker_3ce7254391eb4733f6f81881e1bfacef = L.circleMarker(
+                [50.1060835, 1.8337029],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_d1124366a98b6b4e5c028e957eba0a6a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_488f9f4b4a2d48e112e955d3cfe34cf9 = $(`<div id="html_488f9f4b4a2d48e112e955d3cfe34cf9" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, französisch, 18. Jahrhundert; Daullé, Jean<br><b>Count:</b> 2</div>`)[0];
+                popup_d1124366a98b6b4e5c028e957eba0a6a.setContent(html_488f9f4b4a2d48e112e955d3cfe34cf9);
+            
+        
+
+        circle_marker_3ce7254391eb4733f6f81881e1bfacef.bindPopup(popup_d1124366a98b6b4e5c028e957eba0a6a)
+        ;
+
+        
+    
+    
+            var circle_marker_46470766675a5faf7a1ab6f67e63e24e = L.circleMarker(
+                [50.9852411, 12.4340988],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_9d9cd37b7a529f3b7d12fecda11f04b4 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_bc64d4c0bcb4b77e665326c082f41c8f = $(`<div id="html_bc64d4c0bcb4b77e665326c082f41c8f" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Meil, Johann Wilhelm<br><b>Count:</b> 1</div>`)[0];
+                popup_9d9cd37b7a529f3b7d12fecda11f04b4.setContent(html_bc64d4c0bcb4b77e665326c082f41c8f);
+            
+        
+
+        circle_marker_46470766675a5faf7a1ab6f67e63e24e.bindPopup(popup_9d9cd37b7a529f3b7d12fecda11f04b4)
+        ;
+
+        
+    
+    
+            var circle_marker_f6c1800a34fe49a14738ed9b6b1c87ea = L.circleMarker(
+                [52.3730796, 4.8924534],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_27a29f9c02914c00659838c6d53722e5 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_630d4b66b3fa6e92c8a5af005f970f91 = $(`<div id="html_630d4b66b3fa6e92c8a5af005f970f91" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Spilman, Hendricus; Schley, Jacob van der; Fokke, Simon; Vinkeles, Reinier; Pothoven, Hendrik<br><b>Count:</b> 5</div>`)[0];
+                popup_27a29f9c02914c00659838c6d53722e5.setContent(html_630d4b66b3fa6e92c8a5af005f970f91);
+            
+        
+
+        circle_marker_f6c1800a34fe49a14738ed9b6b1c87ea.bindPopup(popup_27a29f9c02914c00659838c6d53722e5)
+        ;
+
+        
+    
+    
+            var circle_marker_1908dbe493ea89bfdac1821ee3476413 = L.circleMarker(
+                [51.2211097, 4.3997081],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_371fba7c7c3ecaece3969722c07d1a78 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_1c6031c65fd4bb77b18a3c77c2b78847 = $(`<div id="html_1c6031c65fd4bb77b18a3c77c2b78847" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Martinasie, Pieter Franciscus; Laurent, Andreas<br><b>Count:</b> 2</div>`)[0];
+                popup_371fba7c7c3ecaece3969722c07d1a78.setContent(html_1c6031c65fd4bb77b18a3c77c2b78847);
+            
+        
+
+        circle_marker_1908dbe493ea89bfdac1821ee3476413.bindPopup(popup_371fba7c7c3ecaece3969722c07d1a78)
+        ;
+
+        
+    
+    
+            var circle_marker_5a7debf62a3858b7e544c9985a286467 = L.circleMarker(
+                [48.3690341, 10.8979522],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_20ef331d30bee6efba0cefe987ac9d9d = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_b668131df251dbc897cef57fd45e39b5 = $(`<div id="html_b668131df251dbc897cef57fd45e39b5" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Haid, Johann Elias; Eichler, Gottfried<br><b>Count:</b> 2</div>`)[0];
+                popup_20ef331d30bee6efba0cefe987ac9d9d.setContent(html_b668131df251dbc897cef57fd45e39b5);
+            
+        
+
+        circle_marker_5a7debf62a3858b7e544c9985a286467.bindPopup(popup_20ef331d30bee6efba0cefe987ac9d9d)
+        ;
+
+        
+    
+    
+            var circle_marker_e274a5c0bd52c25505c44bcceed35601 = L.circleMarker(
+                [43.9492493, 4.8059012],
+                {"bubblingMouseEvents": true, "color": "lightblue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightblue", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_0047e93a0d560c7145c69d03acb2f573 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f8697a0cc5e6de58e67caf74017facff = $(`<div id="html_f8697a0cc5e6de58e67caf74017facff" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Benazech, Peter Paul; Bertaud, Marie Rosalie; Vernet, Joseph<br><b>Count:</b> 3</div>`)[0];
+                popup_0047e93a0d560c7145c69d03acb2f573.setContent(html_f8697a0cc5e6de58e67caf74017facff);
+            
+        
+
+        circle_marker_e274a5c0bd52c25505c44bcceed35601.bindPopup(popup_0047e93a0d560c7145c69d03acb2f573)
+        ;
+
+        
+    
+    
+            var circle_marker_e2c523182d65980319a313285cc08c65 = L.circleMarker(
+                [47.8777154, 10.2215159],
+                {"bubblingMouseEvents": true, "color": "lightblue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightblue", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_069be8b971b7917843abff5619bbe34f = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_96a38e42694720366534e4c83b0fc91f = $(`<div id="html_96a38e42694720366534e4c83b0fc91f" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym; Anonym, deutsch, 18. Jahrhundert; Prestel, Johann Gottlieb<br><b>Count:</b> 3</div>`)[0];
+                popup_069be8b971b7917843abff5619bbe34f.setContent(html_96a38e42694720366534e4c83b0fc91f);
+            
+        
+
+        circle_marker_e2c523182d65980319a313285cc08c65.bindPopup(popup_069be8b971b7917843abff5619bbe34f)
+        ;
+
+        
+    
+    
+            var circle_marker_74381000005c2e0960b583af32518b45 = L.circleMarker(
+                [52.510885, 13.3989367],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_cafc5f80834b1cb74cb0dfdcb082b8cd = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_ab27dfb9bda4ec15b9928b5adcb93f65 = $(`<div id="html_ab27dfb9bda4ec15b9928b5adcb93f65" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Berger, D.; Rode, Bernhard<br><b>Count:</b> 2</div>`)[0];
+                popup_cafc5f80834b1cb74cb0dfdcb082b8cd.setContent(html_ab27dfb9bda4ec15b9928b5adcb93f65);
+            
+        
+
+        circle_marker_74381000005c2e0960b583af32518b45.bindPopup(popup_cafc5f80834b1cb74cb0dfdcb082b8cd)
+        ;
+
+        
+    
+    
+            var circle_marker_ec58c35c4def0a6901c95a627c3c3e54 = L.circleMarker(
+                [48.6728253, 9.2160932],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_b938e76117c193fda885dab8cc73c618 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f67cb8733185a00870f9c44e5132b4d2 = $(`<div id="html_f67cb8733185a00870f9c44e5132b4d2" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Mueller, Johann Gotthard<br><b>Count:</b> 1</div>`)[0];
+                popup_b938e76117c193fda885dab8cc73c618.setContent(html_f67cb8733185a00870f9c44e5132b4d2);
+            
+        
+
+        circle_marker_ec58c35c4def0a6901c95a627c3c3e54.bindPopup(popup_b938e76117c193fda885dab8cc73c618)
+        ;
+
+        
+    
+    
+            var circle_marker_56daf7d0fed76b5431dba72a8342c0e1 = L.circleMarker(
+                [47.2380222, 6.0243622],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_6c9e44541e051abdc97abb27be83dd53 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_9f9068dd1cabd9b70d554109d68b933a = $(`<div id="html_9f9068dd1cabd9b70d554109d68b933a" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Paris, Pierre Adrien<br><b>Count:</b> 1</div>`)[0];
+                popup_6c9e44541e051abdc97abb27be83dd53.setContent(html_9f9068dd1cabd9b70d554109d68b933a);
+            
+        
+
+        circle_marker_56daf7d0fed76b5431dba72a8342c0e1.bindPopup(popup_6c9e44541e051abdc97abb27be83dd53)
+        ;
+
+        
+    
+    
+            var circle_marker_b458b3a0aaaaac00f0ebf7ffbcffbd9b = L.circleMarker(
+                [47.5876861, 1.3337639],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_1e102c15e2dc2cee78f37d150eea8e40 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_0b06c591cb994e542a47a8c2ea9fa8c7 = $(`<div id="html_0b06c591cb994e542a47a8c2ea9fa8c7" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Charpentier, François-Philippe<br><b>Count:</b> 1</div>`)[0];
+                popup_1e102c15e2dc2cee78f37d150eea8e40.setContent(html_0b06c591cb994e542a47a8c2ea9fa8c7);
+            
+        
+
+        circle_marker_b458b3a0aaaaac00f0ebf7ffbcffbd9b.bindPopup(popup_1e102c15e2dc2cee78f37d150eea8e40)
+        ;
+
+        
+    
+    
+            var circle_marker_40d848893502b223845ad6751596ee2e = L.circleMarker(
+                [53.0620178, 5.5228964],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_159995f43973c9eb950dcce10bb37e2a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_ff66d0db1fef55c1f627b6e6585d5ff0 = $(`<div id="html_ff66d0db1fef55c1f627b6e6585d5ff0" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Tanjé, Pieter<br><b>Count:</b> 1</div>`)[0];
+                popup_159995f43973c9eb950dcce10bb37e2a.setContent(html_ff66d0db1fef55c1f627b6e6585d5ff0);
+            
+        
+
+        circle_marker_40d848893502b223845ad6751596ee2e.bindPopup(popup_159995f43973c9eb950dcce10bb37e2a)
+        ;
+
+        
+    
+    
+            var circle_marker_648cca0d7e6f1e847c1681761c2becff = L.circleMarker(
+                [51.5887845, 4.7760237],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_7834a7b8aa494cbf411e43bff456fbc4 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f01d602d744383bf84729df5e62b1ba0 = $(`<div id="html_f01d602d744383bf84729df5e62b1ba0" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Verheyden, Matteus<br><b>Count:</b> 1</div>`)[0];
+                popup_7834a7b8aa494cbf411e43bff456fbc4.setContent(html_f01d602d744383bf84729df5e62b1ba0);
+            
+        
+
+        circle_marker_648cca0d7e6f1e847c1681761c2becff.bindPopup(popup_7834a7b8aa494cbf411e43bff456fbc4)
+        ;
+
+        
+    
+    
+            var circle_marker_73f1d48281b5796ed1a1f278e0f65cd7 = L.circleMarker(
+                [49.1813403, -0.3635615],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_69aa5f340788d23f0345f2c5ef75662d = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f47af83f746c5bc6b95723bf1c2c62c8 = $(`<div id="html_f47af83f746c5bc6b95723bf1c2c62c8" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Echard, Charles<br><b>Count:</b> 1</div>`)[0];
+                popup_69aa5f340788d23f0345f2c5ef75662d.setContent(html_f47af83f746c5bc6b95723bf1c2c62c8);
+            
+        
+
+        circle_marker_73f1d48281b5796ed1a1f278e0f65cd7.bindPopup(popup_69aa5f340788d23f0345f2c5ef75662d)
+        ;
+
+        
+    
+    
+            var circle_marker_23bb374be857dd4e5accf8acbcae1996 = L.circleMarker(
+                [46.7831001, 4.8534326],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_98a891b703b433710a2db02af42b1f98 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_1e60fa0f414fa741c0704f576551674b = $(`<div id="html_1e60fa0f414fa741c0704f576551674b" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Denon, Vivant<br><b>Count:</b> 1</div>`)[0];
+                popup_98a891b703b433710a2db02af42b1f98.setContent(html_1e60fa0f414fa741c0704f576551674b);
+            
+        
+
+        circle_marker_23bb374be857dd4e5accf8acbcae1996.bindPopup(popup_98a891b703b433710a2db02af42b1f98)
+        ;
+
+        
+    
+    
+            var circle_marker_7e3833aafa7e7a07acaeacd0466e9f33 = L.circleMarker(
+                [48.9566218, 4.3628851],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_5518bda72ef4d6348621539f3f51dc1d = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2ecd45592717c0c1420a81aa9f13e07d = $(`<div id="html_2ecd45592717c0c1420a81aa9f13e07d" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Chedel, Pierre Quentin<br><b>Count:</b> 1</div>`)[0];
+                popup_5518bda72ef4d6348621539f3f51dc1d.setContent(html_2ecd45592717c0c1420a81aa9f13e07d);
+            
+        
+
+        circle_marker_7e3833aafa7e7a07acaeacd0466e9f33.bindPopup(popup_5518bda72ef4d6348621539f3f51dc1d)
+        ;
+
+        
+    
+    
+            var circle_marker_2ef6cb9d51d91ecf64b8ec034f1ed293 = L.circleMarker(
+                [46.4339446, 4.6576358],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_2251117b1201f423f7a7b81676cae4a8 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_edd766cb9f74ab39312cecd752da4256 = $(`<div id="html_edd766cb9f74ab39312cecd752da4256" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, französisch, 18. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_2251117b1201f423f7a7b81676cae4a8.setContent(html_edd766cb9f74ab39312cecd752da4256);
+            
+        
+
+        circle_marker_2ef6cb9d51d91ecf64b8ec034f1ed293.bindPopup(popup_2251117b1201f423f7a7b81676cae4a8)
+        ;
+
+        
+    
+    
+            var circle_marker_953a418c7e9156e5b45297a2eb198723 = L.circleMarker(
+                [49.7492373, 0.452349],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_a67e804408d947f897adcdcf2d417773 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_68eaec79d80b3e1f4e7904485a24d008 = $(`<div id="html_68eaec79d80b3e1f4e7904485a24d008" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Deshays, Jean Baptiste<br><b>Count:</b> 1</div>`)[0];
+                popup_a67e804408d947f897adcdcf2d417773.setContent(html_68eaec79d80b3e1f4e7904485a24d008);
+            
+        
+
+        circle_marker_953a418c7e9156e5b45297a2eb198723.bindPopup(popup_a67e804408d947f897adcdcf2d417773)
+        ;
+
+        
+    
+    
+            var circle_marker_a2e253707d8bff483b17f79e18142c0b = L.circleMarker(
+                [54.3482907, 18.6540233],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_681b5a982fd036bd74625198cbfc66c4 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_84384a925574265dc93ac25d56979f7b = $(`<div id="html_84384a925574265dc93ac25d56979f7b" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Chodowiecki, Daniel<br><b>Count:</b> 1</div>`)[0];
+                popup_681b5a982fd036bd74625198cbfc66c4.setContent(html_84384a925574265dc93ac25d56979f7b);
+            
+        
+
+        circle_marker_a2e253707d8bff483b17f79e18142c0b.bindPopup(popup_681b5a982fd036bd74625198cbfc66c4)
+        ;
+
+        
+    
+    
+            var circle_marker_23620dfaf8aa9e7718e813cf66c6b895 = L.circleMarker(
+                [51.7689546, 4.6867891],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_0889ae4edda29ec4ce2622fbaf32652c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_6e7c9f5220d6c05af1d50dd15461ec2e = $(`<div id="html_6e7c9f5220d6c05af1d50dd15461ec2e" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Schouman, Aert<br><b>Count:</b> 1</div>`)[0];
+                popup_0889ae4edda29ec4ce2622fbaf32652c.setContent(html_6e7c9f5220d6c05af1d50dd15461ec2e);
+            
+        
+
+        circle_marker_23620dfaf8aa9e7718e813cf66c6b895.bindPopup(popup_0889ae4edda29ec4ce2622fbaf32652c)
+        ;
+
+        
+    
+    
+            var circle_marker_f577d8308a64d3e48fa66b932a27c24c = L.circleMarker(
+                [6.6076575, 5.9722713],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_f24345bb20827abccfd3b9e529a9813a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_ae5477d6b8f86213e9079fa5bc71a468 = $(`<div id="html_ae5477d6b8f86213e9079fa5bc71a468" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Shiba, Kōkan<br><b>Count:</b> 1</div>`)[0];
+                popup_f24345bb20827abccfd3b9e529a9813a.setContent(html_ae5477d6b8f86213e9079fa5bc71a468);
+            
+        
+
+        circle_marker_f577d8308a64d3e48fa66b932a27c24c.bindPopup(popup_f24345bb20827abccfd3b9e529a9813a)
+        ;
+
+        
+    
+    
+            var circle_marker_dd66d5a10d3e5697184f611ec1c5e6ad = L.circleMarker(
+                [52.7036282, 5.2901222],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_3e3974075b1613941e09f9d0e525a965 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_95474efa59b0c72389a25298e10020b8 = $(`<div id="html_95474efa59b0c72389a25298e10020b8" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, französisch, 18. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_3e3974075b1613941e09f9d0e525a965.setContent(html_95474efa59b0c72389a25298e10020b8);
+            
+        
+
+        circle_marker_dd66d5a10d3e5697184f611ec1c5e6ad.bindPopup(popup_3e3974075b1613941e09f9d0e525a965)
+        ;
+
+        
+    
+    
+            var circle_marker_3360104ae8e167355288ff6b6dc3bdd0 = L.circleMarker(
+                [48.1747684, 6.4503643],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_0fcc465412b4923be4b8a709a11a3f3a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_c8232ca912d648b14dcfff65c65e1f1a = $(`<div id="html_c8232ca912d648b14dcfff65c65e1f1a" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Fratrel, Joseph<br><b>Count:</b> 1</div>`)[0];
+                popup_0fcc465412b4923be4b8a709a11a3f3a.setContent(html_c8232ca912d648b14dcfff65c65e1f1a);
+            
+        
+
+        circle_marker_3360104ae8e167355288ff6b6dc3bdd0.bindPopup(popup_0fcc465412b4923be4b8a709a11a3f3a)
+        ;
+
+        
+    
+    
+            var circle_marker_f3990bddc96d5c5ae712bc3a559c536b = L.circleMarker(
+                [47.5692548, 11.0939733],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_8a98826b57d7fa882e4d51fe30344992 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2fdb6bb2db3979f17ef77eb5f78fe888 = $(`<div id="html_2fdb6bb2db3979f17ef77eb5f78fe888" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Verhelst, Aegid<br><b>Count:</b> 1</div>`)[0];
+                popup_8a98826b57d7fa882e4d51fe30344992.setContent(html_2fdb6bb2db3979f17ef77eb5f78fe888);
+            
+        
+
+        circle_marker_f3990bddc96d5c5ae712bc3a559c536b.bindPopup(popup_8a98826b57d7fa882e4d51fe30344992)
+        ;
+
+        
+    
+    
+            var circle_marker_fa999c03b31c7a9a04c711b6faac9158 = L.circleMarker(
+                [43.7697955, 11.2556404],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_1906a0ee4d0cd3aa405b862e3e33d5b6 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_ee5d593a98b125ca73acc07421d84c0c = $(`<div id="html_ee5d593a98b125ca73acc07421d84c0c" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Bartolozzi, Francesco<br><b>Count:</b> 1</div>`)[0];
+                popup_1906a0ee4d0cd3aa405b862e3e33d5b6.setContent(html_ee5d593a98b125ca73acc07421d84c0c);
+            
+        
+
+        circle_marker_fa999c03b31c7a9a04c711b6faac9158.bindPopup(popup_1906a0ee4d0cd3aa405b862e3e33d5b6)
+        ;
+
+        
+    
+    
+            var circle_marker_884d99372235748650df64611c4d431c = L.circleMarker(
+                [46.2017559, 6.1466014],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_e74d1eb4c7edbe71873fc09ff8d57451 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_67686d42d7ba242651b7bc56eb45416b = $(`<div id="html_67686d42d7ba242651b7bc56eb45416b" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Liotard, Jean-Michel; Liotard, Jean-Étienne<br><b>Count:</b> 2</div>`)[0];
+                popup_e74d1eb4c7edbe71873fc09ff8d57451.setContent(html_67686d42d7ba242651b7bc56eb45416b);
+            
+        
+
+        circle_marker_884d99372235748650df64611c4d431c.bindPopup(popup_e74d1eb4c7edbe71873fc09ff8d57451)
+        ;
+
+        
+    
+    
+            var circle_marker_6e5c2b21d1b6b5fc3fb196b0aa5b6848 = L.circleMarker(
+                [50.1362582, 4.8248698],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_f1d83ea969d8d6b62dde2dff6f10c255 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_4a8fce39c71de7aafb43e87e160ee208 = $(`<div id="html_4a8fce39c71de7aafb43e87e160ee208" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Longueil, Joseph de<br><b>Count:</b> 1</div>`)[0];
+                popup_f1d83ea969d8d6b62dde2dff6f10c255.setContent(html_4a8fce39c71de7aafb43e87e160ee208);
+            
+        
+
+        circle_marker_6e5c2b21d1b6b5fc3fb196b0aa5b6848.bindPopup(popup_f1d83ea969d8d6b62dde2dff6f10c255)
+        ;
+
+        
+    
+    
+            var circle_marker_31fecedd6eb7f68e486daba219d991fb = L.circleMarker(
+                [51.1563185, 14.991018],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_a22ffeb6ba510435759d3545ae769afd = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d2487ac8fb435991fda6fb5c112b1f4c = $(`<div id="html_d2487ac8fb435991fda6fb5c112b1f4c" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Geyser, Christian Gottlieb<br><b>Count:</b> 1</div>`)[0];
+                popup_a22ffeb6ba510435759d3545ae769afd.setContent(html_d2487ac8fb435991fda6fb5c112b1f4c);
+            
+        
+
+        circle_marker_31fecedd6eb7f68e486daba219d991fb.bindPopup(popup_a22ffeb6ba510435759d3545ae769afd)
+        ;
+
+        
+    
+    
+            var circle_marker_b4e7855e797a7e4eb853d59e5bb4edb4 = L.circleMarker(
+                [43.6589011, 6.9239103],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_00e3333a750f6106a5298c7f893fd8c7 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_ef79ba783c8b487f64e621d7220ff8d2 = $(`<div id="html_ef79ba783c8b487f64e621d7220ff8d2" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Fragonard, Jean Honoré<br><b>Count:</b> 1</div>`)[0];
+                popup_00e3333a750f6106a5298c7f893fd8c7.setContent(html_ef79ba783c8b487f64e621d7220ff8d2);
+            
+        
+
+        circle_marker_b4e7855e797a7e4eb853d59e5bb4edb4.bindPopup(popup_00e3333a750f6106a5298c7f893fd8c7)
+        ;
+
+        
+    
+    
+            var circle_marker_a8fd84dbe9649a50cf477910ae982f67 = L.circleMarker(
+                [53.2190652, 6.5680077],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_81461684088420cece0c64ee0b1e7b32 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_109af3db2684566b8ec644835d1eed3f = $(`<div id="html_109af3db2684566b8ec644835d1eed3f" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Numan, Hermanus; Winter, Johann Georg<br><b>Count:</b> 2</div>`)[0];
+                popup_81461684088420cece0c64ee0b1e7b32.setContent(html_109af3db2684566b8ec644835d1eed3f);
+            
+        
+
+        circle_marker_a8fd84dbe9649a50cf477910ae982f67.bindPopup(popup_81461684088420cece0c64ee0b1e7b32)
+        ;
+
+        
+    
+    
+            var circle_marker_951a3490204679d393237be2417d35ba = L.circleMarker(
+                [52.3837058, 4.6435597],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_db6f1aa225a1813ad506ce40acd513ed = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_6ff0f643c5a0c3c18c4d3ac211747b5e = $(`<div id="html_6ff0f643c5a0c3c18c4d3ac211747b5e" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Noorde, Cornelis van<br><b>Count:</b> 1</div>`)[0];
+                popup_db6f1aa225a1813ad506ce40acd513ed.setContent(html_6ff0f643c5a0c3c18c4d3ac211747b5e);
+            
+        
+
+        circle_marker_951a3490204679d393237be2417d35ba.bindPopup(popup_db6f1aa225a1813ad506ce40acd513ed)
+        ;
+
+        
+    
+    
+            var circle_marker_6f133a86d5ca507ed3dc13e1c37cc606 = L.circleMarker(
+                [47.9540017, -2.5472538],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_097bbb580cf5861a897c9c027bec99c2 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f46d38ff0fa6a19a25adbe74b719897f = $(`<div id="html_f46d38ff0fa6a19a25adbe74b719897f" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Queverdo, François Marie Isidore<br><b>Count:</b> 1</div>`)[0];
+                popup_097bbb580cf5861a897c9c027bec99c2.setContent(html_f46d38ff0fa6a19a25adbe74b719897f);
+            
+        
+
+        circle_marker_6f133a86d5ca507ed3dc13e1c37cc606.bindPopup(popup_097bbb580cf5861a897c9c027bec99c2)
+        ;
+
+        
+    
+    
+            var circle_marker_3466a0e97fd995d8c90943ba7ff3c461 = L.circleMarker(
+                [35.9251145, 139.4856927],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_2d0c1179c0040e55ed6c80897d219ddb = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_9b5f6cbf5c94a2b7fcd733be53acd201 = $(`<div id="html_9b5f6cbf5c94a2b7fcd733be53acd201" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, japanisch, 18./19. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_2d0c1179c0040e55ed6c80897d219ddb.setContent(html_9b5f6cbf5c94a2b7fcd733be53acd201);
+            
+        
+
+        circle_marker_3466a0e97fd995d8c90943ba7ff3c461.bindPopup(popup_2d0c1179c0040e55ed6c80897d219ddb)
+        ;
+
+        
+    
+    
+            var circle_marker_769f03b4d945c07413acce0812e3043e = L.circleMarker(
+                [51.7895571, 6.1376008],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_0b1654c0920ea7d5b6bc59cbc1b92e90 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_1f727ffe0328aada48d1df428c7bb30a = $(`<div id="html_1f727ffe0328aada48d1df428c7bb30a" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Le Sueur, J. B.<br><b>Count:</b> 1</div>`)[0];
+                popup_0b1654c0920ea7d5b6bc59cbc1b92e90.setContent(html_1f727ffe0328aada48d1df428c7bb30a);
+            
+        
+
+        circle_marker_769f03b4d945c07413acce0812e3043e.bindPopup(popup_0b1654c0920ea7d5b6bc59cbc1b92e90)
+        ;
+
+        
+    
+    
+            var circle_marker_b95c9516846a115193d74a7554bec9c0 = L.circleMarker(
+                [50.5615433, 8.5036057],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_f0ea7e4298794412a0fb33d5e6346b08 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_937cabfa7f2a14ee2061a3c439c17d21 = $(`<div id="html_937cabfa7f2a14ee2061a3c439c17d21" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, 18. Jahrhundert; Wille, Johann Georg<br><b>Count:</b> 2</div>`)[0];
+                popup_f0ea7e4298794412a0fb33d5e6346b08.setContent(html_937cabfa7f2a14ee2061a3c439c17d21);
+            
+        
+
+        circle_marker_b95c9516846a115193d74a7554bec9c0.bindPopup(popup_f0ea7e4298794412a0fb33d5e6346b08)
+        ;
+
+        
+    
+    
+            var circle_marker_5b4a4ab4e2830da7c957d1d2ac386ad9 = L.circleMarker(
+                [47.8639612, 5.333947],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_aec7dd7d36eba2b4fdbe49ee10d82613 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_ad1a686a4900b33c463f714c8ae8882a = $(`<div id="html_ad1a686a4900b33c463f714c8ae8882a" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, französisch, 18. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_aec7dd7d36eba2b4fdbe49ee10d82613.setContent(html_ad1a686a4900b33c463f714c8ae8882a);
+            
+        
+
+        circle_marker_5b4a4ab4e2830da7c957d1d2ac386ad9.bindPopup(popup_aec7dd7d36eba2b4fdbe49ee10d82613)
+        ;
+
+        
+    
+    
+            var circle_marker_7ff756068f32c1915c6eeab1cad00335 = L.circleMarker(
+                [59.8907624, 13.2947617],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_e190a9da290197f48bc8bd0dd345282d = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_58f4e719aeaab457472a1c017e5a0ac1 = $(`<div id="html_58f4e719aeaab457472a1c017e5a0ac1" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Gillberg, Jacob<br><b>Count:</b> 1</div>`)[0];
+                popup_e190a9da290197f48bc8bd0dd345282d.setContent(html_58f4e719aeaab457472a1c017e5a0ac1);
+            
+        
+
+        circle_marker_7ff756068f32c1915c6eeab1cad00335.bindPopup(popup_e190a9da290197f48bc8bd0dd345282d)
+        ;
+
+        
+    
+    
+            var circle_marker_9c445380e5441ce3a6f4d993c03b2bee = L.circleMarker(
+                [52.1594747, 4.4908843],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_38174b4391522ee37fd51809bdc0f235 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_0ec7e02b0cbe88191de10b7372d56f8c = $(`<div id="html_0ec7e02b0cbe88191de10b7372d56f8c" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 18. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_38174b4391522ee37fd51809bdc0f235.setContent(html_0ec7e02b0cbe88191de10b7372d56f8c);
+            
+        
+
+        circle_marker_9c445380e5441ce3a6f4d993c03b2bee.bindPopup(popup_38174b4391522ee37fd51809bdc0f235)
+        ;
+
+        
+    
+    
+            var circle_marker_3fbf12a18ccba27a4a663028e03f06ec = L.circleMarker(
+                [50.6365654, 3.0635282],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_f64cc6ed74c02294d747a2974a861349 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_0fde12682064e4363807d048cf559a0d = $(`<div id="html_0fde12682064e4363807d048cf559a0d" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Helman, Isidore-Stanislas; Delvaux, Remi-Henri-Joseph<br><b>Count:</b> 2</div>`)[0];
+                popup_f64cc6ed74c02294d747a2974a861349.setContent(html_0fde12682064e4363807d048cf559a0d);
+            
+        
+
+        circle_marker_3fbf12a18ccba27a4a663028e03f06ec.bindPopup(popup_f64cc6ed74c02294d747a2974a861349)
+        ;
+
+        
+    
+    
+            var circle_marker_69b4fb7cb00c27090c9eda69d9794278 = L.circleMarker(
+                [43.73106, 3.31892],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_3b135a1a848a9ed08d154970762a836d = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_bbb9797e8e2b28dd2311a06ac023b92d = $(`<div id="html_bbb9797e8e2b28dd2311a06ac023b92d" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Vivarès, François<br><b>Count:</b> 1</div>`)[0];
+                popup_3b135a1a848a9ed08d154970762a836d.setContent(html_bbb9797e8e2b28dd2311a06ac023b92d);
+            
+        
+
+        circle_marker_69b4fb7cb00c27090c9eda69d9794278.bindPopup(popup_3b135a1a848a9ed08d154970762a836d)
+        ;
+
+        
+    
+    
+            var circle_marker_3574ba8ee05b9de1a66ae7bce9c16b24 = L.circleMarker(
+                [50.6450944, 5.5736112],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_616f0f481728775fe893bb5bc5ee05c3 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_bc5477b2fc9d92cefc024a02f51d010c = $(`<div id="html_bc5477b2fc9d92cefc024a02f51d010c" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Demarteau, Gilles<br><b>Count:</b> 1</div>`)[0];
+                popup_616f0f481728775fe893bb5bc5ee05c3.setContent(html_bc5477b2fc9d92cefc024a02f51d010c);
+            
+        
+
+        circle_marker_3574ba8ee05b9de1a66ae7bce9c16b24.bindPopup(popup_616f0f481728775fe893bb5bc5ee05c3)
+        ;
+
+        
+    
+    
+            var circle_marker_7e5cb6bb9381c728253490f9c0df7878 = L.circleMarker(
+                [45.7578137, 4.8320114],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_9c782c3f9bd8327f16768dadb25c04be = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_05427f67730c81aeb6b2498363857eb5 = $(`<div id="html_05427f67730c81aeb6b2498363857eb5" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Boissieu, Jean-Jacques de<br><b>Count:</b> 1</div>`)[0];
+                popup_9c782c3f9bd8327f16768dadb25c04be.setContent(html_05427f67730c81aeb6b2498363857eb5);
+            
+        
+
+        circle_marker_7e5cb6bb9381c728253490f9c0df7878.bindPopup(popup_9c782c3f9bd8327f16768dadb25c04be)
+        ;
+
+        
+    
+    
+            var circle_marker_344ec79521b007b1c7608e4b9e283c05 = L.circleMarker(
+                [51.2748258, 0.5231646],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_f1fec933c5488eb81cf7c9e683eb1cc0 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f5f872f2b5936dd73be4a989142cca2e = $(`<div id="html_f5f872f2b5936dd73be4a989142cca2e" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Woollett, William<br><b>Count:</b> 1</div>`)[0];
+                popup_f1fec933c5488eb81cf7c9e683eb1cc0.setContent(html_f5f872f2b5936dd73be4a989142cca2e);
+            
+        
+
+        circle_marker_344ec79521b007b1c7608e4b9e283c05.bindPopup(popup_f1fec933c5488eb81cf7c9e683eb1cc0)
+        ;
+
+        
+    
+    
+            var circle_marker_141321c2f2036d443f28db2c9c5430a2 = L.circleMarker(
+                [49.1196964, 6.1763552],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_cea42f34b284212213ef4191a6528ef3 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_4f2fac79c7cceaa514bac58623c4dcc6 = $(`<div id="html_4f2fac79c7cceaa514bac58623c4dcc6" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Le Prince, Jean-Baptiste<br><b>Count:</b> 1</div>`)[0];
+                popup_cea42f34b284212213ef4191a6528ef3.setContent(html_4f2fac79c7cceaa514bac58623c4dcc6);
+            
+        
+
+        circle_marker_141321c2f2036d443f28db2c9c5430a2.bindPopup(popup_cea42f34b284212213ef4191a6528ef3)
+        ;
+
+        
+    
+    
+            var circle_marker_a70be34106c5fff3a88e2d051ae25a2b = L.circleMarker(
+                [48.35967, 3.0891],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_283e7b29d1307b39abb4680af087b8e7 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f86cf9057d72808c31f0d8d8ba44a01d = $(`<div id="html_f86cf9057d72808c31f0d8d8ba44a01d" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Norblin de La Gourdaine, Jean-Pierre<br><b>Count:</b> 1</div>`)[0];
+                popup_283e7b29d1307b39abb4680af087b8e7.setContent(html_f86cf9057d72808c31f0d8d8ba44a01d);
+            
+        
+
+        circle_marker_a70be34106c5fff3a88e2d051ae25a2b.bindPopup(popup_283e7b29d1307b39abb4680af087b8e7)
+        ;
+
+        
+    
+    
+            var circle_marker_b5ec385ee16665b7598ec31791a7920e = L.circleMarker(
+                [45.5612886, 12.2376973],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_2ce56f04660dd4027aa77ae37f76ffdd = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_bcd872c6dfc09054f1e4bc0cba577363 = $(`<div id="html_bcd872c6dfc09054f1e4bc0cba577363" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Piranesi, Giovanni Battista<br><b>Count:</b> 1</div>`)[0];
+                popup_2ce56f04660dd4027aa77ae37f76ffdd.setContent(html_bcd872c6dfc09054f1e4bc0cba577363);
+            
+        
+
+        circle_marker_b5ec385ee16665b7598ec31791a7920e.bindPopup(popup_2ce56f04660dd4027aa77ae37f76ffdd)
+        ;
+
+        
+    
+    
+            var circle_marker_da4ca1a850e1c04b60671289999cea58 = L.circleMarker(
+                [49.9575293, 1.5933991],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_4f7ddbcb0468911732ea151f8b7a5901 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_93b38e39630ec000b682416f1f27c222 = $(`<div id="html_93b38e39630ec000b682416f1f27c222" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Picot, Victor Marie<br><b>Count:</b> 1</div>`)[0];
+                popup_4f7ddbcb0468911732ea151f8b7a5901.setContent(html_93b38e39630ec000b682416f1f27c222);
+            
+        
+
+        circle_marker_da4ca1a850e1c04b60671289999cea58.bindPopup(popup_4f7ddbcb0468911732ea151f8b7a5901)
+        ;
+
+        
+    
+    
+            var circle_marker_fe733ad05a8543c99f279d85413b67df = L.circleMarker(
+                [46.5093268, 6.498317],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_0c028f726392c37025874bd04fa80a47 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_4d4f0dc5b4ee641b100166fd123c6787 = $(`<div id="html_4d4f0dc5b4ee641b100166fd123c6787" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Sablet, Jacques<br><b>Count:</b> 1</div>`)[0];
+                popup_0c028f726392c37025874bd04fa80a47.setContent(html_4d4f0dc5b4ee641b100166fd123c6787);
+            
+        
+
+        circle_marker_fe733ad05a8543c99f279d85413b67df.bindPopup(popup_0c028f726392c37025874bd04fa80a47)
+        ;
+
+        
+    
+    
+            var circle_marker_411e54523fcf4763ea09ef805128bbd9 = L.circleMarker(
+                [48.1371079, 11.5753822],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_b0dbbad1d94dc2c7f1bbd882f3625941 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_220c57e565a147fa332a0df8e9f5d4ba = $(`<div id="html_220c57e565a147fa332a0df8e9f5d4ba" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Mayer, S.<br><b>Count:</b> 1</div>`)[0];
+                popup_b0dbbad1d94dc2c7f1bbd882f3625941.setContent(html_220c57e565a147fa332a0df8e9f5d4ba);
+            
+        
+
+        circle_marker_411e54523fcf4763ea09ef805128bbd9.bindPopup(popup_b0dbbad1d94dc2c7f1bbd882f3625941)
+        ;
+
+        
+    
+    
+            var circle_marker_7d3c1a48e5955896ac4c0cf8bbe0ff8b = L.circleMarker(
+                [48.6937223, 6.1834097],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_263b9d1f44c08f231b4614011eb5a425 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_602536bb1b792f4dd7d45fbddb309921 = $(`<div id="html_602536bb1b792f4dd7d45fbddb309921" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 18. Jahrhundert; François, Jean-Charles<br><b>Count:</b> 2</div>`)[0];
+                popup_263b9d1f44c08f231b4614011eb5a425.setContent(html_602536bb1b792f4dd7d45fbddb309921);
+            
+        
+
+        circle_marker_7d3c1a48e5955896ac4c0cf8bbe0ff8b.bindPopup(popup_263b9d1f44c08f231b4614011eb5a425)
+        ;
+
+        
+    
+    
+            var circle_marker_6142517b31e1fc92e4aec188206608d4 = L.circleMarker(
+                [49.453872, 11.077298],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_baf262c388ac839a6f17f6b1dce03058 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_b9343cd6476d51e4d3748f28eae1e686 = $(`<div id="html_b9343cd6476d51e4d3748f28eae1e686" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Prestel, Maria Katharina; Anonym, deutsch, 18. Jahrhundert; Anonym, englisch, 18. Jahrhundert; Monogrammist R; Petrus, S.; Weiss, Barthomomäus Ignaz; Dietzsch, Barbara Regina; Preißler, Georg Martin; Knorr, Georg Wolfgang; Bemmel, Johann Christoph von; Guttenberg, Heinrich; Dietzsch, Georg Friedrich<br><b>Count:</b> 12</div>`)[0];
+                popup_baf262c388ac839a6f17f6b1dce03058.setContent(html_b9343cd6476d51e4d3748f28eae1e686);
+            
+        
+
+        circle_marker_6142517b31e1fc92e4aec188206608d4.bindPopup(popup_baf262c388ac839a6f17f6b1dce03058)
+        ;
+
+        
+    
+    
+            var circle_marker_6a013c3a83b499f9550f527fd4720b8b = L.circleMarker(
+                [48.8588897, 2.320041],
+                {"bubblingMouseEvents": true, "color": "darkred", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "darkred", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_5d3b7a73714d4b48e5242efea16a38b1 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2690ec8e46972fd3a035f658d332431c = $(`<div id="html_2690ec8e46972fd3a035f658d332431c" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Halbou, Louis Michel; Delafosse, Jean-Baptiste; Basan, François; Canot, Pierre Charles; Chenu, Pierre; Flipart, Jean Jacques; Ouvrier, Jean; Gautier d’Agoty, Jean-Baptiste; Ingouf, Pierre Charles; Tilliard, Jean-Baptiste; David, François Anne; Le Lorrain, Louis-Joseph; Simonet, Jean-Baptiste Blaise; Duclos, Antoine Jean; Tardieu, Jacques-Nicholas; Patas, Jean-Baptiste; Lorraine, Jean-Baptiste de; Anonym, französisch, 18. Jahrhundert; Rousseau, Jean François; Parizeau, Philippe Louis; Aveline, François-Antoine; Ponce, Marguerite; Legrand, Louis Claude; Avril, Jean Jaques; Levesque, Pierre Ch.; Flipart, Joseph; David, Jacques Louis; Boucher, François; Carmontelle; Cochin, Charles Nicolas; Saint-Aubin, Augustin de; Courtois, Pierre-François; Sailliar, Louis; Dambrun, Jean; Massard, Jean; Revel, Alfred; Watelet, Claude-Henri; Delaunay, Nicolas; Cathelin, Louis Jacques; De Launay, Robert; Ficquet, Etienne; Gaucher, Charles-Etienne; Lagrenée, Louis-Jean-François; Le Bas, Jacques-Philippe; Hutin, Charles; Choffard, Pierre-Philippe; Romanet, Antoine Louis; Née, François Denis; Baquoy, Jean Charles; Michel, Jean-Baptiste; Ravenet, Simon François; Desrais, Claude-Louis; Le Beau, Pierre Adrien; Boily, Charles-Ange; Fessard, Etienne; Aveline, Pierre Alexandre; Lépicié, Nicolas-Bernard; Coulet, Anne Philiberte; Lempereur, Louis Simon; Lagrenée, Jean-Jacques<br><b>Count:</b> 64</div>`)[0];
+                popup_5d3b7a73714d4b48e5242efea16a38b1.setContent(html_2690ec8e46972fd3a035f658d332431c);
+            
+        
+
+        circle_marker_6a013c3a83b499f9550f527fd4720b8b.bindPopup(popup_5d3b7a73714d4b48e5242efea16a38b1)
+        ;
+
+        
+    
+    
+            var circle_marker_7d7a17b0b605577b7d098a7887662eee = L.circleMarker(
+                [47.5732762, 10.5320629],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_49450c51410e89e5faea169b02ffe199 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_b4d86217e36bf84c46ff894f2d8b6235 = $(`<div id="html_b4d86217e36bf84c46ff894f2d8b6235" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Keller, Josef<br><b>Count:</b> 1</div>`)[0];
+                popup_49450c51410e89e5faea169b02ffe199.setContent(html_b4d86217e36bf84c46ff894f2d8b6235);
+            
+        
+
+        circle_marker_7d7a17b0b605577b7d098a7887662eee.bindPopup(popup_49450c51410e89e5faea169b02ffe199)
+        ;
+
+        
+    
+    
+            var circle_marker_2a7c1885e047a4d9a621317d4f17b614 = L.circleMarker(
+                [53.3167, 13.866575],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_36330272c8419b81c03cffde9803db75 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f3493c298533a671a1d751c24adeeb68 = $(`<div id="html_f3493c298533a671a1d751c24adeeb68" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Hackert, Jakob Philipp<br><b>Count:</b> 1</div>`)[0];
+                popup_36330272c8419b81c03cffde9803db75.setContent(html_f3493c298533a671a1d751c24adeeb68);
+            
+        
+
+        circle_marker_2a7c1885e047a4d9a621317d4f17b614.bindPopup(popup_36330272c8419b81c03cffde9803db75)
+        ;
+
+        
+    
+    
+            var circle_marker_1fa6e8c1f86c7bfe32ac42ba3d88e946 = L.circleMarker(
+                [45.0514359, 7.6746207],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_9e2bf837aa832e072159e23425b74e2a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_4f8729ea319bf45f68438a4d6374f06f = $(`<div id="html_4f8729ea319bf45f68438a4d6374f06f" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Ravenet, Jean François; Van Loo, Carle<br><b>Count:</b> 2</div>`)[0];
+                popup_9e2bf837aa832e072159e23425b74e2a.setContent(html_4f8729ea319bf45f68438a4d6374f06f);
+            
+        
+
+        circle_marker_1fa6e8c1f86c7bfe32ac42ba3d88e946.bindPopup(popup_9e2bf837aa832e072159e23425b74e2a)
+        ;
+
+        
+    
+    
+            var circle_marker_c8230ff704e2fb7c66f3ad97fd235c64 = L.circleMarker(
+                [51.9244424, 4.47775],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_488f47f7afaa675023d0b2c906094879 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_3d7e4a1f23db231493a53ba85ef7d491 = $(`<div id="html_3d7e4a1f23db231493a53ba85ef7d491" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Nijmegen, Dionys van<br><b>Count:</b> 1</div>`)[0];
+                popup_488f47f7afaa675023d0b2c906094879.setContent(html_3d7e4a1f23db231493a53ba85ef7d491);
+            
+        
+
+        circle_marker_c8230ff704e2fb7c66f3ad97fd235c64.bindPopup(popup_488f47f7afaa675023d0b2c906094879)
+        ;
+
+        
+    
+    
+            var circle_marker_6b0e0d6883c58e135f1d66b3de0fa88f = L.circleMarker(
+                [49.4404591, 1.0939658],
+                {"bubblingMouseEvents": true, "color": "lightblue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightblue", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_27f17e9b6203eb9412efb85f156562cd = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_33e0332c5e8e5831364b3ad3451fe0b5 = $(`<div id="html_33e0332c5e8e5831364b3ad3451fe0b5" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Houel, Jean-Pierre-Laurent; Le Veau, Jean Jacques André; La Vallée Poussin, Étienne de<br><b>Count:</b> 3</div>`)[0];
+                popup_27f17e9b6203eb9412efb85f156562cd.setContent(html_33e0332c5e8e5831364b3ad3451fe0b5);
+            
+        
+
+        circle_marker_6b0e0d6883c58e135f1d66b3de0fa88f.bindPopup(popup_27f17e9b6203eb9412efb85f156562cd)
+        ;
+
+        
+    
+    
+            var circle_marker_d2bc43f6bc720e5138dcf9873156d1e5 = L.circleMarker(
+                [49.6155716, 1.9183427],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_6e53afee896adb449a121971c058596a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a2cef3c034be253a6d3f65fbae4bd83f = $(`<div id="html_a2cef3c034be253a6d3f65fbae4bd83f" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Berthault, Pierre-Gabriel<br><b>Count:</b> 1</div>`)[0];
+                popup_6e53afee896adb449a121971c058596a.setContent(html_a2cef3c034be253a6d3f65fbae4bd83f);
+            
+        
+
+        circle_marker_d2bc43f6bc720e5138dcf9873156d1e5.bindPopup(popup_6e53afee896adb449a121971c058596a)
+        ;
+
+        
+    
+    
+            var circle_marker_57b327d0063a414f4d59b2c23cf223fc = L.circleMarker(
+                [47.6960491, 8.634513],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_1b57c58460116663f7dfed23175492d5 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_33a7ff2a1c53162ce24f4fbcfeba0a11 = $(`<div id="html_33a7ff2a1c53162ce24f4fbcfeba0a11" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Schalch, Johann Jakob<br><b>Count:</b> 1</div>`)[0];
+                popup_1b57c58460116663f7dfed23175492d5.setContent(html_33a7ff2a1c53162ce24f4fbcfeba0a11);
+            
+        
+
+        circle_marker_57b327d0063a414f4d59b2c23cf223fc.bindPopup(popup_1b57c58460116663f7dfed23175492d5)
+        ;
+
+        
+    
+    
+            var circle_marker_ddbe5e7d690c1a94016e50a8b3e666c4 = L.circleMarker(
+                [50.6152381, 5.5089437],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_07ee28fa7013aa3c91e8d2e6984b0de4 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a1c4b6c8b7524ab14db4f8ec581f01de = $(`<div id="html_a1c4b6c8b7524ab14db4f8ec581f01de" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Godin, Henri-Joseph<br><b>Count:</b> 1</div>`)[0];
+                popup_07ee28fa7013aa3c91e8d2e6984b0de4.setContent(html_a1c4b6c8b7524ab14db4f8ec581f01de);
+            
+        
+
+        circle_marker_ddbe5e7d690c1a94016e50a8b3e666c4.bindPopup(popup_07ee28fa7013aa3c91e8d2e6984b0de4)
+        ;
+
+        
+    
+    
+            var circle_marker_42da86d9c444a0ec315b31c9acc09902 = L.circleMarker(
+                [50.8751175, 8.0256131],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_e4e1f13674ad920dcfd7dfc2588d4692 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_17605c9c3706171155a4ad469625186e = $(`<div id="html_17605c9c3706171155a4ad469625186e" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, 18. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_e4e1f13674ad920dcfd7dfc2588d4692.setContent(html_17605c9c3706171155a4ad469625186e);
+            
+        
+
+        circle_marker_42da86d9c444a0ec315b31c9acc09902.bindPopup(popup_e4e1f13674ad920dcfd7dfc2588d4692)
+        ;
+
+        
+    
+    
+            var circle_marker_1fb7691f0a80e2276ec73ae9a18e9581 = L.circleMarker(
+                [48.7784485, 9.1800132],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_cc75156487b00e4102468980ff5e489a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_cfa8e5b59ef1187b1d64378ec2e570e2 = $(`<div id="html_cfa8e5b59ef1187b1d64378ec2e570e2" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Argent, Adam Ludwig d'<br><b>Count:</b> 1</div>`)[0];
+                popup_cc75156487b00e4102468980ff5e489a.setContent(html_cfa8e5b59ef1187b1d64378ec2e570e2);
+            
+        
+
+        circle_marker_1fb7691f0a80e2276ec73ae9a18e9581.bindPopup(popup_cc75156487b00e4102468980ff5e489a)
+        ;
+
+        
+    
+    
+            var circle_marker_8add81d47c89e3e6ea24abfb9fec6dcc = L.circleMarker(
+                [46.5617373, 4.9122425],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_ca03a0f6199bbe45b7cffdf6098f31ba = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_25aeed97d0cfb5d19e79014aa060691f = $(`<div id="html_25aeed97d0cfb5d19e79014aa060691f" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Greuze, Jean-Baptiste<br><b>Count:</b> 1</div>`)[0];
+                popup_ca03a0f6199bbe45b7cffdf6098f31ba.setContent(html_25aeed97d0cfb5d19e79014aa060691f);
+            
+        
+
+        circle_marker_8add81d47c89e3e6ea24abfb9fec6dcc.bindPopup(popup_ca03a0f6199bbe45b7cffdf6098f31ba)
+        ;
+
+        
+    
+    
+            var circle_marker_751158bca31e1b08a8079a70aae23f47 = L.circleMarker(
+                [44.9362237, 10.2702605],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_f4eb71273a2b6ffd0cb8a168c448194e = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_6357e578246d9392740ae98ba5fd6360 = $(`<div id="html_6357e578246d9392740ae98ba5fd6360" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Martini, Pietro Antonio<br><b>Count:</b> 1</div>`)[0];
+                popup_f4eb71273a2b6ffd0cb8a168c448194e.setContent(html_6357e578246d9392740ae98ba5fd6360);
+            
+        
+
+        circle_marker_751158bca31e1b08a8079a70aae23f47.bindPopup(popup_f4eb71273a2b6ffd0cb8a168c448194e)
+        ;
+
+        
+    
+    
+            var circle_marker_b57b1616e34296f1f437f1282f334a70 = L.circleMarker(
+                [45.0677551, 7.6824892],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_f5767664b94df65c81483f480f1e0d6f = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_188929fa6171ba12aa352737b86ce152 = $(`<div id="html_188929fa6171ba12aa352737b86ce152" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Van Loo, Amédée<br><b>Count:</b> 1</div>`)[0];
+                popup_f5767664b94df65c81483f480f1e0d6f.setContent(html_188929fa6171ba12aa352737b86ce152);
+            
+        
+
+        circle_marker_b57b1616e34296f1f437f1282f334a70.bindPopup(popup_f5767664b94df65c81483f480f1e0d6f)
+        ;
+
+        
+    
+    
+            var circle_marker_07b90d7c767534dadaa7e798b88949fe = L.circleMarker(
+                [50.3579317, 3.5234846],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_4843155541e93ac9017ae4213e331143 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_ac4580b47b6b2ce6ee82ef22e40635cf = $(`<div id="html_ac4580b47b6b2ce6ee82ef22e40635cf" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Brion, Étienne; Eisen, Charles<br><b>Count:</b> 2</div>`)[0];
+                popup_4843155541e93ac9017ae4213e331143.setContent(html_ac4580b47b6b2ce6ee82ef22e40635cf);
+            
+        
+
+        circle_marker_07b90d7c767534dadaa7e798b88949fe.bindPopup(popup_4843155541e93ac9017ae4213e331143)
+        ;
+
+        
+    
+    
+            var circle_marker_7d250f910942cc02b197aae397dfb698 = L.circleMarker(
+                [48.8035403, 2.1266886],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_6bf2af77bb465c6d979722fa8d81f501 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_01f8c6c9cdce6c79d825098219e21b36 = $(`<div id="html_01f8c6c9cdce6c79d825098219e21b36" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Dugourc, Jean Démosthène<br><b>Count:</b> 1</div>`)[0];
+                popup_6bf2af77bb465c6d979722fa8d81f501.setContent(html_01f8c6c9cdce6c79d825098219e21b36);
+            
+        
+
+        circle_marker_7d250f910942cc02b197aae397dfb698.bindPopup(popup_6bf2af77bb465c6d979722fa8d81f501)
+        ;
+
+        
+    
+    
+            var circle_marker_470d5c60c9e5a763078473dc9ca24335 = L.circleMarker(
+                [49.125863, 2.3693685],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_ac162b3db7de9d8397a1577cefe9cb3b = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_47289c973709df79cf67b6a45ee91333 = $(`<div id="html_47289c973709df79cf67b6a45ee91333" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Bouchard, J.<br><b>Count:</b> 1</div>`)[0];
+                popup_ac162b3db7de9d8397a1577cefe9cb3b.setContent(html_47289c973709df79cf67b6a45ee91333);
+            
+        
+
+        circle_marker_470d5c60c9e5a763078473dc9ca24335.bindPopup(popup_ac162b3db7de9d8397a1577cefe9cb3b)
+        ;
+
+        
+    
+    
+            var circle_marker_6aec174f8d193927a660f79fb5c1fce4 = L.circleMarker(
+                [48.2083537, 16.3725042],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_c23d167e5a29ffcfffff5c8e1b8edb13 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_ee8b2b7d57e6bb608325f5dd13011d20 = $(`<div id="html_ee8b2b7d57e6bb608325f5dd13011d20" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Tischler, Anton<br><b>Count:</b> 1</div>`)[0];
+                popup_c23d167e5a29ffcfffff5c8e1b8edb13.setContent(html_ee8b2b7d57e6bb608325f5dd13011d20);
+            
+        
+
+        circle_marker_6aec174f8d193927a660f79fb5c1fce4.bindPopup(popup_c23d167e5a29ffcfffff5c8e1b8edb13)
+        ;
+
+        
+    
+    
+            var circle_marker_9750082041b51640b774d139146f9d51 = L.circleMarker(
+                [52.1479138, 10.5499141],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_054a5e71008459faaf1e4c1c7fb8c769 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_7c2d629b490a49699ecfecf1305b9ba1 = $(`<div id="html_7c2d629b490a49699ecfecf1305b9ba1" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Guttenberg, Carl<br><b>Count:</b> 1</div>`)[0];
+                popup_054a5e71008459faaf1e4c1c7fb8c769.setContent(html_7c2d629b490a49699ecfecf1305b9ba1);
+            
+        
+
+        circle_marker_9750082041b51640b774d139146f9d51.bindPopup(popup_054a5e71008459faaf1e4c1c7fb8c769)
+        ;
+
+        
+    
+    
+            var circle_marker_c2de6a7bc11d9462cf4fc2e12bc0465a = L.circleMarker(
+                [47.3744489, 8.5410422],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_dd8e1361630f41c063a5fd59f40328d6);
+        
+    
+        var popup_4dd98bdcd4a997e0569ec11ed4f64438 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_312654dc0d82d0e932a9bf937d4fd7de = $(`<div id="html_312654dc0d82d0e932a9bf937d4fd7de" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 18. Jahrhundert<br><b>Count:</b> 2</div>`)[0];
+                popup_4dd98bdcd4a997e0569ec11ed4f64438.setContent(html_312654dc0d82d0e932a9bf937d4fd7de);
+            
+        
+
+        circle_marker_c2de6a7bc11d9462cf4fc2e12bc0465a.bindPopup(popup_4dd98bdcd4a997e0569ec11ed4f64438)
+        ;
+
+        
+    
+</script>
+</html>

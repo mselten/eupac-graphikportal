@@ -1,0 +1,1803 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_c84a2c22a68216de707febdc0382811d {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_c84a2c22a68216de707febdc0382811d" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_c84a2c22a68216de707febdc0382811d = L.map(
+                "map_c84a2c22a68216de707febdc0382811d",
+                {
+                    center: [50.0, 10.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 4,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_11f36955a9b5b900ab5dc5ee04f99d3a = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_11f36955a9b5b900ab5dc5ee04f99d3a.addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+            var circle_marker_0b99326f4ef71048ee8a243d0fe06b65 = L.circleMarker(
+                [52.3730796, 4.8924534],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_409d3a4bb0ee8a0776c0b9633ca168c0 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_b3b41906a3fb4f9f4aa3a7235d5bdbd1 = $(`<div id="html_b3b41906a3fb4f9f4aa3a7235d5bdbd1" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym; Anonym, deutsch, 16. Jahrhundert; Anonym, niederländisch, 16. Jahrhundert; Meister A C; Monogrammist S; Anthonisz, Cornelis; Sichem, Christoffel van; Coornhert, Dirk Volkertszoon<br><b>Count:</b> 8</div>`)[0];
+                popup_409d3a4bb0ee8a0776c0b9633ca168c0.setContent(html_b3b41906a3fb4f9f4aa3a7235d5bdbd1);
+            
+        
+
+        circle_marker_0b99326f4ef71048ee8a243d0fe06b65.bindPopup(popup_409d3a4bb0ee8a0776c0b9633ca168c0)
+        ;
+
+        
+    
+    
+            var circle_marker_6ac2e7c20e1c42bae8706ad1a9f95ba7 = L.circleMarker(
+                [51.2211097, 4.3997081],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_b54d5a638448027773584888fea67205 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_04409fe1e538baedfddd1a8d5d534c69 = $(`<div id="html_04409fe1e538baedfddd1a8d5d534c69" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Broeck, Crispin van den; Ditmar, Johannes; Anonym, niederländisch, 16. Jahrhundert; Vos, Maarten de; Anonym; Floris, Frans; Cock, Hieronymus; Balten, Pieter<br><b>Count:</b> 10</div>`)[0];
+                popup_b54d5a638448027773584888fea67205.setContent(html_04409fe1e538baedfddd1a8d5d534c69);
+            
+        
+
+        circle_marker_6ac2e7c20e1c42bae8706ad1a9f95ba7.bindPopup(popup_b54d5a638448027773584888fea67205)
+        ;
+
+        
+    
+    
+            var circle_marker_7b01677a7aea206a6cb1b98463a0de1a = L.circleMarker(
+                [43.5171442, 11.7639282],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_38343de1017f2d7bee5457c02c992ed5 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_b32978d392e6862856142307074d7044 = $(`<div id="html_b32978d392e6862856142307074d7044" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Vasari, Giorgio<br><b>Count:</b> 1</div>`)[0];
+                popup_38343de1017f2d7bee5457c02c992ed5.setContent(html_b32978d392e6862856142307074d7044);
+            
+        
+
+        circle_marker_7b01677a7aea206a6cb1b98463a0de1a.bindPopup(popup_38343de1017f2d7bee5457c02c992ed5)
+        ;
+
+        
+    
+    
+            var circle_marker_a009dd6d4a3ec878a6c404a4e6addcce = L.circleMarker(
+                [48.3690341, 10.8979522],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_b5cdc91245b02f47eabb1ba022e26381 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_02dcd91d7dff4009785575a12935228d = $(`<div id="html_02dcd91d7dff4009785575a12935228d" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Monogrammist MTR; Anonym; Hopfer, Hieronymus; Liefrinck, Hans; Breu, Jörg; Anonym, deutsch, 16. Jahrhundert<br><b>Count:</b> 10</div>`)[0];
+                popup_b5cdc91245b02f47eabb1ba022e26381.setContent(html_02dcd91d7dff4009785575a12935228d);
+            
+        
+
+        circle_marker_a009dd6d4a3ec878a6c404a4e6addcce.bindPopup(popup_b5cdc91245b02f47eabb1ba022e26381)
+        ;
+
+        
+    
+    
+            var circle_marker_1d703295d7f66a1f088371cff28d544d = L.circleMarker(
+                [47.5581077, 7.5878261],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_e9ada741df3c02af3ab253fc6fea5b85 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_790f33aded92a8f51578ee4a8338043c = $(`<div id="html_790f33aded92a8f51578ee4a8338043c" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 16. Jahrhundert<br><b>Count:</b> 2</div>`)[0];
+                popup_e9ada741df3c02af3ab253fc6fea5b85.setContent(html_790f33aded92a8f51578ee4a8338043c);
+            
+        
+
+        circle_marker_1d703295d7f66a1f088371cff28d544d.bindPopup(popup_e9ada741df3c02af3ab253fc6fea5b85)
+        ;
+
+        
+    
+    
+            var circle_marker_953b29dbc1cc8994bffcc14f077fda25 = L.circleMarker(
+                [45.7566557, 9.7542192],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_43c0b4cd22a1d75fc0f14dd9ee4a907b = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_bf7b1d5ea2b237c040fc05727c01cdad = $(`<div id="html_bf7b1d5ea2b237c040fc05727c01cdad" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, niederländisch, 16. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_43c0b4cd22a1d75fc0f14dd9ee4a907b.setContent(html_bf7b1d5ea2b237c040fc05727c01cdad);
+            
+        
+
+        circle_marker_953b29dbc1cc8994bffcc14f077fda25.bindPopup(popup_43c0b4cd22a1d75fc0f14dd9ee4a907b)
+        ;
+
+        
+    
+    
+            var circle_marker_fa14d1c693bb86ddc0c387d78831ceeb = L.circleMarker(
+                [46.9484742, 7.4521749],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_7d8bbb9163fd6a1cb062a176a7705ef4 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_10e29aa5995462d3ab272aa79ac3ba2f = $(`<div id="html_10e29aa5995462d3ab272aa79ac3ba2f" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Walther, Thüring<br><b>Count:</b> 1</div>`)[0];
+                popup_7d8bbb9163fd6a1cb062a176a7705ef4.setContent(html_10e29aa5995462d3ab272aa79ac3ba2f);
+            
+        
+
+        circle_marker_fa14d1c693bb86ddc0c387d78831ceeb.bindPopup(popup_7d8bbb9163fd6a1cb062a176a7705ef4)
+        ;
+
+        
+    
+    
+            var circle_marker_747cb8b277fcc7768aa81db9ead65114 = L.circleMarker(
+                [47.2380222, 6.0243622],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_37f2b9f5b772ccac70b70520f02b5849 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_124394262364dcfdf59139359a63eadf = $(`<div id="html_124394262364dcfdf59139359a63eadf" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Boissard, Jean Jacques<br><b>Count:</b> 1</div>`)[0];
+                popup_37f2b9f5b772ccac70b70520f02b5849.setContent(html_124394262364dcfdf59139359a63eadf);
+            
+        
+
+        circle_marker_747cb8b277fcc7768aa81db9ead65114.bindPopup(popup_37f2b9f5b772ccac70b70520f02b5849)
+        ;
+
+        
+    
+    
+            var circle_marker_1c6e7c67d9125617e9aa5724075b6d87 = L.circleMarker(
+                [49.8016462, -97.0980745],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_70d9415a20d344e3dfd6a7319056f285 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_05a65552dde20282ae6dcdb5235ff9a8 = $(`<div id="html_05a65552dde20282ae6dcdb5235ff9a8" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, niederländisch, 16. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_70d9415a20d344e3dfd6a7319056f285.setContent(html_05a65552dde20282ae6dcdb5235ff9a8);
+            
+        
+
+        circle_marker_1c6e7c67d9125617e9aa5724075b6d87.bindPopup(popup_70d9415a20d344e3dfd6a7319056f285)
+        ;
+
+        
+    
+    
+            var circle_marker_2cfa458e837ae0b1f6c949041f5644bf = L.circleMarker(
+                [51.2829005, 6.196774],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_7a0c3fa3673d424663b41a1694889b3b = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_dd0ef3bb329a378a6edf414afb5e9542 = $(`<div id="html_dd0ef3bb329a378a6edf414afb5e9542" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym; Anonym, niederländisch, 16. Jahrhundert<br><b>Count:</b> 2</div>`)[0];
+                popup_7a0c3fa3673d424663b41a1694889b3b.setContent(html_dd0ef3bb329a378a6edf414afb5e9542);
+            
+        
+
+        circle_marker_2cfa458e837ae0b1f6c949041f5644bf.bindPopup(popup_7a0c3fa3673d424663b41a1694889b3b)
+        ;
+
+        
+    
+    
+            var circle_marker_c144ad3ee1c38e672cdcacc977c6626e = L.circleMarker(
+                [50.8465573, 4.351697],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_cc5e0bcf3e0e4e6938b378e1091eadbf = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d449d9d771d78caa281f73d894d58f8c = $(`<div id="html_d449d9d771d78caa281f73d894d58f8c" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 16. Jahrhundert; Anonym, niederländisch, 16. Jahrhundert; Anonym, niederländisch; Bruegel, Pieter, de Oudere; Collaert, Hans<br><b>Count:</b> 7</div>`)[0];
+                popup_cc5e0bcf3e0e4e6938b378e1091eadbf.setContent(html_d449d9d771d78caa281f73d894d58f8c);
+            
+        
+
+        circle_marker_c144ad3ee1c38e672cdcacc977c6626e.bindPopup(popup_cc5e0bcf3e0e4e6938b378e1091eadbf)
+        ;
+
+        
+    
+    
+            var circle_marker_585ff4b0013cf9e28de6a65fbc63f799 = L.circleMarker(
+                [43.6405741, 11.9874471],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_5a9b75f958ae552d21445349e2dc35bd = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_ed95530f1a4d10e9f48263f5dc0c22fb = $(`<div id="html_ed95530f1a4d10e9f48263f5dc0c22fb" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, niederländisch, 16. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_5a9b75f958ae552d21445349e2dc35bd.setContent(html_ed95530f1a4d10e9f48263f5dc0c22fb);
+            
+        
+
+        circle_marker_585ff4b0013cf9e28de6a65fbc63f799.bindPopup(popup_5a9b75f958ae552d21445349e2dc35bd)
+        ;
+
+        
+    
+    
+            var circle_marker_f6814ee299eaf711855fcffc8e33e1b4 = L.circleMarker(
+                [48.0777517, 7.3579641],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_7ff0517606b2410d43623907ca6ea926 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_b61d7443e791d102df790353f489648e = $(`<div id="html_b61d7443e791d102df790353f489648e" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 16. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_7ff0517606b2410d43623907ca6ea926.setContent(html_b61d7443e791d102df790353f489648e);
+            
+        
+
+        circle_marker_f6814ee299eaf711855fcffc8e33e1b4.bindPopup(popup_7ff0517606b2410d43623907ca6ea926)
+        ;
+
+        
+    
+    
+            var circle_marker_6998a97337973fc10af3f44d8f5d9c3d = L.circleMarker(
+                [51.9994572, 4.3627245],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_92480316928efc7f4aafaf6b2da1e76c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2654403abaf12487d989c5085e52aa80 = $(`<div id="html_2654403abaf12487d989c5085e52aa80" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym<br><b>Count:</b> 1</div>`)[0];
+                popup_92480316928efc7f4aafaf6b2da1e76c.setContent(html_2654403abaf12487d989c5085e52aa80);
+            
+        
+
+        circle_marker_6998a97337973fc10af3f44d8f5d9c3d.bindPopup(popup_92480316928efc7f4aafaf6b2da1e76c)
+        ;
+
+        
+    
+    
+            var circle_marker_b936f3d21ffa92ce0223615c574e0853 = L.circleMarker(
+                [50.8950479, 13.6633335],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_cf7b2bde22e5dd4a34a466f1acf1128b = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_bc959b0d95a243d4b2bf71911af24078 = $(`<div id="html_bc959b0d95a243d4b2bf71911af24078" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Monogrammist HS IV<br><b>Count:</b> 1</div>`)[0];
+                popup_cf7b2bde22e5dd4a34a466f1acf1128b.setContent(html_bc959b0d95a243d4b2bf71911af24078);
+            
+        
+
+        circle_marker_b936f3d21ffa92ce0223615c574e0853.bindPopup(popup_cf7b2bde22e5dd4a34a466f1acf1128b)
+        ;
+
+        
+    
+    
+            var circle_marker_71b5cf072eecb4443fdb67c3952e7137 = L.circleMarker(
+                [55.9533456, -3.1883749],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_2d383b67e54483e45f84194c83d02213 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_9b134aca24b4039a42218ad1620c0455 = $(`<div id="html_9b134aca24b4039a42218ad1620c0455" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Quesnel, François<br><b>Count:</b> 1</div>`)[0];
+                popup_2d383b67e54483e45f84194c83d02213.setContent(html_9b134aca24b4039a42218ad1620c0455);
+            
+        
+
+        circle_marker_71b5cf072eecb4443fdb67c3952e7137.bindPopup(popup_2d383b67e54483e45f84194c83d02213)
+        ;
+
+        
+    
+    
+            var circle_marker_7c15a47a7088dc4a0028dc7edacdd0f9 = L.circleMarker(
+                [47.0433028, 7.0975115],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_67351b588c71483c6df79b5dbce1879b = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a6ffb0eddb62acb4e5595d0e45914506 = $(`<div id="html_a6ffb0eddb62acb4e5595d0e45914506" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Manuel, Hans Rudolf<br><b>Count:</b> 1</div>`)[0];
+                popup_67351b588c71483c6df79b5dbce1879b.setContent(html_a6ffb0eddb62acb4e5595d0e45914506);
+            
+        
+
+        circle_marker_7c15a47a7088dc4a0028dc7edacdd0f9.bindPopup(popup_67351b588c71483c6df79b5dbce1879b)
+        ;
+
+        
+    
+    
+            var circle_marker_0139d7e983ff06fc6d0fc59f54cc36f3 = L.circleMarker(
+                [47.8647485, 7.2730686],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_51ecdf174ff46b7a36c1e084cbc3841e = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d3277928a471b7981bd60a85bc8228aa = $(`<div id="html_d3277928a471b7981bd60a85bc8228aa" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 16. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_51ecdf174ff46b7a36c1e084cbc3841e.setContent(html_d3277928a471b7981bd60a85bc8228aa);
+            
+        
+
+        circle_marker_0139d7e983ff06fc6d0fc59f54cc36f3.bindPopup(popup_51ecdf174ff46b7a36c1e084cbc3841e)
+        ;
+
+        
+    
+    
+            var circle_marker_7dfd1f3822704535766d2e2481b21007 = L.circleMarker(
+                [43.7697955, 11.2556404],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_727243e4732fbc7826bca59028e2e71f = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_06b5fde14fab97be6e074f216863ae17 = $(`<div id="html_06b5fde14fab97be6e074f216863ae17" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Del Vaga, Pierino; Beatrizet, Nicolas<br><b>Count:</b> 2</div>`)[0];
+                popup_727243e4732fbc7826bca59028e2e71f.setContent(html_06b5fde14fab97be6e074f216863ae17);
+            
+        
+
+        circle_marker_7dfd1f3822704535766d2e2481b21007.bindPopup(popup_727243e4732fbc7826bca59028e2e71f)
+        ;
+
+        
+    
+    
+            var circle_marker_fcdf6682bfa2825fbba2fc76515f9e33 = L.circleMarker(
+                [49.7169143, 11.0700855],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_c6516fa65936f0ce4aebfc244399c4bf = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2c30ffb16d840feccebeb9a505a908e2 = $(`<div id="html_2c30ffb16d840feccebeb9a505a908e2" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 16. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_c6516fa65936f0ce4aebfc244399c4bf.setContent(html_2c30ffb16d840feccebeb9a505a908e2);
+            
+        
+
+        circle_marker_fcdf6682bfa2825fbba2fc76515f9e33.bindPopup(popup_c6516fa65936f0ce4aebfc244399c4bf)
+        ;
+
+        
+    
+    
+            var circle_marker_cefd0590ba8f8992e51bda643c7b6d64 = L.circleMarker(
+                [44.2227278, 12.041273],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_44e8242398f980e72b5c0c6f08cace1e = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_9770e6f9cd154c5f3de9f0d147da4a0f = $(`<div id="html_9770e6f9cd154c5f3de9f0d147da4a0f" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Marcolini, Francesco<br><b>Count:</b> 1</div>`)[0];
+                popup_44e8242398f980e72b5c0c6f08cace1e.setContent(html_9770e6f9cd154c5f3de9f0d147da4a0f);
+            
+        
+
+        circle_marker_cefd0590ba8f8992e51bda643c7b6d64.bindPopup(popup_44e8242398f980e72b5c0c6f08cace1e)
+        ;
+
+        
+    
+    
+            var circle_marker_1c94c7ace3caf887924b7b5dfd97b7ad = L.circleMarker(
+                [50.1106444, 8.6820917],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_6de0dbc508d02bc0c96fcd105af5eb7b = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_3ac545634a842d49e5d9be9eaae7e6a8 = $(`<div id="html_3ac545634a842d49e5d9be9eaae7e6a8" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 16. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_6de0dbc508d02bc0c96fcd105af5eb7b.setContent(html_3ac545634a842d49e5d9be9eaae7e6a8);
+            
+        
+
+        circle_marker_1c94c7ace3caf887924b7b5dfd97b7ad.bindPopup(popup_6de0dbc508d02bc0c96fcd105af5eb7b)
+        ;
+
+        
+    
+    
+            var circle_marker_f0cce48613d0f9faa865301b71337750 = L.circleMarker(
+                [50.5542328, 9.6770448],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_5357340ae47a77690fc089bb33742eff = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_9f48c6db3aca35a1c7388efbf48fcb8f = $(`<div id="html_9f48c6db3aca35a1c7388efbf48fcb8f" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 16. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_5357340ae47a77690fc089bb33742eff.setContent(html_9f48c6db3aca35a1c7388efbf48fcb8f);
+            
+        
+
+        circle_marker_f0cce48613d0f9faa865301b71337750.bindPopup(popup_5357340ae47a77690fc089bb33742eff)
+        ;
+
+        
+    
+    
+            var circle_marker_8fc2343cf5e72fc0e71b27f5bcc82e1e = L.circleMarker(
+                [53.2190652, 6.5680077],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_c83401809ce91b4aacd2103498762f2d = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_e57e95258713e4e47ec4334dd71dcbf7 = $(`<div id="html_e57e95258713e4e47ec4334dd71dcbf7" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Swart, Jan<br><b>Count:</b> 1</div>`)[0];
+                popup_c83401809ce91b4aacd2103498762f2d.setContent(html_e57e95258713e4e47ec4334dd71dcbf7);
+            
+        
+
+        circle_marker_8fc2343cf5e72fc0e71b27f5bcc82e1e.bindPopup(popup_c83401809ce91b4aacd2103498762f2d)
+        ;
+
+        
+    
+    
+            var circle_marker_41354a2c30534d065bba8d07534bb565 = L.circleMarker(
+                [52.3837058, 4.6435597],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_8d3d0e9a40a749657547d9dd959d8cda = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_bfdefea33b035b206c0c6704447f4f9a = $(`<div id="html_bfdefea33b035b206c0c6704447f4f9a" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym; Anonym, niederländisch, 16. Jahrhundert; Cleve III., Hendrik van; Galle, Philippe; Thibaut, Willem Willemsz.<br><b>Count:</b> 5</div>`)[0];
+                popup_8d3d0e9a40a749657547d9dd959d8cda.setContent(html_bfdefea33b035b206c0c6704447f4f9a);
+            
+        
+
+        circle_marker_41354a2c30534d065bba8d07534bb565.bindPopup(popup_8d3d0e9a40a749657547d9dd959d8cda)
+        ;
+
+        
+    
+    
+            var circle_marker_2295931aa9e3e5f4f10622f171645df4 = L.circleMarker(
+                [53.550341, 10.000654],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_7e332cdd6ef074da7e610040a7079d5f = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_157a2308ace0cbe1f29b9a0ed235ad4f = $(`<div id="html_157a2308ace0cbe1f29b9a0ed235ad4f" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, niederländisch, 16. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_7e332cdd6ef074da7e610040a7079d5f.setContent(html_157a2308ace0cbe1f29b9a0ed235ad4f);
+            
+        
+
+        circle_marker_2295931aa9e3e5f4f10622f171645df4.bindPopup(popup_7e332cdd6ef074da7e610040a7079d5f)
+        ;
+
+        
+    
+    
+            var circle_marker_57ee7ca80ed410d19a70060563ece05c = L.circleMarker(
+                [52.5104331, 4.6723536],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_9011b31c5ac04087bf56f921cf048244 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_851d2eb598294c9b6e7f9364337cb959 = $(`<div id="html_851d2eb598294c9b6e7f9364337cb959" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, niederländisch, 16. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_9011b31c5ac04087bf56f921cf048244.setContent(html_851d2eb598294c9b6e7f9364337cb959);
+            
+        
+
+        circle_marker_57ee7ca80ed410d19a70060563ece05c.bindPopup(popup_9011b31c5ac04087bf56f921cf048244)
+        ;
+
+        
+    
+    
+            var circle_marker_0460b94626420a7a504419f4143c4d04 = L.circleMarker(
+                [49.4093582, 8.694724],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_a743d64cfd346b1281ba9076c8cb42ba = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_97a6c87ba4d47d4eff5f8cf494b4f023 = $(`<div id="html_97a6c87ba4d47d4eff5f8cf494b4f023" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym; Feyerabend, Sigmund<br><b>Count:</b> 2</div>`)[0];
+                popup_a743d64cfd346b1281ba9076c8cb42ba.setContent(html_97a6c87ba4d47d4eff5f8cf494b4f023);
+            
+        
+
+        circle_marker_0460b94626420a7a504419f4143c4d04.bindPopup(popup_a743d64cfd346b1281ba9076c8cb42ba)
+        ;
+
+        
+    
+    
+            var circle_marker_bb7063773fa936a505ad13ec3bd3948c = L.circleMarker(
+                [50.3533278, 7.5943951],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_5418acef65af6e9fad54b479f151162f = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_73e6294ad71ba39959af40768f2adb8d = $(`<div id="html_73e6294ad71ba39959af40768f2adb8d" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, französisch, 16. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_5418acef65af6e9fad54b479f151162f.setContent(html_73e6294ad71ba39959af40768f2adb8d);
+            
+        
+
+        circle_marker_bb7063773fa936a505ad13ec3bd3948c.bindPopup(popup_5418acef65af6e9fad54b479f151162f)
+        ;
+
+        
+    
+    
+            var circle_marker_2559341399f8cb8fff4f7c0a4cfd0eb9 = L.circleMarker(
+                [50.938361, 6.959974],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_6f452d2b32a7d56bbf613aaddc306fa7 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_8d954e28ee522ad5b2f600d44657d364 = $(`<div id="html_8d954e28ee522ad5b2f600d44657d364" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym; Anonym, deutsch, 16. Jahrhundert; Binck, Jakob; Monogrammist IVM; Monogrammist RE<br><b>Count:</b> 6</div>`)[0];
+                popup_6f452d2b32a7d56bbf613aaddc306fa7.setContent(html_8d954e28ee522ad5b2f600d44657d364);
+            
+        
+
+        circle_marker_2559341399f8cb8fff4f7c0a4cfd0eb9.bindPopup(popup_6f452d2b32a7d56bbf613aaddc306fa7)
+        ;
+
+        
+    
+    
+            var circle_marker_27474c7e91dccd6e435140a1e0d7dea4 = L.circleMarker(
+                [54.710128, 20.5105838],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_5c633bde248f14c6570da9d71dfd6211 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d0c1bfcbd0f1e24fae349c43592b4f06 = $(`<div id="html_d0c1bfcbd0f1e24fae349c43592b4f06" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 16. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_5c633bde248f14c6570da9d71dfd6211.setContent(html_d0c1bfcbd0f1e24fae349c43592b4f06);
+            
+        
+
+        circle_marker_27474c7e91dccd6e435140a1e0d7dea4.bindPopup(popup_5c633bde248f14c6570da9d71dfd6211)
+        ;
+
+        
+    
+    
+            var circle_marker_f00fc1d9ebe2032c9a0a2b5b1acb46b3 = L.circleMarker(
+                [50.2397846, 11.3277669],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_e23bafbdf74a23fe6efe6ccfbaaf4214 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_36b6f1c1d534d65aabb755ceb3fa998b = $(`<div id="html_36b6f1c1d534d65aabb755ceb3fa998b" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 16. Jahrhundert; Monogrammist MV<br><b>Count:</b> 2</div>`)[0];
+                popup_e23bafbdf74a23fe6efe6ccfbaaf4214.setContent(html_36b6f1c1d534d65aabb755ceb3fa998b);
+            
+        
+
+        circle_marker_f00fc1d9ebe2032c9a0a2b5b1acb46b3.bindPopup(popup_e23bafbdf74a23fe6efe6ccfbaaf4214)
+        ;
+
+        
+    
+    
+            var circle_marker_ff3727a98d4ea3dbd959808918e8d9e7 = L.circleMarker(
+                [50.1008448, 11.4479149],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_34037064cd5e2c19c1b4e9d372806753 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_baad7494034a05686ea6daa5a1741102 = $(`<div id="html_baad7494034a05686ea6daa5a1741102" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 16. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_34037064cd5e2c19c1b4e9d372806753.setContent(html_baad7494034a05686ea6daa5a1741102);
+            
+        
+
+        circle_marker_ff3727a98d4ea3dbd959808918e8d9e7.bindPopup(popup_34037064cd5e2c19c1b4e9d372806753)
+        ;
+
+        
+    
+    
+            var circle_marker_ea81120fac7e6d0bdd82d4dc8fcd0fe0 = L.circleMarker(
+                [48.536217, 12.1516551],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_fd30704066340b010c081328be7190b8 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_104a34e341528c8ad2bf89ac7a8882ad = $(`<div id="html_104a34e341528c8ad2bf89ac7a8882ad" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 16. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_fd30704066340b010c081328be7190b8.setContent(html_104a34e341528c8ad2bf89ac7a8882ad);
+            
+        
+
+        circle_marker_ea81120fac7e6d0bdd82d4dc8fcd0fe0.bindPopup(popup_fd30704066340b010c081328be7190b8)
+        ;
+
+        
+    
+    
+            var circle_marker_9c7f76bf977fff49f75904ca3c3f3122 = L.circleMarker(
+                [50.1244589, 9.9587689],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_9862b6b0a178f1ea5f8e04f0049b3793 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_9bebcbcc1d6a81636ff428cfc9a6e71f = $(`<div id="html_9bebcbcc1d6a81636ff428cfc9a6e71f" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 16. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_9862b6b0a178f1ea5f8e04f0049b3793.setContent(html_9bebcbcc1d6a81636ff428cfc9a6e71f);
+            
+        
+
+        circle_marker_9c7f76bf977fff49f75904ca3c3f3122.bindPopup(popup_9862b6b0a178f1ea5f8e04f0049b3793)
+        ;
+
+        
+    
+    
+            var circle_marker_3c7c8f48427c20d06286ff4c6db80b8b = L.circleMarker(
+                [51.1147105, 15.2811574],
+                {"bubblingMouseEvents": true, "color": "lightblue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightblue", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_231f84bfe4db756d87240fb74629c881 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_751d5c681a3dfd6503756fe711e3e70f = $(`<div id="html_751d5c681a3dfd6503756fe711e3e70f" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym; Monogrammist CB; Scharffenberg, Crispin<br><b>Count:</b> 3</div>`)[0];
+                popup_231f84bfe4db756d87240fb74629c881.setContent(html_751d5c681a3dfd6503756fe711e3e70f);
+            
+        
+
+        circle_marker_3c7c8f48427c20d06286ff4c6db80b8b.bindPopup(popup_231f84bfe4db756d87240fb74629c881)
+        ;
+
+        
+    
+    
+            var circle_marker_78c2d928d60c628690c76c3aff7299d2 = L.circleMarker(
+                [52.1594747, 4.4908843],
+                {"bubblingMouseEvents": true, "color": "lightblue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightblue", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_db3acb67906896656e8ffcf04eaacbb3 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2bca0e7ebc5db71d8d0303c22043c525 = $(`<div id="html_2bca0e7ebc5db71d8d0303c22043c525" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, 16. Jahrhundert; Anonym, deutsch, 16. Jahrhundert; Anonym, niederländisch, 16. Jahrhundert<br><b>Count:</b> 4</div>`)[0];
+                popup_db3acb67906896656e8ffcf04eaacbb3.setContent(html_2bca0e7ebc5db71d8d0303c22043c525);
+            
+        
+
+        circle_marker_78c2d928d60c628690c76c3aff7299d2.bindPopup(popup_db3acb67906896656e8ffcf04eaacbb3)
+        ;
+
+        
+    
+    
+            var circle_marker_3552f2855cdacba9783c3326204a26bd = L.circleMarker(
+                [51.6747074, 8.347194],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_10f2c36a02d0b36318107f9bc7c74296 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_ebedb6fde6f78aafe99f9e11bb66c5ab = $(`<div id="html_ebedb6fde6f78aafe99f9e11bb66c5ab" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Monogrammist HE<br><b>Count:</b> 1</div>`)[0];
+                popup_10f2c36a02d0b36318107f9bc7c74296.setContent(html_ebedb6fde6f78aafe99f9e11bb66c5ab);
+            
+        
+
+        circle_marker_3552f2855cdacba9783c3326204a26bd.bindPopup(popup_10f2c36a02d0b36318107f9bc7c74296)
+        ;
+
+        
+    
+    
+            var circle_marker_c5a37e25affecb784b2521f79b5fd576 = L.circleMarker(
+                [53.866444, 10.684738],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_e7afed37bec26fb505d9b7314e11df4f = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_772d678f58eb7bdb9ce224257733d6cc = $(`<div id="html_772d678f58eb7bdb9ce224257733d6cc" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Wilborn, Nicolaus<br><b>Count:</b> 1</div>`)[0];
+                popup_e7afed37bec26fb505d9b7314e11df4f.setContent(html_772d678f58eb7bdb9ce224257733d6cc);
+            
+        
+
+        circle_marker_c5a37e25affecb784b2521f79b5fd576.bindPopup(popup_e7afed37bec26fb505d9b7314e11df4f)
+        ;
+
+        
+    
+    
+            var circle_marker_c7c35f85e2f60d64d48f97534a72bf7c = L.circleMarker(
+                [50.6450944, 5.5736112],
+                {"bubblingMouseEvents": true, "color": "lightblue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightblue", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_7cd2aa0ffb1160df9ebfe8e56e16bebb = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_fbe72173fc0f09ae925de3ffd3d4a35f = $(`<div id="html_fbe72173fc0f09ae925de3ffd3d4a35f" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Bry, Theodor de; Anonym, niederländisch, 16. Jahrhundert; Anonym; Zutman, Lambert<br><b>Count:</b> 4</div>`)[0];
+                popup_7cd2aa0ffb1160df9ebfe8e56e16bebb.setContent(html_fbe72173fc0f09ae925de3ffd3d4a35f);
+            
+        
+
+        circle_marker_c7c35f85e2f60d64d48f97534a72bf7c.bindPopup(popup_7cd2aa0ffb1160df9ebfe8e56e16bebb)
+        ;
+
+        
+    
+    
+            var circle_marker_30ef5f3cf57c20f6b0501b4b9d9ca0bb = L.circleMarker(
+                [45.4641943, 9.1896346],
+                {"bubblingMouseEvents": true, "color": "lightblue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightblue", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_785eabb60f432c68664555b2fc0dcf37 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2d3271aca5c922ff8f60442788447efd = $(`<div id="html_2d3271aca5c922ff8f60442788447efd" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 16. Jahrhundert; Delaune, Étienne<br><b>Count:</b> 3</div>`)[0];
+                popup_785eabb60f432c68664555b2fc0dcf37.setContent(html_2d3271aca5c922ff8f60442788447efd);
+            
+        
+
+        circle_marker_30ef5f3cf57c20f6b0501b4b9d9ca0bb.bindPopup(popup_785eabb60f432c68664555b2fc0dcf37)
+        ;
+
+        
+    
+    
+            var circle_marker_1863fadec94b5a3b79dfa2e7361a6e1d = L.circleMarker(
+                [45.1692628, 10.6708365],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_dd2823b9cebe41240813aed6f52fc269 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_b221d94cce72085ea8263ecabbe11c4b = $(`<div id="html_b221d94cce72085ea8263ecabbe11c4b" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Andreani, Andrea; Anonym<br><b>Count:</b> 2</div>`)[0];
+                popup_dd2823b9cebe41240813aed6f52fc269.setContent(html_b221d94cce72085ea8263ecabbe11c4b);
+            
+        
+
+        circle_marker_1863fadec94b5a3b79dfa2e7361a6e1d.bindPopup(popup_dd2823b9cebe41240813aed6f52fc269)
+        ;
+
+        
+    
+    
+            var circle_marker_0f3e9c98870a66837ed07f60fee8c1c9 = L.circleMarker(
+                [51.0281381, 4.4803453],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_504c99c8b4f53f6259559f4d8566c340 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_df077a170807a6cc94d96156fcabf141 = $(`<div id="html_df077a170807a6cc94d96156fcabf141" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Borcht, Petrus van der<br><b>Count:</b> 1</div>`)[0];
+                popup_504c99c8b4f53f6259559f4d8566c340.setContent(html_df077a170807a6cc94d96156fcabf141);
+            
+        
+
+        circle_marker_0f3e9c98870a66837ed07f60fee8c1c9.bindPopup(popup_504c99c8b4f53f6259559f4d8566c340)
+        ;
+
+        
+    
+    
+            var circle_marker_43eb4600a25787a0f634514dbe7b6ef0 = L.circleMarker(
+                [51.3564413, 11.996148],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_d6207d668332b6db39bff3b584f8d47b = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_c175cee6aae8a667958b1c5ea9e6f269 = $(`<div id="html_c175cee6aae8a667958b1c5ea9e6f269" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Monogrammist CF<br><b>Count:</b> 1</div>`)[0];
+                popup_d6207d668332b6db39bff3b584f8d47b.setContent(html_c175cee6aae8a667958b1c5ea9e6f269);
+            
+        
+
+        circle_marker_43eb4600a25787a0f634514dbe7b6ef0.bindPopup(popup_d6207d668332b6db39bff3b584f8d47b)
+        ;
+
+        
+    
+    
+            var circle_marker_c7184232b5234fdaec9e2ce4e2f218af = L.circleMarker(
+                [50.9498382, 3.2888527],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_a5bf6a4b394491e854db88b3fc1cc161 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_59d019b2b768af91611389af101f764b = $(`<div id="html_59d019b2b768af91611389af101f764b" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Mander, Karel van<br><b>Count:</b> 1</div>`)[0];
+                popup_a5bf6a4b394491e854db88b3fc1cc161.setContent(html_59d019b2b768af91611389af101f764b);
+            
+        
+
+        circle_marker_c7184232b5234fdaec9e2ce4e2f218af.bindPopup(popup_a5bf6a4b394491e854db88b3fc1cc161)
+        ;
+
+        
+    
+    
+            var circle_marker_4162868e3ff96179a8c0beb804c68ff9 = L.circleMarker(
+                [48.1371079, 11.5753822],
+                {"bubblingMouseEvents": true, "color": "lightblue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightblue", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_19dc976260f44a42309d12f4291e3a29 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_6d6963583aa493be9cff1eb3840e3e7b = $(`<div id="html_6d6963583aa493be9cff1eb3840e3e7b" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 16. Jahrhundert; Schwarz, Christoph; Hogenberg, Nikolaus<br><b>Count:</b> 3</div>`)[0];
+                popup_19dc976260f44a42309d12f4291e3a29.setContent(html_6d6963583aa493be9cff1eb3840e3e7b);
+            
+        
+
+        circle_marker_4162868e3ff96179a8c0beb804c68ff9.bindPopup(popup_19dc976260f44a42309d12f4291e3a29)
+        ;
+
+        
+    
+    
+            var circle_marker_739f1887dda432a3b883e114d2d4ed35 = L.circleMarker(
+                [51.360001, 14.965716],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_e7429cf5e8ebaae93c4383997761c5c8 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_9205c7df5fa1a998021f58216ccd0732 = $(`<div id="html_9205c7df5fa1a998021f58216ccd0732" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym; Jenichen, Balthasar<br><b>Count:</b> 2</div>`)[0];
+                popup_e7429cf5e8ebaae93c4383997761c5c8.setContent(html_9205c7df5fa1a998021f58216ccd0732);
+            
+        
+
+        circle_marker_739f1887dda432a3b883e114d2d4ed35.bindPopup(popup_e7429cf5e8ebaae93c4383997761c5c8)
+        ;
+
+        
+    
+    
+            var circle_marker_f1fa8277a9ad74ceb1870b058908d733 = L.circleMarker(
+                [51.8474946, 5.8637771],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_67ada0514cf48e044968a67d6f739e24 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_efb6100d1ba804cd25675563c9adbf94 = $(`<div id="html_efb6100d1ba804cd25675563c9adbf94" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 16. Jahrhundert; Anonym, niederländisch, 16. Jahrhundert<br><b>Count:</b> 2</div>`)[0];
+                popup_67ada0514cf48e044968a67d6f739e24.setContent(html_efb6100d1ba804cd25675563c9adbf94);
+            
+        
+
+        circle_marker_f1fa8277a9ad74ceb1870b058908d733.bindPopup(popup_67ada0514cf48e044968a67d6f739e24)
+        ;
+
+        
+    
+    
+            var circle_marker_3228560bc1cea7206b63c6f7d9f2409a = L.circleMarker(
+                [49.453872, 11.077298],
+                {"bubblingMouseEvents": true, "color": "darkred", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "darkred", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_60ac9242b7f13a8d33ff2a215ecc0584 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_98d718d9ded5d777f5b36f963bce46fb = $(`<div id="html_98d718d9ded5d777f5b36f963bce46fb" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym; Anonym, deutsch, 16. Jahrhundert; Beham, Sebald; Monogrammist ATF; Monogrammist BSB; Monogrammist CG III.; Monogrammist HD; Monogrammist R.K.F.; Monogrammist RB; Anonym, 16. Jahrhundert; Anonym, italienisch, 16. Jahrhundert; Anonym, niederländisch, 16. Jahrhundert; Meister MTR; Monogrammist AF; Monogrammist AG; Monogrammist AV; Monogrammist B; Monogrammist BG; Monogrammist FT; Monogrammist GH; Monogrammist HBIS; Monogrammist HH I; Monogrammist HR; Monogrammist L; Monogrammist MS; Pothof, Johan; Stempelius, D. G.; Valgrisi, Pietro; Solis, Virgil; Solis, Nikolaus<br><b>Count:</b> 37</div>`)[0];
+                popup_60ac9242b7f13a8d33ff2a215ecc0584.setContent(html_98d718d9ded5d777f5b36f963bce46fb);
+            
+        
+
+        circle_marker_3228560bc1cea7206b63c6f7d9f2409a.bindPopup(popup_60ac9242b7f13a8d33ff2a215ecc0584)
+        ;
+
+        
+    
+    
+            var circle_marker_c8fac1dce614699f6bdd57ac017ac9f7 = L.circleMarker(
+                [50.2062948, 8.5461079],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_28224425ee3721bb09b4c90d920b1581 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_ec13528c1e9f53b4dccf53bdb6dc7f62 = $(`<div id="html_ec13528c1e9f53b4dccf53bdb6dc7f62" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 16. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_28224425ee3721bb09b4c90d920b1581.setContent(html_ec13528c1e9f53b4dccf53bdb6dc7f62);
+            
+        
+
+        circle_marker_c8fac1dce614699f6bdd57ac017ac9f7.bindPopup(popup_28224425ee3721bb09b4c90d920b1581)
+        ;
+
+        
+    
+    
+            var circle_marker_a42186805f29a06cbab12bc71a2ef6c4 = L.circleMarker(
+                [50.1238327, 10.5336427],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_c0bac9b349bb07760b25736226b7a2bd = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_0fce41d22834e789c2729a1dc26752b8 = $(`<div id="html_0fce41d22834e789c2729a1dc26752b8" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Schultes, Hans<br><b>Count:</b> 1</div>`)[0];
+                popup_c0bac9b349bb07760b25736226b7a2bd.setContent(html_0fce41d22834e789c2729a1dc26752b8);
+            
+        
+
+        circle_marker_a42186805f29a06cbab12bc71a2ef6c4.bindPopup(popup_c0bac9b349bb07760b25736226b7a2bd)
+        ;
+
+        
+    
+    
+            var circle_marker_248b25bc1ec4e34d0142fa163b0b6e05 = L.circleMarker(
+                [51.7177044, 8.752653],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_727524e0fe3324746712baeecbd04b1f = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_3480110a6d1b920bac53b983e86d7960 = $(`<div id="html_3480110a6d1b920bac53b983e86d7960" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Aldegrever, Heinrich; Anonym; Anonym, deutsch, 16. Jahrhundert; Meister mit den Pferdeköpfen; Monogrammist BH; Monogrammist CV; Monogrammist ID<br><b>Count:</b> 7</div>`)[0];
+                popup_727524e0fe3324746712baeecbd04b1f.setContent(html_3480110a6d1b920bac53b983e86d7960);
+            
+        
+
+        circle_marker_248b25bc1ec4e34d0142fa163b0b6e05.bindPopup(popup_727524e0fe3324746712baeecbd04b1f)
+        ;
+
+        
+    
+    
+            var circle_marker_6f0147f10b4fbea10deb9623c7cc986a = L.circleMarker(
+                [45.4077172, 11.8734455],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_ef3766d246fe7858af1021a5de6f5c23 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_180aded766c293eb6bc3f495401ad11b = $(`<div id="html_180aded766c293eb6bc3f495401ad11b" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 16. Jahrhundert; Anonym, niederländisch, 16. Jahrhundert<br><b>Count:</b> 2</div>`)[0];
+                popup_ef3766d246fe7858af1021a5de6f5c23.setContent(html_180aded766c293eb6bc3f495401ad11b);
+            
+        
+
+        circle_marker_6f0147f10b4fbea10deb9623c7cc986a.bindPopup(popup_ef3766d246fe7858af1021a5de6f5c23)
+        ;
+
+        
+    
+    
+            var circle_marker_ca3f2b074a37be2546e8fa62e47aa47b = L.circleMarker(
+                [48.8588897, 2.320041],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_b0b112aec9bce206222a531e4244545c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_12a3ea3bc2c672eba36c86cdd169a8ed = $(`<div id="html_12a3ea3bc2c672eba36c86cdd169a8ed" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Androuet du Cerceau, Jacques; Anonym, französisch, 16. Jahrhundert<br><b>Count:</b> 2</div>`)[0];
+                popup_b0b112aec9bce206222a531e4244545c.setContent(html_12a3ea3bc2c672eba36c86cdd169a8ed);
+            
+        
+
+        circle_marker_ca3f2b074a37be2546e8fa62e47aa47b.bindPopup(popup_b0b112aec9bce206222a531e4244545c)
+        ;
+
+        
+    
+    
+            var circle_marker_a7a3be7fdc027f19493fbe0caae54dc2 = L.circleMarker(
+                [44.6952006, 10.0979869],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_917ef4ea1fa69af399e287221cadef8d = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_317a3f19c9411015013f4da3be447c42 = $(`<div id="html_317a3f19c9411015013f4da3be447c42" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Parmigianino; Vico, Enea<br><b>Count:</b> 2</div>`)[0];
+                popup_917ef4ea1fa69af399e287221cadef8d.setContent(html_317a3f19c9411015013f4da3be447c42);
+            
+        
+
+        circle_marker_a7a3be7fdc027f19493fbe0caae54dc2.bindPopup(popup_917ef4ea1fa69af399e287221cadef8d)
+        ;
+
+        
+    
+    
+            var circle_marker_09c97e8884e2c5223c5d9695c6a4376c = L.circleMarker(
+                [45.9562503, 12.6597197],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_e146f7e94ad6779d673d15a6fe2f4b9f = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_9bd8dd8737f26e61aa53540fb14d49ba = $(`<div id="html_9bd8dd8737f26e61aa53540fb14d49ba" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, niederländisch, 16. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_e146f7e94ad6779d673d15a6fe2f4b9f.setContent(html_9bd8dd8737f26e61aa53540fb14d49ba);
+            
+        
+
+        circle_marker_09c97e8884e2c5223c5d9695c6a4376c.bindPopup(popup_e146f7e94ad6779d673d15a6fe2f4b9f)
+        ;
+
+        
+    
+    
+            var circle_marker_801c45ab22bc2f24d3de83aad092fd3e = L.circleMarker(
+                [48.1516988, 17.1093063],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_2aba25f42eb27ab2eccd732b91603c1a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_26b4cd0e571d493b43b6c56b362f55dd = $(`<div id="html_26b4cd0e571d493b43b6c56b362f55dd" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym; Brun, Franz Isaac<br><b>Count:</b> 2</div>`)[0];
+                popup_2aba25f42eb27ab2eccd732b91603c1a.setContent(html_26b4cd0e571d493b43b6c56b362f55dd);
+            
+        
+
+        circle_marker_801c45ab22bc2f24d3de83aad092fd3e.bindPopup(popup_2aba25f42eb27ab2eccd732b91603c1a)
+        ;
+
+        
+    
+    
+            var circle_marker_76a61499df07330d2205a8f9e2bc69bf = L.circleMarker(
+                [49.0195333, 12.0974869],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_e0184c8943a6c6622452a41678a949d7 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_73fff1318a3ec03fece1ad3e85155936 = $(`<div id="html_73fff1318a3ec03fece1ad3e85155936" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 16. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_e0184c8943a6c6622452a41678a949d7.setContent(html_73fff1318a3ec03fece1ad3e85155936);
+            
+        
+
+        circle_marker_76a61499df07330d2205a8f9e2bc69bf.bindPopup(popup_e0184c8943a6c6622452a41678a949d7)
+        ;
+
+        
+    
+    
+            var circle_marker_5958cc9059e4c4d3f91ad4495de9cc18 = L.circleMarker(
+                [48.4919508, 9.2114144],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_92170678dc031a2c0704e10c9929d16e = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_ae38883dd5399c534499885efc860890 = $(`<div id="html_ae38883dd5399c534499885efc860890" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 16. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_92170678dc031a2c0704e10c9929d16e.setContent(html_ae38883dd5399c534499885efc860890);
+            
+        
+
+        circle_marker_5958cc9059e4c4d3f91ad4495de9cc18.bindPopup(popup_92170678dc031a2c0704e10c9929d16e)
+        ;
+
+        
+    
+    
+            var circle_marker_839e7a0c40ef945a6575e2d8ed2497e7 = L.circleMarker(
+                [47.3577, 0.739923],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_9f5cd1f76e2cb5ef11842a6835817957 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_01a88c5dde5bfcb234f4a0f82a4b394f = $(`<div id="html_01a88c5dde5bfcb234f4a0f82a4b394f" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Monogrammist PB<br><b>Count:</b> 1</div>`)[0];
+                popup_9f5cd1f76e2cb5ef11842a6835817957.setContent(html_01a88c5dde5bfcb234f4a0f82a4b394f);
+            
+        
+
+        circle_marker_839e7a0c40ef945a6575e2d8ed2497e7.bindPopup(popup_9f5cd1f76e2cb5ef11842a6835817957)
+        ;
+
+        
+    
+    
+            var circle_marker_8837f57884ea8f259c0b9e48255784ed = L.circleMarker(
+                [47.6960491, 8.634513],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_46f5ddeeac465e60e63ee873952f7004 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_01be222d8e6db7a999b3b9a8ab3d7772 = $(`<div id="html_01be222d8e6db7a999b3b9a8ab3d7772" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Stimmer, Hans Christoffel; Anonym, schweizerisch, 16. Jahrhundert; Monogrammist von 1557; Stimmer, Tobias; Anonym, deutsch, 16. Jahrhundert<br><b>Count:</b> 5</div>`)[0];
+                popup_46f5ddeeac465e60e63ee873952f7004.setContent(html_01be222d8e6db7a999b3b9a8ab3d7772);
+            
+        
+
+        circle_marker_8837f57884ea8f259c0b9e48255784ed.bindPopup(popup_46f5ddeeac465e60e63ee873952f7004)
+        ;
+
+        
+    
+    
+            var circle_marker_ec34f2c3dfc00e09dc358e973b4250e3 = L.circleMarker(
+                [47.31874, 7.6698284],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_ca769975d688071e6331c188275396b4 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_fbf863a04b37fff5e5b478e50dac9137 = $(`<div id="html_fbf863a04b37fff5e5b478e50dac9137" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 16. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_ca769975d688071e6331c188275396b4.setContent(html_fbf863a04b37fff5e5b478e50dac9137);
+            
+        
+
+        circle_marker_ec34f2c3dfc00e09dc358e973b4250e3.bindPopup(popup_ca769975d688071e6331c188275396b4)
+        ;
+
+        
+    
+    
+            var circle_marker_d06e9277e54c2aaa0620569738615993 = L.circleMarker(
+                [48.584614, 7.7507127],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_1dea80062af40357978de4ec7a5d762a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_504d21435e2f2acc21d550b894a400b1 = $(`<div id="html_504d21435e2f2acc21d550b894a400b1" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 16. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_1dea80062af40357978de4ec7a5d762a.setContent(html_504d21435e2f2acc21d550b894a400b1);
+            
+        
+
+        circle_marker_d06e9277e54c2aaa0620569738615993.bindPopup(popup_1dea80062af40357978de4ec7a5d762a)
+        ;
+
+        
+    
+    
+            var circle_marker_3f6ef1e79efff9c56aa5012a5fcdf342 = L.circleMarker(
+                [43.7340647, 15.8944767],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_0afab63d1edcd6c25505bca8eea043e9 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_7aadc2865a42aa8e2e177103eec4e062 = $(`<div id="html_7aadc2865a42aa8e2e177103eec4e062" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Rota, Martin<br><b>Count:</b> 1</div>`)[0];
+                popup_0afab63d1edcd6c25505bca8eea043e9.setContent(html_7aadc2865a42aa8e2e177103eec4e062);
+            
+        
+
+        circle_marker_3f6ef1e79efff9c56aa5012a5fcdf342.bindPopup(popup_0afab63d1edcd6c25505bca8eea043e9)
+        ;
+
+        
+    
+    
+            var circle_marker_c6262d2daad9e92b56d59e32ae6a848f = L.circleMarker(
+                [43.7262608, 12.6363135],
+                {"bubblingMouseEvents": true, "color": "lightblue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightblue", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_b4d1bdaf99a890b15cb3bba136cb6743 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_7df988f91195b5348a4e01cf5313b58a = $(`<div id="html_7df988f91195b5348a4e01cf5313b58a" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, französisch, 16. Jahrhundert; Monogrammist FG; Anonym, niederländisch, 16. Jahrhundert; Barocci, Federico<br><b>Count:</b> 4</div>`)[0];
+                popup_b4d1bdaf99a890b15cb3bba136cb6743.setContent(html_7df988f91195b5348a4e01cf5313b58a);
+            
+        
+
+        circle_marker_c6262d2daad9e92b56d59e32ae6a848f.bindPopup(popup_b4d1bdaf99a890b15cb3bba136cb6743)
+        ;
+
+        
+    
+    
+            var circle_marker_5853a0371f0fa6932cac42a1e4f9004c = L.circleMarker(
+                [50.350795, 8.5231684],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_0d48788c94c3711cbb3650748d2aa79a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_e09a9893a32ef1c81d2d6252da7d1da5 = $(`<div id="html_e09a9893a32ef1c81d2d6252da7d1da5" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Krafft, Johann<br><b>Count:</b> 1</div>`)[0];
+                popup_0d48788c94c3711cbb3650748d2aa79a.setContent(html_e09a9893a32ef1c81d2d6252da7d1da5);
+            
+        
+
+        circle_marker_5853a0371f0fa6932cac42a1e4f9004c.bindPopup(popup_0d48788c94c3711cbb3650748d2aa79a)
+        ;
+
+        
+    
+    
+            var circle_marker_fa1d7be05f4a04ab7be1703066e42062 = L.circleMarker(
+                [52.0907006, 5.1215634],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_680cd03d42c235efdd3cc2d050d67dcd = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_29b1a2009f2111779079ef2aad7a0ced = $(`<div id="html_29b1a2009f2111779079ef2aad7a0ced" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, niederländisch, 16. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_680cd03d42c235efdd3cc2d050d67dcd.setContent(html_29b1a2009f2111779079ef2aad7a0ced);
+            
+        
+
+        circle_marker_fa1d7be05f4a04ab7be1703066e42062.bindPopup(popup_680cd03d42c235efdd3cc2d050d67dcd)
+        ;
+
+        
+    
+    
+            var circle_marker_e6dd6ec78c4df8e384e8cc848690f22d = L.circleMarker(
+                [44.9267857, 10.520223],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_f985de057b069c1f5bfcb9663cb77ec0 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_098b7e9e3a6d5bbc8d004d9c00d45f2b = $(`<div id="html_098b7e9e3a6d5bbc8d004d9c00d45f2b" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Mazzola Bedoli, Girolamo<br><b>Count:</b> 1</div>`)[0];
+                popup_f985de057b069c1f5bfcb9663cb77ec0.setContent(html_098b7e9e3a6d5bbc8d004d9c00d45f2b);
+            
+        
+
+        circle_marker_e6dd6ec78c4df8e384e8cc848690f22d.bindPopup(popup_f985de057b069c1f5bfcb9663cb77ec0)
+        ;
+
+        
+    
+    
+            var circle_marker_aa7b9f7c542bce24817b2a8b2e5e1daf = L.circleMarker(
+                [43.400337, 10.860019],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_c0f2f37ca202cea996d4b1390e4a4c5e = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a3593a2dc02096c06c10a14a38ba59f3 = $(`<div id="html_a3593a2dc02096c06c10a14a38ba59f3" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Daniele, da Volterra<br><b>Count:</b> 1</div>`)[0];
+                popup_c0f2f37ca202cea996d4b1390e4a4c5e.setContent(html_a3593a2dc02096c06c10a14a38ba59f3);
+            
+        
+
+        circle_marker_aa7b9f7c542bce24817b2a8b2e5e1daf.bindPopup(popup_c0f2f37ca202cea996d4b1390e4a4c5e)
+        ;
+
+        
+    
+    
+            var circle_marker_16e823a07bf212a8b6ae89cb89bdb129 = L.circleMarker(
+                [48.8870756, 10.476036],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_36d7c7afb72d9e64245dea846ffe9a14 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a58b12620d15b2ef0a653b8031808b34 = $(`<div id="html_a58b12620d15b2ef0a653b8031808b34" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, niederländisch, 16. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_36d7c7afb72d9e64245dea846ffe9a14.setContent(html_a58b12620d15b2ef0a653b8031808b34);
+            
+        
+
+        circle_marker_16e823a07bf212a8b6ae89cb89bdb129.bindPopup(popup_36d7c7afb72d9e64245dea846ffe9a14)
+        ;
+
+        
+    
+    
+            var circle_marker_f80add587f10bac900b0a7601371c540 = L.circleMarker(
+                [48.2083537, 16.3725042],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_2a28b278c1d92959c6f0b3dd7aec6eb3 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_e15d1df8c7970d7aad87ee4266e8ec26 = $(`<div id="html_e15d1df8c7970d7aad87ee4266e8ec26" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 16. Jahrhundert; Jamnitzer, Wenzel<br><b>Count:</b> 2</div>`)[0];
+                popup_2a28b278c1d92959c6f0b3dd7aec6eb3.setContent(html_e15d1df8c7970d7aad87ee4266e8ec26);
+            
+        
+
+        circle_marker_f80add587f10bac900b0a7601371c540.bindPopup(popup_2a28b278c1d92959c6f0b3dd7aec6eb3)
+        ;
+
+        
+    
+    
+            var circle_marker_cc52f19f414c2a2a95cc5224c566b6bd = L.circleMarker(
+                [51.8666527, 12.646761],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_14ee4897168632325241dcdc3add40cd = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_54d528de80bfb510699de74b043f4a7d = $(`<div id="html_54d528de80bfb510699de74b043f4a7d" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 16. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_14ee4897168632325241dcdc3add40cd.setContent(html_54d528de80bfb510699de74b043f4a7d);
+            
+        
+
+        circle_marker_cc52f19f414c2a2a95cc5224c566b6bd.bindPopup(popup_14ee4897168632325241dcdc3add40cd)
+        ;
+
+        
+    
+    
+            var circle_marker_5759ebf1533b358609a0a00b91b8e5e9 = L.circleMarker(
+                [49.6302618, 8.3620898],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_7690cc51306331c9687bb3c2d173826e = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_88ac4813ab9593c64876aa151698f4dc = $(`<div id="html_88ac4813ab9593c64876aa151698f4dc" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Woensam, Anton<br><b>Count:</b> 1</div>`)[0];
+                popup_7690cc51306331c9687bb3c2d173826e.setContent(html_88ac4813ab9593c64876aa151698f4dc);
+            
+        
+
+        circle_marker_5759ebf1533b358609a0a00b91b8e5e9.bindPopup(popup_7690cc51306331c9687bb3c2d173826e)
+        ;
+
+        
+    
+    
+            var circle_marker_9347327ca1a60a926d981d4f6c5bb9ac = L.circleMarker(
+                [47.3744489, 8.5410422],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_c84a2c22a68216de707febdc0382811d);
+        
+    
+        var popup_1bfb195b842c64c5a51c26253e76c9aa = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_7353168febf80ce8ae406ff20a1c9057 = $(`<div id="html_7353168febf80ce8ae406ff20a1c9057" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Amman, Jost; Monogrammist HF<br><b>Count:</b> 2</div>`)[0];
+                popup_1bfb195b842c64c5a51c26253e76c9aa.setContent(html_7353168febf80ce8ae406ff20a1c9057);
+            
+        
+
+        circle_marker_9347327ca1a60a926d981d4f6c5bb9ac.bindPopup(popup_1bfb195b842c64c5a51c26253e76c9aa)
+        ;
+
+        
+    
+</script>
+</html>
