@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_3c847b286149d9ba51f5aa4ace0cb079 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_3c847b286149d9ba51f5aa4ace0cb079" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_3c847b286149d9ba51f5aa4ace0cb079 = L.map(
+                "map_3c847b286149d9ba51f5aa4ace0cb079",
+                {
+                    center: [50.0, 10.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 4,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_8cea3f979ce64b194b0be88905ad9eec = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_8cea3f979ce64b194b0be88905ad9eec.addTo(map_3c847b286149d9ba51f5aa4ace0cb079);
+        
+    
+            var circle_marker_8b4b27f54ea621110ec638a3d4e99e2b = L.circleMarker(
+                [48.0777517, 7.3579641],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_3c847b286149d9ba51f5aa4ace0cb079);
+        
+    
+        var popup_6821bd385e5fcc314e4ade683260ad16 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_bc72ee756cdfa04aad808996b513a21a = $(`<div id="html_bc72ee756cdfa04aad808996b513a21a" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym; Anonym, deutsch; Anonym, deutsch, 15. Jahrhundert; Monogrammist AG; Schongauer, Martin<br><b>Count:</b> 5</div>`)[0];
+                popup_6821bd385e5fcc314e4ade683260ad16.setContent(html_bc72ee756cdfa04aad808996b513a21a);
+            
+        
+
+        circle_marker_8b4b27f54ea621110ec638a3d4e99e2b.bindPopup(popup_6821bd385e5fcc314e4ade683260ad16)
+        ;
+
+        
+    
+    
+            var circle_marker_66c9db6c26d562af11af1a27f5b468ee = L.circleMarker(
+                [50.3533278, 7.5943951],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_3c847b286149d9ba51f5aa4ace0cb079);
+        
+    
+        var popup_e9a06580c3b30f7f760a6244d0ba6623 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_20620a2b60ffc4d3683d921e850ce969 = $(`<div id="html_20620a2b60ffc4d3683d921e850ce969" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, französisch, 15. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_e9a06580c3b30f7f760a6244d0ba6623.setContent(html_20620a2b60ffc4d3683d921e850ce969);
+            
+        
+
+        circle_marker_66c9db6c26d562af11af1a27f5b468ee.bindPopup(popup_e9a06580c3b30f7f760a6244d0ba6623)
+        ;
+
+        
+    
+    
+            var circle_marker_913da11c248f1c2e526c82ae7eca37b8 = L.circleMarker(
+                [45.1692628, 10.6708365],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_3c847b286149d9ba51f5aa4ace0cb079);
+        
+    
+        var popup_823dd86c19af469ca521124570e25492 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_1b2206b299ee8ce7fe202a8a823b559b = $(`<div id="html_1b2206b299ee8ce7fe202a8a823b559b" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Zoan Andrea<br><b>Count:</b> 1</div>`)[0];
+                popup_823dd86c19af469ca521124570e25492.setContent(html_1b2206b299ee8ce7fe202a8a823b559b);
+            
+        
+
+        circle_marker_913da11c248f1c2e526c82ae7eca37b8.bindPopup(popup_823dd86c19af469ca521124570e25492)
+        ;
+
+        
+    
+    
+            var circle_marker_8b596065eede6d9a08261d3468b84d50 = L.circleMarker(
+                [48.9050626, 9.0808114],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_3c847b286149d9ba51f5aa4ace0cb079);
+        
+    
+        var popup_459495387ce85d286789dd7b793932bb = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_3862468982519a9e727ad228a6fb9683 = $(`<div id="html_3862468982519a9e727ad228a6fb9683" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 15. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_459495387ce85d286789dd7b793932bb.setContent(html_3862468982519a9e727ad228a6fb9683);
+            
+        
+
+        circle_marker_8b596065eede6d9a08261d3468b84d50.bindPopup(popup_459495387ce85d286789dd7b793932bb)
+        ;
+
+        
+    
+    
+            var circle_marker_c841cd4b4b76c7845d0220aa5157da90 = L.circleMarker(
+                [49.453872, 11.077298],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_3c847b286149d9ba51f5aa4ace0cb079);
+        
+    
+        var popup_866e2fcf021a79f6410601069f7249e9 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_4334df41536feabab6749f5e752fdde2 = $(`<div id="html_4334df41536feabab6749f5e752fdde2" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 15. Jahrhundert; Wolgemut, Michael<br><b>Count:</b> 3</div>`)[0];
+                popup_866e2fcf021a79f6410601069f7249e9.setContent(html_4334df41536feabab6749f5e752fdde2);
+            
+        
+
+        circle_marker_c841cd4b4b76c7845d0220aa5157da90.bindPopup(popup_866e2fcf021a79f6410601069f7249e9)
+        ;
+
+        
+    
+    
+            var circle_marker_2656e38f2036b018c9b7263ca96b56e6 = L.circleMarker(
+                [45.4077172, 11.8734455],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_3c847b286149d9ba51f5aa4ace0cb079);
+        
+    
+        var popup_7a2415a96a1ea9956f956665245b7fe8 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_786b0239f0d35c6d673393f40d36a5bb = $(`<div id="html_786b0239f0d35c6d673393f40d36a5bb" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Mantegna, Andrea<br><b>Count:</b> 1</div>`)[0];
+                popup_7a2415a96a1ea9956f956665245b7fe8.setContent(html_786b0239f0d35c6d673393f40d36a5bb);
+            
+        
+
+        circle_marker_2656e38f2036b018c9b7263ca96b56e6.bindPopup(popup_7a2415a96a1ea9956f956665245b7fe8)
+        ;
+
+        
+    
+    
+            var circle_marker_3a0f948f9d587250c0684d7081a094ea = L.circleMarker(
+                [48.4919508, 9.2114144],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_3c847b286149d9ba51f5aa4ace0cb079);
+        
+    
+        var popup_73049ead37b3f5f9784beadc67a87d8a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_94856394fa1c1e317dcc50fc9914ad6e = $(`<div id="html_94856394fa1c1e317dcc50fc9914ad6e" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 15. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_73049ead37b3f5f9784beadc67a87d8a.setContent(html_94856394fa1c1e317dcc50fc9914ad6e);
+            
+        
+
+        circle_marker_3a0f948f9d587250c0684d7081a094ea.bindPopup(popup_73049ead37b3f5f9784beadc67a87d8a)
+        ;
+
+        
+    
+    
+            var circle_marker_5ee4013473c71a4169eea0ff18bd6274 = L.circleMarker(
+                [48.584614, 7.7507127],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_3c847b286149d9ba51f5aa4ace0cb079);
+        
+    
+        var popup_466162b75188adb634f8eb57bde24e0a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2717b85346223970ef4bb750b76e1651 = $(`<div id="html_2717b85346223970ef4bb750b76e1651" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Anonym, deutsch, 15. Jahrhundert<br><b>Count:</b> 1</div>`)[0];
+                popup_466162b75188adb634f8eb57bde24e0a.setContent(html_2717b85346223970ef4bb750b76e1651);
+            
+        
+
+        circle_marker_5ee4013473c71a4169eea0ff18bd6274.bindPopup(popup_466162b75188adb634f8eb57bde24e0a)
+        ;
+
+        
+    
+    
+            var circle_marker_8d8cfbb90cf242848f58bf3c084f08a8 = L.circleMarker(
+                [52.0907006, 5.1215634],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_3c847b286149d9ba51f5aa4ace0cb079);
+        
+    
+        var popup_bd280703045c8ec8f8329df4f07a1de3 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_87c63dd18d7da1a6eed730ba7d3b0d97 = $(`<div id="html_87c63dd18d7da1a6eed730ba7d3b0d97" style="width: 100.0%; height: 100.0%;"><b>Artists:</b> Reuwich, Erhard<br><b>Count:</b> 1</div>`)[0];
+                popup_bd280703045c8ec8f8329df4f07a1de3.setContent(html_87c63dd18d7da1a6eed730ba7d3b0d97);
+            
+        
+
+        circle_marker_8d8cfbb90cf242848f58bf3c084f08a8.bindPopup(popup_bd280703045c8ec8f8329df4f07a1de3)
+        ;
+
+        
+    
+</script>
+</html>
